@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:matrix-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -13,17 +14,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Comp
-L MCU_Microchip_AVR:AT90USB1286-AU U?
-U 1 1 654492B5
-P 5850 3100
-F 0 "U?" H 5850 1011 50  0000 C CNN
-F 1 "AT90USB1286-AU" H 5850 920 50  0000 C CNN
-F 2 "Package_QFP:TQFP-64_14x14mm_P0.8mm" H 5850 3100 50  0001 C CIN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/doc7593.pdf" H 5850 3100 50  0001 C CNN
-	1    5850 3100
-	1    0    0    -1  
-$EndComp
 Text Notes 7350 7500 0    50   ~ 0
 Matrix MK. I
 $Comp
@@ -39,14 +29,6 @@ F 3 "" H 5750 1000 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	5750 1000 5750 1100
-Wire Wire Line
-	5750 1100 5850 1100
-Connection ~ 5750 1100
-Wire Wire Line
-	5850 1100 5950 1100
-Connection ~ 5850 1100
-Wire Wire Line
-	5750 5100 5850 5100
 $Comp
 L power:GND #PWR?
 U 1 1 65455351
@@ -58,9 +40,6 @@ F 3 "" H 5400 5100 50  0001 C CNN
 	1    5400 5100
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	5750 5100 5400 5100
-Connection ~ 5750 5100
 $Comp
 L Device:R_Small_US R1
 U 1 1 65459FE7
@@ -127,40 +106,14 @@ $EndComp
 Wire Wire Line
 	4950 2700 5250 2700
 $Comp
-L Device:C_Small C2
-U 1 1 65463FB4
-P 5050 2200
-F 0 "C2" V 4821 2200 50  0000 C CNN
-F 1 "10uF" V 4912 2200 50  0000 C CNN
-F 2 "" H 5050 2200 50  0001 C CNN
-F 3 "~" H 5050 2200 50  0001 C CNN
-	1    5050 2200
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	5250 2200 5150 2200
-$Comp
 L power:+5V #PWR?
 U 1 1 654659B8
-P 4750 2200
-F 0 "#PWR?" H 4750 2050 50  0001 C CNN
-F 1 "+5V" H 4765 2373 50  0000 C CNN
-F 2 "" H 4750 2200 50  0001 C CNN
-F 3 "" H 4750 2200 50  0001 C CNN
-	1    4750 2200
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	4750 2200 4950 2200
-$Comp
-L Device:C_Small C3
-U 1 1 654671A0
-P 6650 900
-F 0 "C3" H 6742 946 50  0000 L CNN
-F 1 "0.1uF" H 6742 855 50  0000 L CNN
-F 2 "" H 6650 900 50  0001 C CNN
-F 3 "~" H 6650 900 50  0001 C CNN
-	1    6650 900 
+P 4950 2200
+F 0 "#PWR?" H 4950 2050 50  0001 C CNN
+F 1 "+5V" H 4965 2373 50  0000 C CNN
+F 2 "" H 4950 2200 50  0001 C CNN
+F 3 "" H 4950 2200 50  0001 C CNN
+	1    4950 2200
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -208,10 +161,7 @@ F 3 "~" H 8650 900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6650 800  7050 800 
-Wire Wire Line
 	7050 800  7450 800 
-Connection ~ 7050 800 
 Connection ~ 7450 800 
 Wire Wire Line
 	7450 800  7650 800 
@@ -393,10 +343,10 @@ F 3 "" H 4400 1000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW?
+L Switch:SW_Push Reset
 U 1 1 6548DBEB
 P 4800 1150
-F 0 "SW?" H 4800 1435 50  0000 C CNN
+F 0 "Reset" H 4800 1435 50  0000 C CNN
 F 1 "SW_Push" H 4800 1344 50  0000 C CNN
 F 2 "" H 4800 1350 50  0001 C CNN
 F 3 "~" H 4800 1350 50  0001 C CNN
@@ -422,4 +372,53 @@ Text GLabel 4750 2500 0    50   Input ~ 0
 D-
 Text GLabel 4750 2400 0    50   Input ~ 0
 D+
+$Comp
+L power:GND #PWR?
+U 1 1 6544B4B8
+P 4750 2700
+F 0 "#PWR?" H 4750 2450 50  0001 C CNN
+F 1 "GND" H 4755 2527 50  0000 C CNN
+F 2 "" H 4750 2700 50  0001 C CNN
+F 3 "" H 4750 2700 50  0001 C CNN
+	1    4750 2700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5750 5100 5400 5100
+Wire Wire Line
+	5750 5100 5850 5100
+Connection ~ 5750 5100
+Connection ~ 5750 1100
+Wire Wire Line
+	5850 1100 5950 1100
+Wire Wire Line
+	5750 1100 5850 1100
+Connection ~ 5850 1100
+$Comp
+L MCU_Microchip_AVR:AT90USB1286-AU U?
+U 1 1 654492B5
+P 5850 3100
+F 0 "U?" H 5850 1011 50  0000 C CNN
+F 1 "AT90USB1286-AU" H 5850 920 50  0000 C CNN
+F 2 "Package_QFP:TQFP-64_14x14mm_P0.8mm" H 5850 3100 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/doc7593.pdf" H 5850 3100 50  0001 C CNN
+	1    5850 3100
+	1    0    0    -1  
+$EndComp
+Connection ~ 7050 800 
+Wire Wire Line
+	6650 800  7050 800 
+$Comp
+L Device:C_Small C2
+U 1 1 65463FB4
+P 6650 900
+F 0 "C2" V 6421 900 50  0000 C CNN
+F 1 "10uF" V 6512 900 50  0000 C CNN
+F 2 "" H 6650 900 50  0001 C CNN
+F 3 "~" H 6650 900 50  0001 C CNN
+	1    6650 900 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4950 2200 5250 2200
 $EndSCHEMATC
