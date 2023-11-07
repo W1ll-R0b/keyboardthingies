@@ -4,7 +4,7 @@ EELAYER 30 0
 EELAYER END
 $Descr User 17000 11000
 encoding utf-8
-Sheet 1 2
+Sheet 1 3
 Title ""
 Date ""
 Rev ""
@@ -14,12 +14,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Sheet
-S 800  650  11100 9550
-U 6547D7EB
-F0 "keymatrix" 50
-F1 "keymatrix.sch" 50
-$EndSheet
 Text Notes 12650 10250 0    50   ~ 0
 Matrix MK. I
 $Comp
@@ -694,7 +688,6 @@ Text GLabel 14300 4200 0    50   Input ~ 0
 RESET
 Text GLabel 16100 4450 2    50   Input ~ 0
 RESET
-NoConn ~ 12650 7450
 NoConn ~ 12650 4650
 NoConn ~ 13850 6550
 NoConn ~ 13850 6450
@@ -852,4 +845,18 @@ Text GLabel 12650 5850 0    50   Input ~ 0
 R10
 Text GLabel 12650 5950 0    50   Input ~ 0
 R11
+$Sheet
+S 800  650  6000 9750
+U 6547D7EB
+F0 "keymatrix" 50
+F1 "keymatrix.sch" 50
+$EndSheet
+$Sheet
+S 7300 700  4550 9600
+U 654946C7
+F0 "matrixrgb" 50
+F1 "matrixrgb.sch" 50
+$EndSheet
+Text GLabel 12650 7450 0    50   Input ~ 0
+RGB
 $EndSCHEMATC
