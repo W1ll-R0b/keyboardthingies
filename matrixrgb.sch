@@ -643,17 +643,6 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3450 3225 50  0001 
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B D153
-U 1 1 654EA3C9
-P 4050 3600
-F 0 "D153" H 4394 3646 50  0000 L CNN
-F 1 "WS2812B" H 4394 3555 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 4100 3300 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4150 3225 50  0001 L TNN
-	1    4050 3600
-	1    0    0    -1  
-$EndComp
-$Comp
 L LED:WS2812B D154
 U 1 1 654EA3D3
 P 4750 3600
@@ -1150,468 +1139,156 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4150 1625 50  0001 
 	1    4050 2000
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	1250 900  1600 900 
 Connection ~ 1950 900 
-Wire Wire Line
-	1950 900  2300 900 
 Connection ~ 2650 900 
-Wire Wire Line
-	2650 900  3000 900 
 Connection ~ 3350 900 
-Wire Wire Line
-	3350 900  3700 900 
 Connection ~ 4050 900 
-Wire Wire Line
-	4050 900  4400 900 
 Connection ~ 4750 900 
-Wire Wire Line
-	4750 900  5100 900 
 Connection ~ 5450 900 
-Wire Wire Line
-	5450 900  5800 900 
 Connection ~ 6150 900 
-Wire Wire Line
-	6150 900  6500 900 
 Connection ~ 6850 900 
-Wire Wire Line
-	6850 900  7200 900 
 Connection ~ 7550 900 
-Wire Wire Line
-	7550 900  7900 900 
 Connection ~ 8250 900 
-Wire Wire Line
-	8250 900  8600 900 
 Connection ~ 8950 900 
-Wire Wire Line
-	8950 900  9300 900 
 Connection ~ 9650 900 
-Wire Wire Line
-	9650 900  10000 900 
 Connection ~ 10350 900 
-Wire Wire Line
-	10350 900  10700 900 
 Connection ~ 11050 900 
-Wire Wire Line
-	11050 900  11400 900 
 Connection ~ 11750 900 
-Wire Wire Line
-	11750 900  12100 900 
-Wire Wire Line
-	1250 1700 1600 1700
 Connection ~ 1950 1700
-Wire Wire Line
-	1950 1700 2300 1700
 Connection ~ 2650 1700
-Wire Wire Line
-	2650 1700 3000 1700
 Connection ~ 3350 1700
-Wire Wire Line
-	3350 1700 3700 1700
 Connection ~ 4050 1700
-Wire Wire Line
-	4050 1700 4400 1700
 Connection ~ 4750 1700
-Wire Wire Line
-	4750 1700 5100 1700
 Connection ~ 5450 1700
-Wire Wire Line
-	5450 1700 5800 1700
 Connection ~ 6150 1700
-Wire Wire Line
-	6150 1700 6500 1700
 Connection ~ 6850 1700
-Wire Wire Line
-	6850 1700 7200 1700
 Connection ~ 7550 1700
-Wire Wire Line
-	7550 1700 7900 1700
 Connection ~ 8250 1700
-Wire Wire Line
-	8250 1700 8600 1700
 Connection ~ 8950 1700
-Wire Wire Line
-	8950 1700 9300 1700
 Connection ~ 9650 1700
 Connection ~ 11050 1700
-Wire Wire Line
-	11050 1700 11400 1700
 Connection ~ 11750 1700
-Wire Wire Line
-	11750 1700 12100 1700
-Wire Wire Line
-	1250 2500 2300 2500
 Connection ~ 2650 2500
-Wire Wire Line
-	2650 2500 3000 2500
 Connection ~ 3350 2500
-Wire Wire Line
-	3350 2500 3700 2500
 Connection ~ 4050 2500
-Wire Wire Line
-	4050 2500 4400 2500
 Connection ~ 4750 2500
-Wire Wire Line
-	4750 2500 5100 2500
 Connection ~ 5450 2500
-Wire Wire Line
-	5450 2500 5800 2500
 Connection ~ 6150 2500
-Wire Wire Line
-	6150 2500 6500 2500
 Connection ~ 6850 2500
-Wire Wire Line
-	6850 2500 7200 2500
 Connection ~ 7550 2500
-Wire Wire Line
-	7550 2500 7900 2500
 Connection ~ 8250 2500
-Wire Wire Line
-	8250 2500 8600 2500
 Connection ~ 8950 2500
-Wire Wire Line
-	8950 2500 9300 2500
 Connection ~ 9650 2500
-Wire Wire Line
-	9650 2500 10000 2500
 Connection ~ 10350 2500
-Wire Wire Line
-	10350 2500 10700 2500
 Connection ~ 11050 2500
-Wire Wire Line
-	11050 2500 11400 2500
 Connection ~ 11750 2500
-Wire Wire Line
-	11750 2500 12100 2500
-Wire Wire Line
-	1250 3300 2300 3300
 Connection ~ 2650 3300
-Wire Wire Line
-	2650 3300 3000 3300
 Connection ~ 3350 3300
-Wire Wire Line
-	3350 3300 3700 3300
-Connection ~ 4050 3300
-Wire Wire Line
-	4050 3300 4400 3300
 Connection ~ 4750 3300
-Wire Wire Line
-	4750 3300 5100 3300
 Connection ~ 5450 3300
-Wire Wire Line
-	5450 3300 5800 3300
 Connection ~ 6150 3300
-Wire Wire Line
-	6150 3300 6500 3300
 Connection ~ 6850 3300
-Wire Wire Line
-	6850 3300 7200 3300
 Connection ~ 7550 3300
-Wire Wire Line
-	7550 3300 7900 3300
 Connection ~ 8250 3300
-Wire Wire Line
-	8250 3300 8600 3300
 Connection ~ 8950 3300
-Wire Wire Line
-	8950 3300 9300 3300
 Connection ~ 9650 3300
-Wire Wire Line
-	9650 3300 10000 3300
-Wire Wire Line
-	11750 3300 12100 3300
-Wire Wire Line
-	1950 4100 2300 4100
 Connection ~ 2650 4100
-Wire Wire Line
-	2650 4100 3000 4100
 Connection ~ 3350 4100
-Wire Wire Line
-	3350 4100 3700 4100
 Connection ~ 4050 4100
-Wire Wire Line
-	4050 4100 4400 4100
 Connection ~ 4750 4100
-Wire Wire Line
-	4750 4100 5100 4100
 Connection ~ 5450 4100
-Wire Wire Line
-	5450 4100 5800 4100
 Connection ~ 6150 4100
-Wire Wire Line
-	6150 4100 6500 4100
 Connection ~ 6850 4100
-Wire Wire Line
-	6850 4100 7200 4100
 Connection ~ 7550 4100
-Wire Wire Line
-	7550 4100 7900 4100
 Connection ~ 8250 4100
-Wire Wire Line
-	8250 4100 8600 4100
 Connection ~ 8950 4100
-Wire Wire Line
-	8950 4100 10000 4100
 Connection ~ 10350 4100
-Wire Wire Line
-	10350 4100 11400 4100
-Wire Wire Line
-	1250 4900 1600 4900
 Connection ~ 1950 4900
 Connection ~ 3350 4900
 Connection ~ 5450 4900
-Wire Wire Line
-	5450 4900 6200 4900
 Connection ~ 8250 4900
-Wire Wire Line
-	8250 4900 8600 4900
 Connection ~ 8950 4900
-Wire Wire Line
-	8950 4900 9300 4900
 Connection ~ 9650 4900
-Wire Wire Line
-	9650 4900 10000 4900
 Connection ~ 10350 4900
-Wire Wire Line
-	10350 4900 10700 4900
 Connection ~ 11050 4900
-Wire Wire Line
-	11050 4900 11400 4900
 Connection ~ 11750 4900
-Wire Wire Line
-	11750 4900 12100 4900
-Wire Wire Line
-	1950 4700 2300 4700
 Connection ~ 2650 4700
-Wire Wire Line
-	2650 4700 3000 4700
 Connection ~ 3350 4700
-Wire Wire Line
-	3350 4700 3700 4700
 Connection ~ 4050 4700
-Wire Wire Line
-	4050 4700 4400 4700
 Connection ~ 4750 4700
-Wire Wire Line
-	4750 4700 5100 4700
 Connection ~ 5450 4700
-Wire Wire Line
-	5450 4700 5800 4700
 Connection ~ 6150 4700
-Wire Wire Line
-	6150 4700 6500 4700
 Connection ~ 6850 4700
-Wire Wire Line
-	6850 4700 7200 4700
 Connection ~ 7550 4700
-Wire Wire Line
-	7550 4700 7900 4700
 Connection ~ 8250 4700
-Wire Wire Line
-	8250 4700 8600 4700
 Connection ~ 8950 4700
-Wire Wire Line
-	8950 4700 10000 4700
 Connection ~ 10350 4700
-Wire Wire Line
-	10350 4700 11400 4700
-Wire Wire Line
-	2650 3900 3000 3900
 Connection ~ 3350 3900
-Wire Wire Line
-	3350 3900 3700 3900
-Connection ~ 4050 3900
-Wire Wire Line
-	4050 3900 4400 3900
 Connection ~ 4750 3900
-Wire Wire Line
-	4750 3900 5100 3900
 Connection ~ 5450 3900
-Wire Wire Line
-	5450 3900 5800 3900
 Connection ~ 6150 3900
-Wire Wire Line
-	6150 3900 6500 3900
 Connection ~ 6850 3900
-Wire Wire Line
-	6850 3900 7200 3900
 Connection ~ 7550 3900
-Wire Wire Line
-	7550 3900 7900 3900
 Connection ~ 8250 3900
-Wire Wire Line
-	8250 3900 8600 3900
 Connection ~ 8950 3900
-Wire Wire Line
-	8950 3900 9300 3900
 Connection ~ 9650 3900
-Wire Wire Line
-	9650 3900 10000 3900
 Connection ~ 10350 3900
 Connection ~ 11750 3900
-Wire Wire Line
-	11750 3900 12100 3900
-Wire Wire Line
-	2650 3900 2300 3900
 Connection ~ 2650 3900
 Connection ~ 2650 3100
-Wire Wire Line
-	2650 3100 3000 3100
 Connection ~ 3350 3100
-Wire Wire Line
-	3350 3100 3700 3100
 Connection ~ 4050 3100
-Wire Wire Line
-	4050 3100 4400 3100
 Connection ~ 4750 3100
-Wire Wire Line
-	4750 3100 5100 3100
 Connection ~ 5450 3100
-Wire Wire Line
-	5450 3100 5800 3100
 Connection ~ 6150 3100
-Wire Wire Line
-	6150 3100 6500 3100
 Connection ~ 6850 3100
-Wire Wire Line
-	6850 3100 7200 3100
 Connection ~ 7550 3100
-Wire Wire Line
-	7550 3100 7900 3100
 Connection ~ 8250 3100
-Wire Wire Line
-	8250 3100 8600 3100
 Connection ~ 8950 3100
-Wire Wire Line
-	8950 3100 9300 3100
 Connection ~ 9650 3100
-Wire Wire Line
-	9650 3100 10000 3100
 Connection ~ 10350 3100
-Wire Wire Line
-	10350 3100 10700 3100
 Connection ~ 11050 3100
-Wire Wire Line
-	11050 3100 11400 3100
 Connection ~ 11750 3100
-Wire Wire Line
-	11750 3100 12100 3100
-Wire Wire Line
-	1250 2300 1600 2300
 Connection ~ 1950 2300
-Wire Wire Line
-	1950 2300 2300 2300
 Connection ~ 2650 2300
-Wire Wire Line
-	2650 2300 3000 2300
 Connection ~ 3350 2300
-Wire Wire Line
-	3350 2300 3700 2300
 Connection ~ 4050 2300
-Wire Wire Line
-	4050 2300 4400 2300
 Connection ~ 4750 2300
-Wire Wire Line
-	4750 2300 5100 2300
 Connection ~ 5450 2300
-Wire Wire Line
-	5450 2300 5800 2300
 Connection ~ 6150 2300
-Wire Wire Line
-	6150 2300 6500 2300
 Connection ~ 6850 2300
-Wire Wire Line
-	6850 2300 7200 2300
 Connection ~ 7550 2300
-Wire Wire Line
-	7550 2300 7900 2300
 Connection ~ 8250 2300
-Wire Wire Line
-	8250 2300 8600 2300
 Connection ~ 8950 2300
-Wire Wire Line
-	8950 2300 9300 2300
 Connection ~ 9650 2300
 Connection ~ 11050 2300
-Wire Wire Line
-	11050 2300 11400 2300
 Connection ~ 11750 2300
-Wire Wire Line
-	11750 2300 12100 2300
-Wire Wire Line
-	1250 1500 1600 1500
 Connection ~ 1950 1500
-Wire Wire Line
-	1950 1500 2300 1500
 Connection ~ 2650 1500
-Wire Wire Line
-	2650 1500 3000 1500
 Connection ~ 3350 1500
-Wire Wire Line
-	3350 1500 3700 1500
 Connection ~ 4050 1500
-Wire Wire Line
-	4050 1500 4400 1500
 Connection ~ 4750 1500
-Wire Wire Line
-	4750 1500 5100 1500
 Connection ~ 5450 1500
-Wire Wire Line
-	5450 1500 5800 1500
 Connection ~ 6150 1500
-Wire Wire Line
-	6150 1500 6500 1500
 Connection ~ 6850 1500
-Wire Wire Line
-	6850 1500 7200 1500
 Connection ~ 7550 1500
-Wire Wire Line
-	7550 1500 7900 1500
 Connection ~ 8250 1500
-Wire Wire Line
-	8250 1500 8600 1500
 Connection ~ 8950 1500
-Wire Wire Line
-	8950 1500 9300 1500
 Connection ~ 9650 1500
-Wire Wire Line
-	9650 1500 10000 1500
 Connection ~ 10350 1500
-Wire Wire Line
-	10350 1500 10700 1500
 Connection ~ 11050 1500
-Wire Wire Line
-	11050 1500 11400 1500
 Connection ~ 11750 1500
-Wire Wire Line
-	11750 1500 12100 1500
-Wire Wire Line
-	1250 5500 1600 5500
 Connection ~ 1950 5500
-Wire Wire Line
-	1950 5500 3000 5500
 Connection ~ 3350 5500
 Connection ~ 5450 5500
 Wire Wire Line
 	5450 5500 6550 5500
 Connection ~ 8250 5500
-Wire Wire Line
-	8250 5500 8600 5500
 Connection ~ 8950 5500
-Wire Wire Line
-	8950 5500 9300 5500
 Connection ~ 9650 5500
-Wire Wire Line
-	9650 5500 10000 5500
 Connection ~ 10350 5500
-Wire Wire Line
-	10350 5500 10700 5500
 Connection ~ 11050 5500
-Wire Wire Line
-	11050 5500 11400 5500
 Connection ~ 11750 5500
-Wire Wire Line
-	11750 5500 12100 5500
 Wire Wire Line
 	12450 5500 13300 5500
 Wire Wire Line
@@ -1648,18 +1325,12 @@ Wire Wire Line
 	1250 900  900  900 
 Wire Wire Line
 	650  900  650  1700
-Wire Wire Line
-	650  4900 850  4900
 Connection ~ 1250 900 
 Connection ~ 1250 4900
-Wire Wire Line
-	1250 3300 800  3300
 Connection ~ 1250 3300
 Connection ~ 650  3300
 Wire Wire Line
 	650  3300 650  4100
-Wire Wire Line
-	1250 2500 800  2500
 Connection ~ 1250 2500
 Connection ~ 650  2500
 Wire Wire Line
@@ -1684,7 +1355,7 @@ L Device:C_Small C101
 U 1 1 65A21FB5
 P 900 1050
 F 0 "C101" H 992 1096 50  0000 L CNN
-F 1 "0.1uF" H 992 1005 50  0000 L CNN
+F 1 "100uF" H 992 1005 50  0000 L CNN
 F 2 "" H 900 1050 50  0001 C CNN
 F 3 "~" H 900 1050 50  0001 C CNN
 	1    900  1050
@@ -1700,370 +1371,14 @@ Wire Wire Line
 Wire Wire Line
 	900  1500 1250 1500
 Connection ~ 1250 1500
-$Comp
-L Device:C_Small C102
-U 1 1 65A76835
-P 1600 1050
-F 0 "C102" H 1692 1096 50  0000 L CNN
-F 1 "0.1uF" H 1692 1005 50  0000 L CNN
-F 2 "" H 1600 1050 50  0001 C CNN
-F 3 "~" H 1600 1050 50  0001 C CNN
-	1    1600 1050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	1600 900  1600 950 
-Connection ~ 1600 900 
-Wire Wire Line
-	1600 900  1950 900 
-Wire Wire Line
-	1600 1150 1600 1500
-Connection ~ 1600 1500
-Wire Wire Line
-	1600 1500 1950 1500
-$Comp
-L Device:C_Small C103
-U 1 1 65ACB6A3
-P 2300 1050
-F 0 "C103" H 2392 1096 50  0000 L CNN
-F 1 "0.1uF" H 2392 1005 50  0000 L CNN
-F 2 "" H 2300 1050 50  0001 C CNN
-F 3 "~" H 2300 1050 50  0001 C CNN
-	1    2300 1050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	2300 900  2300 950 
-Wire Wire Line
-	2300 1150 2300 1500
-Connection ~ 2300 900 
-Wire Wire Line
-	2300 900  2650 900 
-Connection ~ 2300 1500
-Wire Wire Line
-	2300 1500 2650 1500
-$Comp
-L Device:C_Small C104
-U 1 1 65AF5BC0
-P 3000 1050
-F 0 "C104" H 3092 1096 50  0000 L CNN
-F 1 "0.1uF" H 3092 1005 50  0000 L CNN
-F 2 "" H 3000 1050 50  0001 C CNN
-F 3 "~" H 3000 1050 50  0001 C CNN
-	1    3000 1050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	3000 900  3000 950 
-Wire Wire Line
-	3000 1150 3000 1500
-Connection ~ 3000 900 
-Wire Wire Line
-	3000 900  3350 900 
-Connection ~ 3000 1500
-Wire Wire Line
-	3000 1500 3350 1500
-$Comp
-L Device:C_Small C105
-U 1 1 65B20A94
-P 3700 1050
-F 0 "C105" H 3792 1096 50  0000 L CNN
-F 1 "0.1uF" H 3792 1005 50  0000 L CNN
-F 2 "" H 3700 1050 50  0001 C CNN
-F 3 "~" H 3700 1050 50  0001 C CNN
-	1    3700 1050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	3700 900  3700 950 
-Wire Wire Line
-	3700 1150 3700 1500
-Connection ~ 3700 900 
-Wire Wire Line
-	3700 900  4050 900 
-Connection ~ 3700 1500
-Wire Wire Line
-	3700 1500 4050 1500
 Wire Wire Line
 	2250 1200 2350 1200
 Wire Wire Line
 	2950 1200 3050 1200
-$Comp
-L Device:C_Small C106
-U 1 1 65B4FB7F
-P 4400 1050
-F 0 "C106" H 4492 1096 50  0000 L CNN
-F 1 "0.1uF" H 4492 1005 50  0000 L CNN
-F 2 "" H 4400 1050 50  0001 C CNN
-F 3 "~" H 4400 1050 50  0001 C CNN
-	1    4400 1050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	4400 900  4400 950 
-Wire Wire Line
-	4400 1150 4400 1500
-Connection ~ 4400 900 
-Wire Wire Line
-	4400 900  4750 900 
-Connection ~ 4400 1500
-Wire Wire Line
-	4400 1500 4750 1500
-$Comp
-L Device:C_Small C107
-U 1 1 65B7D0B7
-P 5100 1050
-F 0 "C107" H 5192 1096 50  0000 L CNN
-F 1 "0.1uF" H 5192 1005 50  0000 L CNN
-F 2 "" H 5100 1050 50  0001 C CNN
-F 3 "~" H 5100 1050 50  0001 C CNN
-	1    5100 1050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	5100 900  5100 950 
-Wire Wire Line
-	5100 1150 5100 1500
-Connection ~ 5100 900 
-Wire Wire Line
-	5100 900  5450 900 
-Connection ~ 5100 1500
-Wire Wire Line
-	5100 1500 5450 1500
-$Comp
-L Device:C_Small C108
-U 1 1 65BABC35
-P 5800 1050
-F 0 "C108" H 5892 1096 50  0000 L CNN
-F 1 "0.1uF" H 5892 1005 50  0000 L CNN
-F 2 "" H 5800 1050 50  0001 C CNN
-F 3 "~" H 5800 1050 50  0001 C CNN
-	1    5800 1050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	5800 900  5800 950 
-Wire Wire Line
-	5800 1150 5800 1500
-Connection ~ 5800 900 
-Wire Wire Line
-	5800 900  6150 900 
-Connection ~ 5800 1500
-Wire Wire Line
-	5800 1500 6150 1500
-$Comp
-L Device:C_Small C109
-U 1 1 65BD9CB4
-P 6500 1050
-F 0 "C109" H 6592 1096 50  0000 L CNN
-F 1 "0.1uF" H 6592 1005 50  0000 L CNN
-F 2 "" H 6500 1050 50  0001 C CNN
-F 3 "~" H 6500 1050 50  0001 C CNN
-	1    6500 1050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	6500 900  6500 950 
-Wire Wire Line
-	6500 1150 6500 1500
-Connection ~ 6500 900 
-Wire Wire Line
-	6500 900  6850 900 
-Connection ~ 6500 1500
-Wire Wire Line
-	6500 1500 6850 1500
-$Comp
-L Device:C_Small C110
-U 1 1 65C09595
-P 7200 1050
-F 0 "C110" H 7292 1096 50  0000 L CNN
-F 1 "0.1uF" H 7292 1005 50  0000 L CNN
-F 2 "" H 7200 1050 50  0001 C CNN
-F 3 "~" H 7200 1050 50  0001 C CNN
-	1    7200 1050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	7200 900  7200 950 
-Wire Wire Line
-	7200 1150 7200 1500
-Connection ~ 7200 900 
-Wire Wire Line
-	7200 900  7550 900 
-Connection ~ 7200 1500
-Wire Wire Line
-	7200 1500 7550 1500
-$Comp
-L Device:C_Small C111
-U 1 1 65C38D24
-P 7900 1050
-F 0 "C111" H 7992 1096 50  0000 L CNN
-F 1 "0.1uF" H 7992 1005 50  0000 L CNN
-F 2 "" H 7900 1050 50  0001 C CNN
-F 3 "~" H 7900 1050 50  0001 C CNN
-	1    7900 1050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	7900 900  7900 950 
-Wire Wire Line
-	7900 1150 7900 1500
-Connection ~ 7900 900 
-Wire Wire Line
-	7900 900  8250 900 
-Connection ~ 7900 1500
-Wire Wire Line
-	7900 1500 8250 1500
-$Comp
-L Device:C_Small C112
-U 1 1 65C68D48
-P 8600 1050
-F 0 "C112" H 8692 1096 50  0000 L CNN
-F 1 "0.1uF" H 8692 1005 50  0000 L CNN
-F 2 "" H 8600 1050 50  0001 C CNN
-F 3 "~" H 8600 1050 50  0001 C CNN
-	1    8600 1050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	8600 900  8600 950 
-Wire Wire Line
-	8600 1150 8600 1500
-Connection ~ 8600 900 
-Wire Wire Line
-	8600 900  8950 900 
-Connection ~ 8600 1500
-Wire Wire Line
-	8600 1500 8950 1500
-$Comp
-L Device:C_Small C113
-U 1 1 65C994C9
-P 9300 1050
-F 0 "C113" H 9392 1096 50  0000 L CNN
-F 1 "0.1uF" H 9392 1005 50  0000 L CNN
-F 2 "" H 9300 1050 50  0001 C CNN
-F 3 "~" H 9300 1050 50  0001 C CNN
-	1    9300 1050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	9300 900  9300 950 
-Wire Wire Line
-	9300 1150 9300 1500
-Connection ~ 9300 900 
-Wire Wire Line
-	9300 900  9650 900 
-Connection ~ 9300 1500
-Wire Wire Line
-	9300 1500 9650 1500
-$Comp
-L Device:C_Small C114
-U 1 1 65CCA6FF
-P 10000 1050
-F 0 "C114" H 10092 1096 50  0000 L CNN
-F 1 "0.1uF" H 10092 1005 50  0000 L CNN
-F 2 "" H 10000 1050 50  0001 C CNN
-F 3 "~" H 10000 1050 50  0001 C CNN
-	1    10000 1050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	10000 900  10000 950 
-Wire Wire Line
-	10000 1150 10000 1500
-Connection ~ 10000 900 
-Wire Wire Line
-	10000 900  10350 900 
-Connection ~ 10000 1500
-Wire Wire Line
-	10000 1500 10350 1500
-$Comp
-L Device:C_Small C115
-U 1 1 65CFC2C4
-P 10700 1050
-F 0 "C115" H 10792 1096 50  0000 L CNN
-F 1 "0.1uF" H 10792 1005 50  0000 L CNN
-F 2 "" H 10700 1050 50  0001 C CNN
-F 3 "~" H 10700 1050 50  0001 C CNN
-	1    10700 1050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	10700 900  10700 950 
-Wire Wire Line
-	10700 1150 10700 1500
-Connection ~ 10700 900 
-Wire Wire Line
-	10700 900  11050 900 
-Connection ~ 10700 1500
-Wire Wire Line
-	10700 1500 11050 1500
-$Comp
-L Device:C_Small C116
-U 1 1 65D2E7C2
-P 11400 1050
-F 0 "C116" H 11492 1096 50  0000 L CNN
-F 1 "0.1uF" H 11492 1005 50  0000 L CNN
-F 2 "" H 11400 1050 50  0001 C CNN
-F 3 "~" H 11400 1050 50  0001 C CNN
-	1    11400 1050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	11400 900  11400 950 
-Wire Wire Line
-	11400 1150 11400 1500
-Connection ~ 11400 900 
-Wire Wire Line
-	11400 900  11750 900 
-Connection ~ 11400 1500
-Wire Wire Line
-	11400 1500 11750 1500
-$Comp
-L Device:C_Small C117
-U 1 1 65D61655
-P 12100 1050
-F 0 "C117" H 12192 1096 50  0000 L CNN
-F 1 "0.1uF" H 12192 1005 50  0000 L CNN
-F 2 "" H 12100 1050 50  0001 C CNN
-F 3 "~" H 12100 1050 50  0001 C CNN
-	1    12100 1050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	12100 1150 12100 1500
-Connection ~ 12100 1500
-Wire Wire Line
-	12100 1500 12450 1500
-$Comp
-L Device:C_Small C118
-U 1 1 65D967A6
-P 800 1850
-F 0 "C118" H 892 1896 50  0000 L CNN
-F 1 "0.1uF" H 892 1805 50  0000 L CNN
-F 2 "" H 800 1850 50  0001 C CNN
-F 3 "~" H 800 1850 50  0001 C CNN
-	1    800  1850
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	1250 1700 800  1700
-Wire Wire Line
-	800  1700 800  1750
-Connection ~ 800  1700
-Wire Wire Line
-	800  1700 650  1700
-Wire Wire Line
-	800  1950 800  2300
-Wire Wire Line
-	800  2300 1250 2300
-Connection ~ 1250 2300
 Connection ~ 650  900 
 Wire Wire Line
 	6750 5500 6750 5600
 Connection ~ 6750 5500
-Wire Wire Line
-	6750 5500 7900 5500
 $Comp
 L power:GND #PWR0120
 U 1 1 65F03F12
@@ -2093,1516 +1408,23 @@ Wire Wire Line
 Text GLabel 750  1350 0    50   Input ~ 0
 RGB
 Wire Wire Line
-	12100 900  12100 950 
-Connection ~ 12100 900 
-Wire Wire Line
-	12100 900  12450 900 
-$Comp
-L Device:C_Small C119
-U 1 1 65FB0E4A
-P 1600 1850
-F 0 "C119" H 1692 1896 50  0000 L CNN
-F 1 "0.1uF" H 1692 1805 50  0000 L CNN
-F 2 "" H 1600 1850 50  0001 C CNN
-F 3 "~" H 1600 1850 50  0001 C CNN
-	1    1600 1850
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	1600 1700 1600 1750
-Wire Wire Line
-	1600 1950 1600 2300
-Connection ~ 1600 1700
-Wire Wire Line
-	1600 1700 1950 1700
-Connection ~ 1600 2300
-Wire Wire Line
-	1600 2300 1950 2300
-$Comp
-L Device:C_Small C120
-U 1 1 65FE8AE1
-P 2300 1850
-F 0 "C120" H 2392 1896 50  0000 L CNN
-F 1 "0.1uF" H 2392 1805 50  0000 L CNN
-F 2 "" H 2300 1850 50  0001 C CNN
-F 3 "~" H 2300 1850 50  0001 C CNN
-	1    2300 1850
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	2300 1950 2300 2300
-Connection ~ 2300 2300
-Wire Wire Line
-	2300 2300 2650 2300
-Wire Wire Line
-	2300 1700 2300 1750
-Connection ~ 2300 1700
-Wire Wire Line
-	2300 1700 2650 1700
-$Comp
-L Device:C_Small C121
-U 1 1 66055730
-P 3000 1850
-F 0 "C121" H 3092 1896 50  0000 L CNN
-F 1 "0.1uF" H 3092 1805 50  0000 L CNN
-F 2 "" H 3000 1850 50  0001 C CNN
-F 3 "~" H 3000 1850 50  0001 C CNN
-	1    3000 1850
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	3000 1950 3000 2300
-Wire Wire Line
-	3000 1700 3000 1750
-Connection ~ 3000 1700
-Wire Wire Line
-	3000 1700 3350 1700
-Connection ~ 3000 2300
-Wire Wire Line
-	3000 2300 3350 2300
-$Comp
-L Device:C_Small C122
-U 1 1 6608D640
-P 3700 1850
-F 0 "C122" H 3792 1896 50  0000 L CNN
-F 1 "0.1uF" H 3792 1805 50  0000 L CNN
-F 2 "" H 3700 1850 50  0001 C CNN
-F 3 "~" H 3700 1850 50  0001 C CNN
-	1    3700 1850
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	3700 1950 3700 2300
-Connection ~ 3700 2300
-Wire Wire Line
-	3700 2300 4050 2300
-Wire Wire Line
-	3700 1750 3700 1700
-Connection ~ 3700 1700
-Wire Wire Line
-	3700 1700 4050 1700
-$Comp
-L Device:C_Small C123
-U 1 1 660FE0E4
-P 4400 1850
-F 0 "C123" H 4492 1896 50  0000 L CNN
-F 1 "0.1uF" H 4492 1805 50  0000 L CNN
-F 2 "" H 4400 1850 50  0001 C CNN
-F 3 "~" H 4400 1850 50  0001 C CNN
-	1    4400 1850
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	4400 1950 4400 2300
-Wire Wire Line
-	4400 1750 4400 1700
-Connection ~ 4400 1700
-Wire Wire Line
-	4400 1700 4750 1700
-Connection ~ 4400 2300
-Wire Wire Line
-	4400 2300 4750 2300
-$Comp
-L Device:C_Small C124
-U 1 1 66137ACB
-P 5100 1850
-F 0 "C124" H 5192 1896 50  0000 L CNN
-F 1 "0.1uF" H 5192 1805 50  0000 L CNN
-F 2 "" H 5100 1850 50  0001 C CNN
-F 3 "~" H 5100 1850 50  0001 C CNN
-	1    5100 1850
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	5100 1950 5100 2300
-Wire Wire Line
-	5100 1750 5100 1700
-Connection ~ 5100 1700
-Wire Wire Line
-	5100 1700 5450 1700
-Connection ~ 5100 2300
-Wire Wire Line
-	5100 2300 5450 2300
-$Comp
-L Device:C_Small C125
-U 1 1 66172370
-P 5800 1850
-F 0 "C125" H 5892 1896 50  0000 L CNN
-F 1 "0.1uF" H 5892 1805 50  0000 L CNN
-F 2 "" H 5800 1850 50  0001 C CNN
-F 3 "~" H 5800 1850 50  0001 C CNN
-	1    5800 1850
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	5800 1950 5800 2300
-Wire Wire Line
-	5800 1750 5800 1700
-Connection ~ 5800 1700
-Wire Wire Line
-	5800 1700 6150 1700
-Connection ~ 5800 2300
-Wire Wire Line
-	5800 2300 6150 2300
-$Comp
-L Device:C_Small C126
-U 1 1 661AD919
-P 6500 1850
-F 0 "C126" H 6592 1896 50  0000 L CNN
-F 1 "0.1uF" H 6592 1805 50  0000 L CNN
-F 2 "" H 6500 1850 50  0001 C CNN
-F 3 "~" H 6500 1850 50  0001 C CNN
-	1    6500 1850
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	6500 1950 6500 2300
-Wire Wire Line
-	6500 1750 6500 1700
-Connection ~ 6500 1700
-Wire Wire Line
-	6500 1700 6850 1700
-Connection ~ 6500 2300
-Wire Wire Line
-	6500 2300 6850 2300
-$Comp
-L Device:C_Small C127
-U 1 1 661E9AD7
-P 7200 1850
-F 0 "C127" H 7292 1896 50  0000 L CNN
-F 1 "0.1uF" H 7292 1805 50  0000 L CNN
-F 2 "" H 7200 1850 50  0001 C CNN
-F 3 "~" H 7200 1850 50  0001 C CNN
-	1    7200 1850
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	7200 1950 7200 2300
-Connection ~ 7200 2300
-Wire Wire Line
-	7200 2300 7550 2300
-Wire Wire Line
-	7200 1750 7200 1700
-Connection ~ 7200 1700
-Wire Wire Line
-	7200 1700 7550 1700
-$Comp
-L Device:C_Small C128
-U 1 1 66262D17
-P 7900 1850
-F 0 "C128" H 7992 1896 50  0000 L CNN
-F 1 "0.1uF" H 7992 1805 50  0000 L CNN
-F 2 "" H 7900 1850 50  0001 C CNN
-F 3 "~" H 7900 1850 50  0001 C CNN
-	1    7900 1850
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	7900 1950 7900 2300
-Wire Wire Line
-	7900 1750 7900 1700
-Connection ~ 7900 1700
-Wire Wire Line
-	7900 1700 8250 1700
-Connection ~ 7900 2300
-Wire Wire Line
-	7900 2300 8250 2300
-$Comp
-L Device:C_Small C129
-U 1 1 662A0954
-P 8600 1850
-F 0 "C129" H 8692 1896 50  0000 L CNN
-F 1 "0.1uF" H 8692 1805 50  0000 L CNN
-F 2 "" H 8600 1850 50  0001 C CNN
-F 3 "~" H 8600 1850 50  0001 C CNN
-	1    8600 1850
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	8600 1950 8600 2300
-Wire Wire Line
-	8600 1750 8600 1700
-Connection ~ 8600 1700
-Wire Wire Line
-	8600 1700 8950 1700
-Connection ~ 8600 2300
-Wire Wire Line
-	8600 2300 8950 2300
-$Comp
-L Device:C_Small C130
-U 1 1 662DEFA6
-P 9300 1850
-F 0 "C130" H 9392 1896 50  0000 L CNN
-F 1 "0.1uF" H 9392 1805 50  0000 L CNN
-F 2 "" H 9300 1850 50  0001 C CNN
-F 3 "~" H 9300 1850 50  0001 C CNN
-	1    9300 1850
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	9300 1950 9300 2300
-Wire Wire Line
-	9300 1750 9300 1700
-Connection ~ 9300 1700
-Wire Wire Line
-	9300 1700 9650 1700
-Connection ~ 9300 2300
-Wire Wire Line
-	9300 2300 9650 2300
-Wire Wire Line
-	9650 2300 10700 2300
-Wire Wire Line
-	9650 1700 10700 1700
-Wire Wire Line
 	9950 2000 10750 2000
-$Comp
-L Device:C_Small C131
-U 1 1 66361D2C
-P 10700 1850
-F 0 "C131" H 10792 1896 50  0000 L CNN
-F 1 "0.1uF" H 10792 1805 50  0000 L CNN
-F 2 "" H 10700 1850 50  0001 C CNN
-F 3 "~" H 10700 1850 50  0001 C CNN
-	1    10700 1850
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	10700 1750 10700 1700
-Connection ~ 10700 1700
-Wire Wire Line
-	10700 1700 11050 1700
-Wire Wire Line
-	10700 1950 10700 2300
-Connection ~ 10700 2300
-Wire Wire Line
-	10700 2300 11050 2300
-$Comp
-L Device:C_Small C132
-U 1 1 663E2F9E
-P 11400 1850
-F 0 "C132" H 11492 1896 50  0000 L CNN
-F 1 "0.1uF" H 11492 1805 50  0000 L CNN
-F 2 "" H 11400 1850 50  0001 C CNN
-F 3 "~" H 11400 1850 50  0001 C CNN
-	1    11400 1850
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	11400 1750 11400 1700
-Connection ~ 11400 1700
-Wire Wire Line
-	11400 1700 11750 1700
-Wire Wire Line
-	11400 1950 11400 2300
-Connection ~ 11400 2300
-Wire Wire Line
-	11400 2300 11750 2300
-$Comp
-L Device:C_Small C133
-U 1 1 6646372A
-P 12100 1850
-F 0 "C133" H 12192 1896 50  0000 L CNN
-F 1 "0.1uF" H 12192 1805 50  0000 L CNN
-F 2 "" H 12100 1850 50  0001 C CNN
-F 3 "~" H 12100 1850 50  0001 C CNN
-	1    12100 1850
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	12100 1750 12100 1700
-Wire Wire Line
-	12100 1950 12100 2300
-Connection ~ 12100 1700
-Wire Wire Line
-	12100 1700 12450 1700
-Connection ~ 12100 2300
-Wire Wire Line
-	12100 2300 12450 2300
-$Comp
-L Device:C_Small C134
-U 1 1 654BA6E9
-P 800 2650
-F 0 "C134" H 892 2696 50  0000 L CNN
-F 1 "0.1uF" H 892 2605 50  0000 L CNN
-F 2 "" H 800 2650 50  0001 C CNN
-F 3 "~" H 800 2650 50  0001 C CNN
-	1    800  2650
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	800  2500 800  2550
-Wire Wire Line
-	800  2750 800  3100
-Connection ~ 800  2500
-Wire Wire Line
-	800  2500 650  2500
-Wire Wire Line
-	800  3100 1250 3100
-Connection ~ 1250 3100
-Wire Wire Line
-	2300 2550 2300 2500
-Connection ~ 2300 2500
-Wire Wire Line
-	2300 2500 2650 2500
-$Comp
-L Device:C_Small C136
-U 1 1 655CA381
-P 3000 2650
-F 0 "C136" H 3092 2696 50  0000 L CNN
-F 1 "0.1uF" H 3092 2605 50  0000 L CNN
-F 2 "" H 3000 2650 50  0001 C CNN
-F 3 "~" H 3000 2650 50  0001 C CNN
-	1    3000 2650
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	3000 2750 3000 3100
-Wire Wire Line
-	3000 2500 3000 2550
-Connection ~ 3000 2500
-Wire Wire Line
-	3000 2500 3350 2500
-Connection ~ 3000 3100
-Wire Wire Line
-	3000 3100 3350 3100
-$Comp
-L Device:C_Small C137
-U 1 1 6560F25C
-P 3700 2650
-F 0 "C137" H 3792 2696 50  0000 L CNN
-F 1 "0.1uF" H 3792 2605 50  0000 L CNN
-F 2 "" H 3700 2650 50  0001 C CNN
-F 3 "~" H 3700 2650 50  0001 C CNN
-	1    3700 2650
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	3700 2750 3700 3100
-Wire Wire Line
-	3700 2500 3700 2550
-Connection ~ 3700 2500
-Wire Wire Line
-	3700 2500 4050 2500
-Connection ~ 3700 3100
-Wire Wire Line
-	3700 3100 4050 3100
-$Comp
-L Device:C_Small C138
-U 1 1 65654DEB
-P 4400 2650
-F 0 "C138" H 4492 2696 50  0000 L CNN
-F 1 "0.1uF" H 4492 2605 50  0000 L CNN
-F 2 "" H 4400 2650 50  0001 C CNN
-F 3 "~" H 4400 2650 50  0001 C CNN
-	1    4400 2650
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	4400 2750 4400 3100
-Wire Wire Line
-	4400 2500 4400 2550
-Connection ~ 4400 2500
-Wire Wire Line
-	4400 2500 4750 2500
-Connection ~ 4400 3100
-Wire Wire Line
-	4400 3100 4750 3100
-$Comp
-L Device:C_Small C139
-U 1 1 6569B7F4
-P 5100 2650
-F 0 "C139" H 5192 2696 50  0000 L CNN
-F 1 "0.1uF" H 5192 2605 50  0000 L CNN
-F 2 "" H 5100 2650 50  0001 C CNN
-F 3 "~" H 5100 2650 50  0001 C CNN
-	1    5100 2650
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	5100 2750 5100 3100
-Wire Wire Line
-	5100 2500 5100 2550
-Connection ~ 5100 2500
-Wire Wire Line
-	5100 2500 5450 2500
-Connection ~ 5100 3100
-Wire Wire Line
-	5100 3100 5450 3100
-$Comp
-L Device:C_Small C140
-U 1 1 656E3273
-P 5800 2650
-F 0 "C140" H 5892 2696 50  0000 L CNN
-F 1 "0.1uF" H 5892 2605 50  0000 L CNN
-F 2 "" H 5800 2650 50  0001 C CNN
-F 3 "~" H 5800 2650 50  0001 C CNN
-	1    5800 2650
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	5800 2750 5800 3100
-Wire Wire Line
-	5800 2500 5800 2550
-Connection ~ 5800 2500
-Wire Wire Line
-	5800 2500 6150 2500
-Connection ~ 5800 3100
-Wire Wire Line
-	5800 3100 6150 3100
-$Comp
-L Device:C_Small C141
-U 1 1 6572C0BB
-P 6500 2650
-F 0 "C141" H 6592 2696 50  0000 L CNN
-F 1 "0.1uF" H 6592 2605 50  0000 L CNN
-F 2 "" H 6500 2650 50  0001 C CNN
-F 3 "~" H 6500 2650 50  0001 C CNN
-	1    6500 2650
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	6500 2750 6500 3100
-Wire Wire Line
-	6500 2500 6500 2550
-Connection ~ 6500 2500
-Wire Wire Line
-	6500 2500 6850 2500
-Connection ~ 6500 3100
-Wire Wire Line
-	6500 3100 6850 3100
-$Comp
-L Device:C_Small C142
-U 1 1 6577582D
-P 7200 2650
-F 0 "C142" H 7292 2696 50  0000 L CNN
-F 1 "0.1uF" H 7292 2605 50  0000 L CNN
-F 2 "" H 7200 2650 50  0001 C CNN
-F 3 "~" H 7200 2650 50  0001 C CNN
-	1    7200 2650
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	7200 2750 7200 3100
-Wire Wire Line
-	7200 2500 7200 2550
-Connection ~ 7200 2500
-Wire Wire Line
-	7200 2500 7550 2500
-Connection ~ 7200 3100
-Wire Wire Line
-	7200 3100 7550 3100
-$Comp
-L Device:C_Small C143
-U 1 1 657C010B
-P 7900 2650
-F 0 "C143" H 7992 2696 50  0000 L CNN
-F 1 "0.1uF" H 7992 2605 50  0000 L CNN
-F 2 "" H 7900 2650 50  0001 C CNN
-F 3 "~" H 7900 2650 50  0001 C CNN
-	1    7900 2650
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	7900 2750 7900 3100
-Wire Wire Line
-	7900 2500 7900 2550
-Connection ~ 7900 2500
-Wire Wire Line
-	7900 2500 8250 2500
-Connection ~ 7900 3100
-Wire Wire Line
-	7900 3100 8250 3100
-$Comp
-L Device:C_Small C144
-U 1 1 6580BEE7
-P 8600 2650
-F 0 "C144" H 8692 2696 50  0000 L CNN
-F 1 "0.1uF" H 8692 2605 50  0000 L CNN
-F 2 "" H 8600 2650 50  0001 C CNN
-F 3 "~" H 8600 2650 50  0001 C CNN
-	1    8600 2650
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	8600 2750 8600 3100
-Wire Wire Line
-	8600 2500 8600 2550
-Connection ~ 8600 2500
-Wire Wire Line
-	8600 2500 8950 2500
-Connection ~ 8600 3100
-Wire Wire Line
-	8600 3100 8950 3100
-$Comp
-L Device:C_Small C145
-U 1 1 65858A33
-P 9300 2650
-F 0 "C145" H 9392 2696 50  0000 L CNN
-F 1 "0.1uF" H 9392 2605 50  0000 L CNN
-F 2 "" H 9300 2650 50  0001 C CNN
-F 3 "~" H 9300 2650 50  0001 C CNN
-	1    9300 2650
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	9300 2750 9300 3100
-Wire Wire Line
-	9300 2500 9300 2550
-Connection ~ 9300 2500
-Wire Wire Line
-	9300 2500 9650 2500
-Connection ~ 9300 3100
-Wire Wire Line
-	9300 3100 9650 3100
-$Comp
-L Device:C_Small C146
-U 1 1 658A5EEB
-P 10000 2650
-F 0 "C146" H 10092 2696 50  0000 L CNN
-F 1 "0.1uF" H 10092 2605 50  0000 L CNN
-F 2 "" H 10000 2650 50  0001 C CNN
-F 3 "~" H 10000 2650 50  0001 C CNN
-	1    10000 2650
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	10000 2750 10000 3100
-Wire Wire Line
-	10000 2500 10000 2550
-Connection ~ 10000 2500
-Wire Wire Line
-	10000 2500 10350 2500
-Connection ~ 10000 3100
-Wire Wire Line
-	10000 3100 10350 3100
-$Comp
-L Device:C_Small C147
-U 1 1 658F4274
-P 10700 2650
-F 0 "C147" H 10792 2696 50  0000 L CNN
-F 1 "0.1uF" H 10792 2605 50  0000 L CNN
-F 2 "" H 10700 2650 50  0001 C CNN
-F 3 "~" H 10700 2650 50  0001 C CNN
-	1    10700 2650
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	10700 2750 10700 3100
-Wire Wire Line
-	10700 2500 10700 2550
-Connection ~ 10700 2500
-Wire Wire Line
-	10700 2500 11050 2500
-Connection ~ 10700 3100
-Wire Wire Line
-	10700 3100 11050 3100
-$Comp
-L Device:C_Small C148
-U 1 1 65943280
-P 11400 2650
-F 0 "C148" H 11492 2696 50  0000 L CNN
-F 1 "0.1uF" H 11492 2605 50  0000 L CNN
-F 2 "" H 11400 2650 50  0001 C CNN
-F 3 "~" H 11400 2650 50  0001 C CNN
-	1    11400 2650
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	11400 2750 11400 3100
-Wire Wire Line
-	11400 2500 11400 2550
-Connection ~ 11400 2500
-Wire Wire Line
-	11400 2500 11750 2500
-Connection ~ 11400 3100
-Wire Wire Line
-	11400 3100 11750 3100
-$Comp
-L Device:C_Small C149
-U 1 1 659934C8
-P 12100 2650
-F 0 "C149" H 12192 2696 50  0000 L CNN
-F 1 "0.1uF" H 12192 2605 50  0000 L CNN
-F 2 "" H 12100 2650 50  0001 C CNN
-F 3 "~" H 12100 2650 50  0001 C CNN
-	1    12100 2650
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	12100 2750 12100 3100
-Wire Wire Line
-	12100 2500 12100 2550
-Connection ~ 12100 2500
-Wire Wire Line
-	12100 2500 12450 2500
-Connection ~ 12100 3100
-Wire Wire Line
-	12100 3100 12450 3100
 Wire Wire Line
 	1550 2800 2350 2800
 Wire Wire Line
-	2300 3100 2650 3100
-Wire Wire Line
-	1250 3100 2300 3100
-Connection ~ 2300 3100
-Wire Wire Line
-	2300 2750 2300 3100
-$Comp
-L Device:C_Small C135
-U 1 1 6553EB4D
-P 2300 2650
-F 0 "C135" H 2392 2696 50  0000 L CNN
-F 1 "0.1uF" H 2392 2605 50  0000 L CNN
-F 2 "" H 2300 2650 50  0001 C CNN
-F 3 "~" H 2300 2650 50  0001 C CNN
-	1    2300 2650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C_Small C150
-U 1 1 65A8B063
-P 800 3450
-F 0 "C150" H 892 3496 50  0000 L CNN
-F 1 "0.1uF" H 892 3405 50  0000 L CNN
-F 2 "" H 800 3450 50  0001 C CNN
-F 3 "~" H 800 3450 50  0001 C CNN
-	1    800  3450
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	800  3300 800  3350
-Wire Wire Line
-	800  3550 800  3900
-Wire Wire Line
-	800  3900 1250 3900
-Connection ~ 800  3300
-Wire Wire Line
-	800  3300 650  3300
-Connection ~ 1250 3900
-Wire Wire Line
-	2300 3350 2300 3300
-Wire Wire Line
-	2300 3550 2300 3900
-$Comp
-L Device:C_Small C151
-U 1 1 65ADF17B
-P 2300 3450
-F 0 "C151" H 2392 3496 50  0000 L CNN
-F 1 "0.1uF" H 2392 3405 50  0000 L CNN
-F 2 "" H 2300 3450 50  0001 C CNN
-F 3 "~" H 2300 3450 50  0001 C CNN
-	1    2300 3450
-	1    0    0    -1  
-$EndComp
-Connection ~ 2300 3300
-Wire Wire Line
-	2300 3300 2650 3300
-Connection ~ 2300 3900
-Wire Wire Line
-	2300 3900 1250 3900
-$Comp
-L Device:C_Small C152
-U 1 1 65B325B4
-P 3000 3450
-F 0 "C152" H 3092 3496 50  0000 L CNN
-F 1 "0.1uF" H 3092 3405 50  0000 L CNN
-F 2 "" H 3000 3450 50  0001 C CNN
-F 3 "~" H 3000 3450 50  0001 C CNN
-	1    3000 3450
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	3000 3550 3000 3900
-Wire Wire Line
-	3000 3300 3000 3350
-Connection ~ 3000 3300
-Wire Wire Line
-	3000 3300 3350 3300
-Connection ~ 3000 3900
-Wire Wire Line
-	3000 3900 3350 3900
-$Comp
-L Device:C_Small C153
-U 1 1 65B86697
-P 3700 3450
-F 0 "C153" H 3792 3496 50  0000 L CNN
-F 1 "0.1uF" H 3792 3405 50  0000 L CNN
-F 2 "" H 3700 3450 50  0001 C CNN
-F 3 "~" H 3700 3450 50  0001 C CNN
-	1    3700 3450
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	3700 3550 3700 3900
-Wire Wire Line
-	3700 3300 3700 3350
-Connection ~ 3700 3300
-Wire Wire Line
-	3700 3300 4050 3300
-Connection ~ 3700 3900
-Wire Wire Line
-	3700 3900 4050 3900
-$Comp
-L Device:C_Small C154
-U 1 1 65BDC1A9
-P 4400 3450
-F 0 "C154" H 4492 3496 50  0000 L CNN
-F 1 "0.1uF" H 4492 3405 50  0000 L CNN
-F 2 "" H 4400 3450 50  0001 C CNN
-F 3 "~" H 4400 3450 50  0001 C CNN
-	1    4400 3450
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	4400 3550 4400 3900
-Wire Wire Line
-	4400 3300 4400 3350
-Connection ~ 4400 3300
-Wire Wire Line
-	4400 3300 4750 3300
-Connection ~ 4400 3900
-Wire Wire Line
-	4400 3900 4750 3900
-$Comp
-L Device:C_Small C155
-U 1 1 65C32904
-P 5100 3450
-F 0 "C155" H 5192 3496 50  0000 L CNN
-F 1 "0.1uF" H 5192 3405 50  0000 L CNN
-F 2 "" H 5100 3450 50  0001 C CNN
-F 3 "~" H 5100 3450 50  0001 C CNN
-	1    5100 3450
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	5100 3550 5100 3900
-Connection ~ 5100 3900
-Wire Wire Line
-	5100 3900 5450 3900
-Wire Wire Line
-	5100 3350 5100 3300
-Connection ~ 5100 3300
-Wire Wire Line
-	5100 3300 5450 3300
-$Comp
-L Device:C_Small C156
-U 1 1 65CE1621
-P 5800 3450
-F 0 "C156" H 5892 3496 50  0000 L CNN
-F 1 "0.1uF" H 5892 3405 50  0000 L CNN
-F 2 "" H 5800 3450 50  0001 C CNN
-F 3 "~" H 5800 3450 50  0001 C CNN
-	1    5800 3450
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	5800 3550 5800 3900
-Wire Wire Line
-	5800 3350 5800 3300
-Connection ~ 5800 3300
-Wire Wire Line
-	5800 3300 6150 3300
-Connection ~ 5800 3900
-Wire Wire Line
-	5800 3900 6150 3900
-$Comp
-L Device:C_Small C157
-U 1 1 65D3A503
-P 6500 3450
-F 0 "C157" H 6592 3496 50  0000 L CNN
-F 1 "0.1uF" H 6592 3405 50  0000 L CNN
-F 2 "" H 6500 3450 50  0001 C CNN
-F 3 "~" H 6500 3450 50  0001 C CNN
-	1    6500 3450
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	6500 3550 6500 3900
-Wire Wire Line
-	6500 3350 6500 3300
-Connection ~ 6500 3300
-Wire Wire Line
-	6500 3300 6850 3300
-Connection ~ 6500 3900
-Wire Wire Line
-	6500 3900 6850 3900
-$Comp
-L Device:C_Small C158
-U 1 1 65D946EC
-P 7200 3450
-F 0 "C158" H 7292 3496 50  0000 L CNN
-F 1 "0.1uF" H 7292 3405 50  0000 L CNN
-F 2 "" H 7200 3450 50  0001 C CNN
-F 3 "~" H 7200 3450 50  0001 C CNN
-	1    7200 3450
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	7200 3550 7200 3900
-Wire Wire Line
-	7200 3350 7200 3300
-Connection ~ 7200 3300
-Wire Wire Line
-	7200 3300 7550 3300
-Connection ~ 7200 3900
-Wire Wire Line
-	7200 3900 7550 3900
-$Comp
-L Device:C_Small C164
-U 1 1 65DEFD5E
-P 12100 3450
-F 0 "C164" H 12192 3496 50  0000 L CNN
-F 1 "0.1uF" H 12192 3405 50  0000 L CNN
-F 2 "" H 12100 3450 50  0001 C CNN
-F 3 "~" H 12100 3450 50  0001 C CNN
-	1    12100 3450
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	12100 3550 12100 3900
-Wire Wire Line
-	12100 3300 12100 3350
-Connection ~ 12100 3300
-Wire Wire Line
-	12100 3300 12450 3300
-Connection ~ 12100 3900
-Wire Wire Line
-	12100 3900 12450 3900
-$Comp
-L Device:C_Small C163
-U 1 1 65E4B89A
-P 11400 3450
-F 0 "C163" H 11492 3496 50  0000 L CNN
-F 1 "0.1uF" H 11492 3405 50  0000 L CNN
-F 2 "" H 11400 3450 50  0001 C CNN
-F 3 "~" H 11400 3450 50  0001 C CNN
-	1    11400 3450
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
 	11450 3600 11500 3600
-$Comp
-L Device:C_Small C162
-U 1 1 65EA9382
-P 10000 3450
-F 0 "C162" H 10092 3496 50  0000 L CNN
-F 1 "0.1uF" H 10092 3405 50  0000 L CNN
-F 2 "" H 10000 3450 50  0001 C CNN
-F 3 "~" H 10000 3450 50  0001 C CNN
-	1    10000 3450
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	10000 3550 10000 3900
-Wire Wire Line
-	10000 3300 10000 3350
-Connection ~ 10000 3300
-Wire Wire Line
-	10000 3300 10350 3300
-Connection ~ 10000 3900
-Wire Wire Line
-	10000 3900 10350 3900
-$Comp
-L Device:C_Small C161
-U 1 1 65F07611
-P 9300 3450
-F 0 "C161" H 9392 3496 50  0000 L CNN
-F 1 "0.1uF" H 9392 3405 50  0000 L CNN
-F 2 "" H 9300 3450 50  0001 C CNN
-F 3 "~" H 9300 3450 50  0001 C CNN
-	1    9300 3450
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	9300 3550 9300 3900
-Wire Wire Line
-	9300 3300 9300 3350
-Connection ~ 9300 3300
-Wire Wire Line
-	9300 3300 9650 3300
-Connection ~ 9300 3900
-Wire Wire Line
-	9300 3900 9650 3900
-$Comp
-L Device:C_Small C160
-U 1 1 65F664D0
-P 8600 3450
-F 0 "C160" H 8692 3496 50  0000 L CNN
-F 1 "0.1uF" H 8692 3405 50  0000 L CNN
-F 2 "" H 8600 3450 50  0001 C CNN
-F 3 "~" H 8600 3450 50  0001 C CNN
-	1    8600 3450
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	8600 3550 8600 3900
-Wire Wire Line
-	8600 3300 8600 3350
-Connection ~ 8600 3300
-Wire Wire Line
-	8600 3300 8950 3300
-Connection ~ 8600 3900
-Wire Wire Line
-	8600 3900 8950 3900
-$Comp
-L Device:C_Small C159
-U 1 1 65FC68EA
-P 7900 3450
-F 0 "C159" H 7992 3496 50  0000 L CNN
-F 1 "0.1uF" H 7992 3405 50  0000 L CNN
-F 2 "" H 7900 3450 50  0001 C CNN
-F 3 "~" H 7900 3450 50  0001 C CNN
-	1    7900 3450
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	7900 3550 7900 3900
-Wire Wire Line
-	7900 3300 7900 3350
-Connection ~ 7900 3300
-Wire Wire Line
-	7900 3300 8250 3300
-Connection ~ 7900 3900
-Wire Wire Line
-	7900 3900 8250 3900
-Wire Wire Line
-	1950 4100 1600 4100
 Connection ~ 1950 4100
 Connection ~ 650  4100
 Wire Wire Line
 	650  4100 650  4900
-$Comp
-L Device:C_Small C165
-U 1 1 661C1395
-P 1600 4250
-F 0 "C165" H 1692 4296 50  0000 L CNN
-F 1 "0.1uF" H 1692 4205 50  0000 L CNN
-F 2 "" H 1600 4250 50  0001 C CNN
-F 3 "~" H 1600 4250 50  0001 C CNN
-	1    1600 4250
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	1600 4100 1600 4150
-Wire Wire Line
-	1600 4350 1600 4700
-Connection ~ 1600 4100
-Wire Wire Line
-	650  4100 1600 4100
-Wire Wire Line
-	1600 4700 1950 4700
-Connection ~ 1950 4700
-$Comp
-L Device:C_Small C166
-U 1 1 66289FEA
-P 2300 4250
-F 0 "C166" H 2392 4296 50  0000 L CNN
-F 1 "0.1uF" H 2392 4205 50  0000 L CNN
-F 2 "" H 2300 4250 50  0001 C CNN
-F 3 "~" H 2300 4250 50  0001 C CNN
-	1    2300 4250
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	2300 4100 2300 4150
-Wire Wire Line
-	2300 4350 2300 4700
-Connection ~ 2300 4100
-Wire Wire Line
-	2300 4100 2650 4100
-Connection ~ 2300 4700
-Wire Wire Line
-	2300 4700 2650 4700
-$Comp
-L Device:C_Small C167
-U 1 1 662EEC56
-P 3000 4250
-F 0 "C167" H 3092 4296 50  0000 L CNN
-F 1 "0.1uF" H 3092 4205 50  0000 L CNN
-F 2 "" H 3000 4250 50  0001 C CNN
-F 3 "~" H 3000 4250 50  0001 C CNN
-	1    3000 4250
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	3000 4100 3000 4150
-Wire Wire Line
-	3000 4350 3000 4700
-Connection ~ 3000 4100
-Wire Wire Line
-	3000 4100 3350 4100
-Connection ~ 3000 4700
-Wire Wire Line
-	3000 4700 3350 4700
-$Comp
-L Device:C_Small C168
-U 1 1 663548F2
-P 3700 4250
-F 0 "C168" H 3792 4296 50  0000 L CNN
-F 1 "0.1uF" H 3792 4205 50  0000 L CNN
-F 2 "" H 3700 4250 50  0001 C CNN
-F 3 "~" H 3700 4250 50  0001 C CNN
-	1    3700 4250
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	3700 4100 3700 4150
-Connection ~ 3700 4100
-Wire Wire Line
-	3700 4100 4050 4100
-Wire Wire Line
-	3700 4350 3700 4700
-Connection ~ 3700 4700
-Wire Wire Line
-	3700 4700 4050 4700
-$Comp
-L Device:C_Small C169
-U 1 1 6648A086
-P 4400 4250
-F 0 "C169" H 4492 4296 50  0000 L CNN
-F 1 "0.1uF" H 4492 4205 50  0000 L CNN
-F 2 "" H 4400 4250 50  0001 C CNN
-F 3 "~" H 4400 4250 50  0001 C CNN
-	1    4400 4250
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	4400 4100 4400 4150
-Wire Wire Line
-	4400 4350 4400 4700
-Connection ~ 4400 4100
-Wire Wire Line
-	4400 4100 4750 4100
-Connection ~ 4400 4700
-Wire Wire Line
-	4400 4700 4750 4700
-$Comp
-L Device:C_Small C170
-U 1 1 664F314A
-P 5100 4250
-F 0 "C170" H 5192 4296 50  0000 L CNN
-F 1 "0.1uF" H 5192 4205 50  0000 L CNN
-F 2 "" H 5100 4250 50  0001 C CNN
-F 3 "~" H 5100 4250 50  0001 C CNN
-	1    5100 4250
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	5100 4100 5100 4150
-Wire Wire Line
-	5100 4350 5100 4700
-Connection ~ 5100 4100
-Wire Wire Line
-	5100 4100 5450 4100
-Connection ~ 5100 4700
-Wire Wire Line
-	5100 4700 5450 4700
-$Comp
-L Device:C_Small C171
-U 1 1 6655D34C
-P 5800 4250
-F 0 "C171" H 5892 4296 50  0000 L CNN
-F 1 "0.1uF" H 5892 4205 50  0000 L CNN
-F 2 "" H 5800 4250 50  0001 C CNN
-F 3 "~" H 5800 4250 50  0001 C CNN
-	1    5800 4250
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	5800 4100 5800 4150
-Wire Wire Line
-	5800 4350 5800 4700
-Connection ~ 5800 4100
-Wire Wire Line
-	5800 4100 6150 4100
-Connection ~ 5800 4700
-Wire Wire Line
-	5800 4700 6150 4700
-$Comp
-L Device:C_Small C172
-U 1 1 665C8873
-P 6500 4250
-F 0 "C172" H 6592 4296 50  0000 L CNN
-F 1 "0.1uF" H 6592 4205 50  0000 L CNN
-F 2 "" H 6500 4250 50  0001 C CNN
-F 3 "~" H 6500 4250 50  0001 C CNN
-	1    6500 4250
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	6500 4100 6500 4150
-Wire Wire Line
-	6500 4350 6500 4700
-Connection ~ 6500 4100
-Wire Wire Line
-	6500 4100 6850 4100
-Connection ~ 6500 4700
-Wire Wire Line
-	6500 4700 6850 4700
-$Comp
-L Device:C_Small C173
-U 1 1 6663507E
-P 7200 4250
-F 0 "C173" H 7292 4296 50  0000 L CNN
-F 1 "0.1uF" H 7292 4205 50  0000 L CNN
-F 2 "" H 7200 4250 50  0001 C CNN
-F 3 "~" H 7200 4250 50  0001 C CNN
-	1    7200 4250
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	7200 4100 7200 4150
-Wire Wire Line
-	7200 4350 7200 4700
-Connection ~ 7200 4100
-Wire Wire Line
-	7200 4100 7550 4100
-Connection ~ 7200 4700
-Wire Wire Line
-	7200 4700 7550 4700
-$Comp
-L Device:C_Small C174
-U 1 1 666A2CB4
-P 7900 4250
-F 0 "C174" H 7992 4296 50  0000 L CNN
-F 1 "0.1uF" H 7992 4205 50  0000 L CNN
-F 2 "" H 7900 4250 50  0001 C CNN
-F 3 "~" H 7900 4250 50  0001 C CNN
-	1    7900 4250
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	7900 4100 7900 4150
-Connection ~ 7900 4100
-Wire Wire Line
-	7900 4100 8250 4100
-Wire Wire Line
-	7900 4350 7900 4700
-Connection ~ 7900 4700
-Wire Wire Line
-	7900 4700 8250 4700
-$Comp
-L Device:C_Small C175
-U 1 1 6678028B
-P 8600 4250
-F 0 "C175" H 8692 4296 50  0000 L CNN
-F 1 "0.1uF" H 8692 4205 50  0000 L CNN
-F 2 "" H 8600 4250 50  0001 C CNN
-F 3 "~" H 8600 4250 50  0001 C CNN
-	1    8600 4250
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	8600 4100 8600 4150
-Wire Wire Line
-	8600 4350 8600 4700
-Connection ~ 8600 4100
-Wire Wire Line
-	8600 4100 8950 4100
-Connection ~ 8600 4700
-Wire Wire Line
-	8600 4700 8950 4700
-$Comp
-L Device:C_Small C176
-U 1 1 667F0628
-P 10000 4250
-F 0 "C176" H 10092 4296 50  0000 L CNN
-F 1 "0.1uF" H 10092 4205 50  0000 L CNN
-F 2 "" H 10000 4250 50  0001 C CNN
-F 3 "~" H 10000 4250 50  0001 C CNN
-	1    10000 4250
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	10000 4100 10000 4150
-Wire Wire Line
-	10000 4350 10000 4700
-Connection ~ 10000 4100
-Wire Wire Line
-	10000 4100 10350 4100
-Connection ~ 10000 4700
-Wire Wire Line
-	10000 4700 10350 4700
 Wire Wire Line
 	10050 4400 9250 4400
-$Comp
-L Device:C_Small C177
-U 1 1 668D428B
-P 11400 4250
-F 0 "C177" H 11492 4296 50  0000 L CNN
-F 1 "0.1uF" H 11492 4205 50  0000 L CNN
-F 2 "" H 11400 4250 50  0001 C CNN
-F 3 "~" H 11400 4250 50  0001 C CNN
-	1    11400 4250
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	11400 4100 11400 4150
-Connection ~ 11400 4100
-Wire Wire Line
-	11400 4100 11750 4100
-Wire Wire Line
-	11400 4350 11400 4700
-Connection ~ 11400 4700
-Wire Wire Line
-	11400 4700 11750 4700
-$Comp
-L Device:C_Small C178
-U 1 1 669B7BA3
-P 850 5050
-F 0 "C178" H 942 5096 50  0000 L CNN
-F 1 "0.1uF" H 942 5005 50  0000 L CNN
-F 2 "" H 850 5050 50  0001 C CNN
-F 3 "~" H 850 5050 50  0001 C CNN
-	1    850  5050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	850  4900 850  4950
-Connection ~ 850  4900
-Wire Wire Line
-	850  4900 1250 4900
-Wire Wire Line
-	850  5150 850  5500
-Wire Wire Line
-	850  5500 1250 5500
-Connection ~ 1250 5500
-$Comp
-L Device:C_Small C179
-U 1 1 66A9ECCE
-P 1600 5050
-F 0 "C179" H 1692 5096 50  0000 L CNN
-F 1 "0.1uF" H 1692 5005 50  0000 L CNN
-F 2 "" H 1600 5050 50  0001 C CNN
-F 3 "~" H 1600 5050 50  0001 C CNN
-	1    1600 5050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	1600 4900 1600 4950
-Wire Wire Line
-	1600 5150 1600 5500
-Connection ~ 1600 4900
-Wire Wire Line
-	1600 4900 1950 4900
-Connection ~ 1600 5500
-Wire Wire Line
-	1600 5500 1950 5500
-$Comp
-L Device:C_Small C180
-U 1 1 66B147C6
-P 3000 5050
-F 0 "C180" H 3092 5096 50  0000 L CNN
-F 1 "0.1uF" H 3092 5005 50  0000 L CNN
-F 2 "" H 3000 5050 50  0001 C CNN
-F 3 "~" H 3000 5050 50  0001 C CNN
-	1    3000 5050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	3000 4900 3000 4950
-Connection ~ 3000 4900
-Wire Wire Line
-	3000 4900 3350 4900
-Wire Wire Line
-	3000 5150 3000 5500
-Connection ~ 3000 5500
-Wire Wire Line
-	3000 5500 3350 5500
 Wire Wire Line
 	3650 5200 4050 5200
 Wire Wire Line
-	1950 4900 3000 4900
-Wire Wire Line
-	3350 5500 4000 5500
-$Comp
-L Device:C_Small C181
-U 1 1 66D75A14
-P 5100 5050
-F 0 "C181" H 5192 5096 50  0000 L CNN
-F 1 "0.1uF" H 5192 5005 50  0000 L CNN
-F 2 "" H 5100 5050 50  0001 C CNN
-F 3 "~" H 5100 5050 50  0001 C CNN
-	1    5100 5050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	5100 5150 5100 5500
-Connection ~ 5100 5500
-Wire Wire Line
-	5100 5500 5450 5500
-Wire Wire Line
-	3350 4900 4000 4900
-Wire Wire Line
-	5100 4950 5100 4900
-Connection ~ 5100 4900
-Wire Wire Line
-	5100 4900 5450 4900
-$Comp
-L Device:C_Small C182
-U 1 1 66F5A984
-P 7900 5050
-F 0 "C182" H 7992 5096 50  0000 L CNN
-F 1 "0.1uF" H 7992 5005 50  0000 L CNN
-F 2 "" H 7900 5050 50  0001 C CNN
-F 3 "~" H 7900 5050 50  0001 C CNN
-	1    7900 5050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	7900 5150 7900 5500
-Wire Wire Line
-	7900 4950 7900 4900
-Connection ~ 7900 4900
-Wire Wire Line
-	7900 4900 8250 4900
-Connection ~ 7900 5500
-Wire Wire Line
-	7900 5500 8250 5500
-$Comp
-L Device:C_Small C183
-U 1 1 66FD5A43
-P 8600 5050
-F 0 "C183" H 8692 5096 50  0000 L CNN
-F 1 "0.1uF" H 8692 5005 50  0000 L CNN
-F 2 "" H 8600 5050 50  0001 C CNN
-F 3 "~" H 8600 5050 50  0001 C CNN
-	1    8600 5050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	8600 4950 8600 4900
-Connection ~ 8600 4900
-Wire Wire Line
-	8600 4900 8950 4900
-Wire Wire Line
-	8600 5150 8600 5500
-Connection ~ 8600 5500
-Wire Wire Line
-	8600 5500 8950 5500
-$Comp
-L Device:C_Small C184
-U 1 1 670CB4B0
-P 9300 5050
-F 0 "C184" H 9392 5096 50  0000 L CNN
-F 1 "0.1uF" H 9392 5005 50  0000 L CNN
-F 2 "" H 9300 5050 50  0001 C CNN
-F 3 "~" H 9300 5050 50  0001 C CNN
-	1    9300 5050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	9300 4950 9300 4900
-Wire Wire Line
-	9300 5150 9300 5500
-Connection ~ 9300 4900
-Wire Wire Line
-	9300 4900 9650 4900
-Connection ~ 9300 5500
-Wire Wire Line
-	9300 5500 9650 5500
-$Comp
-L Device:C_Small C185
-U 1 1 67147B2C
-P 10000 5050
-F 0 "C185" H 10092 5096 50  0000 L CNN
-F 1 "0.1uF" H 10092 5005 50  0000 L CNN
-F 2 "" H 10000 5050 50  0001 C CNN
-F 3 "~" H 10000 5050 50  0001 C CNN
-	1    10000 5050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	10000 4950 10000 4900
-Connection ~ 10000 4900
-Wire Wire Line
-	10000 4900 10350 4900
-Wire Wire Line
-	10000 5150 10000 5500
-Connection ~ 10000 5500
-Wire Wire Line
-	10000 5500 10350 5500
-$Comp
-L Device:C_Small C186
-U 1 1 67241AFE
-P 10700 5050
-F 0 "C186" H 10792 5096 50  0000 L CNN
-F 1 "0.1uF" H 10792 5005 50  0000 L CNN
-F 2 "" H 10700 5050 50  0001 C CNN
-F 3 "~" H 10700 5050 50  0001 C CNN
-	1    10700 5050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	10700 4950 10700 4900
-Wire Wire Line
-	10700 5150 10700 5500
-Connection ~ 10700 4900
-Wire Wire Line
-	10700 4900 11050 4900
-Connection ~ 10700 5500
-Wire Wire Line
-	10700 5500 11050 5500
-$Comp
-L Device:C_Small C187
-U 1 1 672BFED2
-P 11400 5050
-F 0 "C187" H 11492 5096 50  0000 L CNN
-F 1 "0.1uF" H 11492 5005 50  0000 L CNN
-F 2 "" H 11400 5050 50  0001 C CNN
-F 3 "~" H 11400 5050 50  0001 C CNN
-	1    11400 5050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	11400 4950 11400 4900
-Wire Wire Line
-	11400 5150 11400 5500
-Connection ~ 11400 4900
-Wire Wire Line
-	11400 4900 11750 4900
-Connection ~ 11400 5500
-Wire Wire Line
-	11400 5500 11750 5500
-$Comp
-L Device:C_Small C188
-U 1 1 6733F4A9
-P 12100 5050
-F 0 "C188" H 12192 5096 50  0000 L CNN
-F 1 "0.1uF" H 12192 5005 50  0000 L CNN
-F 2 "" H 12100 5050 50  0001 C CNN
-F 3 "~" H 12100 5050 50  0001 C CNN
-	1    12100 5050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	12100 4950 12100 4900
-Wire Wire Line
-	12100 5150 12100 5500
-Connection ~ 12100 4900
-Wire Wire Line
-	12100 4900 12450 4900
-Connection ~ 12100 5500
-Wire Wire Line
-	12100 5500 12450 5500
-Wire Wire Line
 	10650 3600 11450 3600
-Wire Wire Line
-	10350 3900 11400 3900
 Connection ~ 11750 3300
 Connection ~ 10350 3300
-Wire Wire Line
-	10350 3300 11400 3300
-Wire Wire Line
-	11400 3350 11400 3300
-Connection ~ 11400 3300
-Wire Wire Line
-	11400 3300 11750 3300
-Wire Wire Line
-	11400 3550 11400 3900
-Connection ~ 11400 3900
-Wire Wire Line
-	11400 3900 11750 3900
 Wire Wire Line
 	12800 1200 12800 1600
 Wire Wire Line
@@ -3634,46 +1456,8 @@ Wire Wire Line
 Wire Wire Line
 	950  4800 950  5200
 NoConn ~ 12750 5200
-$Comp
-L LED:WS2812B D201
-U 1 1 659FF45D
-P 4350 5200
-F 0 "D201" H 4694 5246 50  0000 L CNN
-F 1 "WS2812B" H 4694 5155 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 4400 4900 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4450 4825 50  0001 L TNN
-	1    4350 5200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C_Small C201
-U 1 1 659FF467
-P 4000 5050
-F 0 "C201" H 4092 5096 50  0000 L CNN
-F 1 "0.1uF" H 4092 5005 50  0000 L CNN
-F 2 "" H 4000 5050 50  0001 C CNN
-F 3 "~" H 4000 5050 50  0001 C CNN
-	1    4000 5050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	4000 5150 4000 5500
-Wire Wire Line
-	4000 4950 4000 4900
 Wire Wire Line
 	4650 5200 5150 5200
-Connection ~ 4000 4900
-Wire Wire Line
-	4000 4900 4350 4900
-Connection ~ 4000 5500
-Wire Wire Line
-	4000 5500 4350 5500
-Connection ~ 4350 4900
-Wire Wire Line
-	4350 4900 5100 4900
-Connection ~ 4350 5500
-Wire Wire Line
-	4350 5500 5100 5500
 $Comp
 L LED:WS2812B D200
 U 1 1 65A8A5E1
@@ -3685,28 +1469,380 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 6650 4825 50  0001 
 	1    6550 5200
 	1    0    0    -1  
 $EndComp
-$Comp
-L Device:C_Small C200
-U 1 1 65A8A5EB
-P 6200 5050
-F 0 "C200" H 6292 5096 50  0000 L CNN
-F 1 "0.1uF" H 6292 5005 50  0000 L CNN
-F 2 "" H 6200 5050 50  0001 C CNN
-F 3 "~" H 6200 5050 50  0001 C CNN
-	1    6200 5050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	6200 4950 6200 4900
 Wire Wire Line
 	6850 5200 7950 5200
-Connection ~ 6200 4900
-Wire Wire Line
-	6200 4900 6550 4900
 Connection ~ 6550 4900
-Wire Wire Line
-	6550 4900 7900 4900
 Connection ~ 6550 5500
 Wire Wire Line
 	6550 5500 6750 5500
+Wire Wire Line
+	1250 900  1950 900 
+Wire Wire Line
+	1250 1500 1950 1500
+Wire Wire Line
+	1950 900  2650 900 
+Wire Wire Line
+	1950 1500 2650 1500
+Wire Wire Line
+	2650 900  3350 900 
+Wire Wire Line
+	2650 1500 3350 1500
+Wire Wire Line
+	3350 900  4050 900 
+Wire Wire Line
+	3350 1500 4050 1500
+Wire Wire Line
+	4050 900  4750 900 
+Wire Wire Line
+	4050 1500 4750 1500
+Wire Wire Line
+	4750 900  5450 900 
+Wire Wire Line
+	4750 1500 5450 1500
+Wire Wire Line
+	5450 900  6150 900 
+Wire Wire Line
+	5450 1500 6150 1500
+Wire Wire Line
+	6150 900  6850 900 
+Wire Wire Line
+	6150 1500 6850 1500
+Wire Wire Line
+	6850 900  7550 900 
+Wire Wire Line
+	6850 1500 7550 1500
+Wire Wire Line
+	7550 1500 8250 1500
+Wire Wire Line
+	7550 900  8250 900 
+Wire Wire Line
+	8250 900  8950 900 
+Wire Wire Line
+	8250 1500 8950 1500
+Wire Wire Line
+	8950 900  9650 900 
+Wire Wire Line
+	8950 1500 9650 1500
+Wire Wire Line
+	9650 900  10350 900 
+Wire Wire Line
+	9650 1500 10350 1500
+Wire Wire Line
+	10350 900  11050 900 
+Wire Wire Line
+	10350 1500 11050 1500
+Wire Wire Line
+	11050 900  11750 900 
+Wire Wire Line
+	11050 1500 11750 1500
+Wire Wire Line
+	11750 900  12450 900 
+Wire Wire Line
+	11750 1500 12450 1500
+Wire Wire Line
+	650  1700 1250 1700
+Wire Wire Line
+	1250 1700 1950 1700
+Wire Wire Line
+	1250 2300 1950 2300
+Wire Wire Line
+	1950 1700 2650 1700
+Wire Wire Line
+	1950 2300 2650 2300
+Wire Wire Line
+	2650 1700 3350 1700
+Wire Wire Line
+	2650 2300 3350 2300
+Wire Wire Line
+	3350 1700 4050 1700
+Wire Wire Line
+	3350 2300 4050 2300
+Wire Wire Line
+	4050 1700 4750 1700
+Wire Wire Line
+	4050 2300 4750 2300
+Wire Wire Line
+	4750 1700 5450 1700
+Wire Wire Line
+	4750 2300 5450 2300
+Wire Wire Line
+	5450 1700 6150 1700
+Wire Wire Line
+	5450 2300 6150 2300
+Wire Wire Line
+	6150 1700 6850 1700
+Wire Wire Line
+	6150 2300 6850 2300
+Wire Wire Line
+	6850 1700 7550 1700
+Wire Wire Line
+	6850 2300 7550 2300
+Wire Wire Line
+	7550 1700 8250 1700
+Wire Wire Line
+	7550 2300 8250 2300
+Wire Wire Line
+	8250 1700 8950 1700
+Wire Wire Line
+	8250 2300 8950 2300
+Wire Wire Line
+	8950 1700 9650 1700
+Wire Wire Line
+	8950 2300 9650 2300
+Wire Wire Line
+	9650 1700 11050 1700
+Wire Wire Line
+	9650 2300 11050 2300
+Wire Wire Line
+	11050 1700 11750 1700
+Wire Wire Line
+	11050 2300 11750 2300
+Wire Wire Line
+	11750 1700 12450 1700
+Wire Wire Line
+	11750 2300 12450 2300
+Wire Wire Line
+	650  2500 1250 2500
+Wire Wire Line
+	1250 2500 2650 2500
+Wire Wire Line
+	1250 3100 2650 3100
+Wire Wire Line
+	2650 2500 3350 2500
+Wire Wire Line
+	2650 3100 3350 3100
+Wire Wire Line
+	3350 2500 4050 2500
+Wire Wire Line
+	3350 3100 4050 3100
+Wire Wire Line
+	4050 2500 4750 2500
+Wire Wire Line
+	4050 3100 4750 3100
+Wire Wire Line
+	4750 2500 5450 2500
+Wire Wire Line
+	4750 3100 5450 3100
+Wire Wire Line
+	5450 2500 6150 2500
+Wire Wire Line
+	5450 3100 6150 3100
+Wire Wire Line
+	6150 2500 6850 2500
+Wire Wire Line
+	6150 3100 6850 3100
+Wire Wire Line
+	6850 2500 7550 2500
+Wire Wire Line
+	6850 3100 7550 3100
+Wire Wire Line
+	7550 2500 8250 2500
+Wire Wire Line
+	7550 3100 8250 3100
+Wire Wire Line
+	8250 2500 8950 2500
+Wire Wire Line
+	8250 3100 8950 3100
+Wire Wire Line
+	8950 2500 9650 2500
+Wire Wire Line
+	8950 3100 9650 3100
+Wire Wire Line
+	9650 2500 10350 2500
+Wire Wire Line
+	9650 3100 10350 3100
+Wire Wire Line
+	10350 2500 11050 2500
+Wire Wire Line
+	10350 3100 11050 3100
+Wire Wire Line
+	11050 2500 11750 2500
+Wire Wire Line
+	11050 3100 11750 3100
+Wire Wire Line
+	11750 2500 12450 2500
+Wire Wire Line
+	11750 3100 12450 3100
+Wire Wire Line
+	650  3300 1250 3300
+Wire Wire Line
+	1250 3300 2650 3300
+Wire Wire Line
+	1250 3900 2650 3900
+Wire Wire Line
+	2650 3300 3350 3300
+Wire Wire Line
+	2650 3900 3350 3900
+Wire Wire Line
+	3350 3900 4050 3900
+Connection ~ 4050 3900
+Wire Wire Line
+	3350 3300 4050 3300
+Connection ~ 4050 3300
+$Comp
+L LED:WS2812B D153
+U 1 1 654EA3C9
+P 4050 3600
+F 0 "D153" H 4394 3646 50  0000 L CNN
+F 1 "WS2812B" H 4394 3555 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 4100 3300 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4150 3225 50  0001 L TNN
+	1    4050 3600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4050 3300 4750 3300
+Wire Wire Line
+	4050 3900 4750 3900
+Wire Wire Line
+	4750 3300 5450 3300
+Wire Wire Line
+	4750 3900 5450 3900
+Wire Wire Line
+	5450 3300 6150 3300
+Wire Wire Line
+	5450 3900 6150 3900
+Wire Wire Line
+	6150 3300 6850 3300
+Wire Wire Line
+	6150 3900 6850 3900
+Wire Wire Line
+	6850 3300 7550 3300
+Wire Wire Line
+	6850 3900 7550 3900
+Wire Wire Line
+	7550 3300 8250 3300
+Wire Wire Line
+	7550 3900 8250 3900
+Wire Wire Line
+	8250 3300 8950 3300
+Wire Wire Line
+	8250 3900 8950 3900
+Wire Wire Line
+	8950 3300 9650 3300
+Wire Wire Line
+	8950 3900 9650 3900
+Wire Wire Line
+	9650 3300 10350 3300
+Wire Wire Line
+	9650 3900 10350 3900
+Wire Wire Line
+	10350 3300 11750 3300
+Wire Wire Line
+	10350 3900 11750 3900
+Wire Wire Line
+	11750 3300 12450 3300
+Wire Wire Line
+	11750 3900 12450 3900
+Wire Wire Line
+	650  4100 1950 4100
+Wire Wire Line
+	1950 4100 2650 4100
+Wire Wire Line
+	1950 4700 2650 4700
+Wire Wire Line
+	2650 4100 3350 4100
+Wire Wire Line
+	2650 4700 3350 4700
+Wire Wire Line
+	3350 4100 4050 4100
+Wire Wire Line
+	3350 4700 4050 4700
+Wire Wire Line
+	4050 4100 4750 4100
+Wire Wire Line
+	4050 4700 4750 4700
+Wire Wire Line
+	6150 4100 6850 4100
+Wire Wire Line
+	5450 4100 6150 4100
+Wire Wire Line
+	4750 4100 5450 4100
+Wire Wire Line
+	4750 4700 5450 4700
+Wire Wire Line
+	5450 4700 6150 4700
+Wire Wire Line
+	6150 4700 6850 4700
+Wire Wire Line
+	10350 4100 11750 4100
+Wire Wire Line
+	8950 4100 10350 4100
+Wire Wire Line
+	8250 4100 8950 4100
+Wire Wire Line
+	7550 4100 8250 4100
+Wire Wire Line
+	6850 4100 7550 4100
+Wire Wire Line
+	6850 4700 7550 4700
+Wire Wire Line
+	7550 4700 8250 4700
+Wire Wire Line
+	8250 4700 8950 4700
+Wire Wire Line
+	8950 4700 10350 4700
+Wire Wire Line
+	10350 4700 11750 4700
+Wire Wire Line
+	11750 4900 12450 4900
+Wire Wire Line
+	11750 5500 12450 5500
+Wire Wire Line
+	11050 4900 11750 4900
+Wire Wire Line
+	11050 5500 11750 5500
+Wire Wire Line
+	10350 4900 11050 4900
+Wire Wire Line
+	10350 5500 11050 5500
+Wire Wire Line
+	9650 4900 10350 4900
+Wire Wire Line
+	9650 5500 10350 5500
+Wire Wire Line
+	8950 4900 9650 4900
+Wire Wire Line
+	8950 5500 9650 5500
+Wire Wire Line
+	8250 4900 8950 4900
+Wire Wire Line
+	8250 5500 8950 5500
+Wire Wire Line
+	6750 5500 8250 5500
+Wire Wire Line
+	6550 4900 8250 4900
+Wire Wire Line
+	5450 4900 6550 4900
+Wire Wire Line
+	4350 5500 5450 5500
+Connection ~ 4350 5500
+Wire Wire Line
+	3350 4900 4350 4900
+Wire Wire Line
+	4350 4900 5450 4900
+Connection ~ 4350 4900
+$Comp
+L LED:WS2812B D201
+U 1 1 659FF45D
+P 4350 5200
+F 0 "D201" H 4694 5246 50  0000 L CNN
+F 1 "WS2812B" H 4694 5155 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 4400 4900 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4450 4825 50  0001 L TNN
+	1    4350 5200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3350 5500 4350 5500
+Wire Wire Line
+	1950 4900 3350 4900
+Wire Wire Line
+	1950 5500 3350 5500
+Wire Wire Line
+	1250 4900 1950 4900
+Wire Wire Line
+	1250 5500 1950 5500
+Wire Wire Line
+	650  4900 1250 4900
 $EndSCHEMATC
