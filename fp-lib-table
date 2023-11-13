@@ -2,4 +2,6 @@
   (lib (name MX_Alps_Hybrid)(type KiCad)(uri C:/Users/rober/OneDrive/Documents/GitHub/keyboardthingies/MX_Alps_Hybrid.pretty/MX_Alps_Hybrid.pretty)(options "")(descr ""))
   (lib (name random-keyboard-parts)(type KiCad)(uri ${KIPRJMOD}/random-keyboard-parts.pretty)(options "")(descr ""))
   (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/Type-C.pretty)(options "")(descr ""))
+  (lib (name LED_SMD)(type KiCad)(uri ${KIPRJMOD}/LED_SMD.pretty)(options "")(descr ""))
+  (lib (name LED_THT)(type KiCad)(uri ${KIPRJMOD}/LED_THT.pretty)(options "")(descr ""))
 )
