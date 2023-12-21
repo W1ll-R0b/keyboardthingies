@@ -5783,4 +5783,8 @@ Wire Wire Line
 	5750 6950 5750 7250
 Wire Wire Line
 	5900 6950 5750 6950
+Text GLabel 15550 6000 1    50   Input ~ 0
+DN
+Text GLabel 15550 6100 3    50   Input ~ 0
+DP
 $EndSCHEMATC
