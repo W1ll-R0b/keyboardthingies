@@ -1,0 +1,1400 @@
+** Drc report for C:\Users\rober\OneDrive\Documents\GitHub\keyboardthingies\matrix.kicad_pcb **
+** Created on  **
+
+** Found 464 DRC errors **
+ErrType(19): Pad too close to pad
+    @(-49.175 mm, 45.244 mm): Pad 1 of D153 on F.Cu and others
+    @(-47.625 mm, 45.244 mm): Pad of D153 on All copper layers
+ErrType(19): Pad too close to pad
+    @(-47.625 mm, 45.244 mm): Pad of D153 on All copper layers
+    @(-46.075 mm, 45.244 mm): Pad 2 of D153 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(-42.913 mm, 43.120 mm): Pad 12 of USBC1 on F.Cu and others
+    @(-42.138 mm, 43.120 mm): Pad 11 of USBC1 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(-37.237 mm, 43.120 mm): Pad 2 of USBC1 on F.Cu and others
+    @(-36.462 mm, 43.120 mm): Pad 1 of USBC1 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(-33.300 mm, 45.244 mm): Pad 1 of D162 on F.Cu and others
+    @(-31.750 mm, 45.244 mm): Pad of D162 on All copper layers
+ErrType(19): Pad too close to pad
+    @(-31.750 mm, 45.244 mm): Pad of D162 on All copper layers
+    @(-30.200 mm, 45.244 mm): Pad 2 of D162 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(-19.050 mm, 81.756 mm): Pad 2 of D173 on F.Cu and others
+    @(-17.500 mm, 81.756 mm): Pad of D173 on All copper layers
+ErrType(19): Pad too close to pad
+    @(-19.012 mm, 43.656 mm): Pad 2 of D171 on F.Cu and others
+    @(-17.462 mm, 43.656 mm): Pad of D171 on All copper layers
+ErrType(19): Pad too close to pad
+    @(-19.012 mm, 62.706 mm): Pad 1 of D172 on F.Cu and others
+    @(-17.462 mm, 62.706 mm): Pad of D172 on All copper layers
+ErrType(19): Pad too close to pad
+    @(-19.012 mm, 145.256 mm): Pad 1 of D176 on F.Cu and others
+    @(-17.462 mm, 145.256 mm): Pad of D176 on All copper layers
+ErrType(19): Pad too close to pad
+    @(-18.975 mm, 100.806 mm): Pad 1 of D174 on F.Cu and others
+    @(-17.425 mm, 100.806 mm): Pad of D174 on All copper layers
+ErrType(19): Pad too close to pad
+    @(-17.500 mm, 81.756 mm): Pad of D173 on All copper layers
+    @(-15.950 mm, 81.756 mm): Pad 1 of D173 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(-17.462 mm, 43.656 mm): Pad of D171 on All copper layers
+    @(-15.912 mm, 43.656 mm): Pad 1 of D171 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(-17.462 mm, 62.706 mm): Pad of D172 on All copper layers
+    @(-15.912 mm, 62.706 mm): Pad 2 of D172 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(-17.462 mm, 145.256 mm): Pad of D176 on All copper layers
+    @(-15.912 mm, 145.256 mm): Pad 2 of D176 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(-17.425 mm, 100.806 mm): Pad of D174 on All copper layers
+    @(-15.875 mm, 100.806 mm): Pad 2 of D174 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(0.037 mm, 43.656 mm): Pad 1 of D163 on F.Cu and others
+    @(1.587 mm, 43.656 mm): Pad of D163 on All copper layers
+ErrType(19): Pad too close to pad
+    @(0.037 mm, 145.256 mm): Pad 1 of D168 on F.Cu and others
+    @(1.587 mm, 145.256 mm): Pad of D168 on All copper layers
+ErrType(19): Pad too close to pad
+    @(0.075 mm, 62.706 mm): Pad 1 of D164 on F.Cu and others
+    @(1.625 mm, 62.706 mm): Pad of D164 on All copper layers
+ErrType(19): Pad too close to pad
+    @(0.075 mm, 81.756 mm): Pad 1 of D165 on F.Cu and others
+    @(1.625 mm, 81.756 mm): Pad of D165 on All copper layers
+ErrType(19): Pad too close to pad
+    @(0.075 mm, 100.806 mm): Pad 1 of D166 on F.Cu and others
+    @(1.625 mm, 100.806 mm): Pad of D166 on All copper layers
+ErrType(19): Pad too close to pad
+    @(0.075 mm, 126.206 mm): Pad 1 of D175 on F.Cu and others
+    @(1.625 mm, 126.206 mm): Pad of D175 on All copper layers
+ErrType(19): Pad too close to pad
+    @(1.587 mm, 43.656 mm): Pad of D163 on All copper layers
+    @(3.138 mm, 43.656 mm): Pad 2 of D163 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(1.587 mm, 145.256 mm): Pad of D168 on All copper layers
+    @(3.138 mm, 145.256 mm): Pad 2 of D168 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(1.625 mm, 62.706 mm): Pad of D164 on All copper layers
+    @(3.175 mm, 62.706 mm): Pad 2 of D164 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(1.625 mm, 81.756 mm): Pad of D165 on All copper layers
+    @(3.175 mm, 81.756 mm): Pad 2 of D165 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(1.625 mm, 100.806 mm): Pad of D166 on All copper layers
+    @(3.175 mm, 100.806 mm): Pad 2 of D166 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(1.625 mm, 126.206 mm): Pad of D175 on All copper layers
+    @(3.175 mm, 126.206 mm): Pad 2 of D175 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(19.125 mm, 145.256 mm): Pad 1 of D159 on F.Cu and others
+    @(20.675 mm, 145.256 mm): Pad of D159 on All copper layers
+ErrType(19): Pad too close to pad
+    @(20.675 mm, 145.256 mm): Pad of D159 on All copper layers
+    @(22.225 mm, 145.256 mm): Pad 2 of D159 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(25.438 mm, 43.656 mm): Pad 1 of D154 on F.Cu and others
+    @(26.988 mm, 43.656 mm): Pad of D154 on All copper layers
+ErrType(19): Pad too close to pad
+    @(26.988 mm, 43.656 mm): Pad of D154 on All copper layers
+    @(28.538 mm, 43.656 mm): Pad 2 of D154 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(30.238 mm, 81.756 mm): Pad 1 of D156 on F.Cu and others
+    @(31.788 mm, 81.756 mm): Pad of D156 on All copper layers
+ErrType(19): Pad too close to pad
+    @(31.788 mm, 81.756 mm): Pad of D156 on All copper layers
+    @(33.337 mm, 81.756 mm): Pad 2 of D156 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(34.962 mm, 62.706 mm): Pad 1 of D155 on F.Cu and others
+    @(36.513 mm, 62.706 mm): Pad of D155 on All copper layers
+ErrType(19): Pad too close to pad
+    @(36.513 mm, 62.706 mm): Pad of D155 on All copper layers
+    @(38.062 mm, 62.706 mm): Pad 2 of D155 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(37.344 mm, 100.806 mm): Pad 1 of D157 on F.Cu and others
+    @(38.894 mm, 100.806 mm): Pad of D157 on All copper layers
+ErrType(19): Pad too close to pad
+    @(38.894 mm, 100.806 mm): Pad of D157 on All copper layers
+    @(40.444 mm, 100.806 mm): Pad 2 of D157 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(42.106 mm, 119.856 mm): Pad 1 of D167 on F.Cu and others
+    @(43.656 mm, 119.856 mm): Pad of D167 on All copper layers
+ErrType(19): Pad too close to pad
+    @(43.656 mm, 119.856 mm): Pad of D167 on All copper layers
+    @(45.206 mm, 119.856 mm): Pad 2 of D167 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(44.487 mm, 43.656 mm): Pad 1 of D145 on F.Cu and others
+    @(46.038 mm, 43.656 mm): Pad of D145 on All copper layers
+ErrType(19): Pad too close to pad
+    @(44.525 mm, 138.906 mm): Pad 2 of D150 on F.Cu and others
+    @(46.075 mm, 138.906 mm): Pad of D150 on All copper layers
+ErrType(19): Pad too close to pad
+    @(46.038 mm, 43.656 mm): Pad of D145 on All copper layers
+    @(47.587 mm, 43.656 mm): Pad 2 of D145 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(46.075 mm, 138.906 mm): Pad of D150 on All copper layers
+    @(47.625 mm, 138.906 mm): Pad 1 of D150 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(54.013 mm, 81.756 mm): Pad 1 of D147 on F.Cu and others
+    @(55.562 mm, 81.756 mm): Pad of D147 on All copper layers
+ErrType(19): Pad too close to pad
+    @(55.562 mm, 81.756 mm): Pad of D147 on All copper layers
+    @(57.112 mm, 81.756 mm): Pad 2 of D147 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(63.538 mm, 43.656 mm): Pad 1 of D137 on F.Cu and others
+    @(65.088 mm, 43.656 mm): Pad of D137 on All copper layers
+ErrType(19): Pad too close to pad
+    @(63.538 mm, 62.706 mm): Pad 2 of D146 on F.Cu and others
+    @(65.088 mm, 62.706 mm): Pad of D146 on All copper layers
+ErrType(19): Pad too close to pad
+    @(63.538 mm, 138.906 mm): Pad 2 of D142 on F.Cu and others
+    @(65.088 mm, 138.906 mm): Pad of D142 on All copper layers
+ErrType(19): Pad too close to pad
+    @(65.088 mm, 43.656 mm): Pad of D137 on All copper layers
+    @(66.638 mm, 43.656 mm): Pad 2 of D137 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(65.088 mm, 62.706 mm): Pad of D146 on All copper layers
+    @(66.638 mm, 62.706 mm): Pad 1 of D146 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(65.088 mm, 138.906 mm): Pad of D142 on All copper layers
+    @(66.638 mm, 138.906 mm): Pad 1 of D142 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(68.300 mm, 100.806 mm): Pad 1 of D148 on F.Cu and others
+    @(69.850 mm, 100.806 mm): Pad of D148 on All copper layers
+ErrType(19): Pad too close to pad
+    @(69.850 mm, 100.806 mm): Pad of D148 on All copper layers
+    @(71.400 mm, 100.806 mm): Pad 2 of D148 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(73.100 mm, 81.756 mm): Pad 1 of D139 on F.Cu and others
+    @(74.650 mm, 81.756 mm): Pad of D139 on All copper layers
+ErrType(19): Pad too close to pad
+    @(74.650 mm, 81.756 mm): Pad of D139 on All copper layers
+    @(76.200 mm, 81.756 mm): Pad 2 of D139 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(77.862 mm, 119.856 mm): Pad 1 of D158 on F.Cu and others
+    @(79.412 mm, 119.856 mm): Pad of D158 on All copper layers
+ErrType(19): Pad too close to pad
+    @(79.412 mm, 119.856 mm): Pad of D158 on All copper layers
+    @(80.963 mm, 119.856 mm): Pad 2 of D158 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(82.588 mm, 138.906 mm): Pad 2 of D134 on F.Cu and others
+    @(84.138 mm, 138.906 mm): Pad of D134 on All copper layers
+ErrType(19): Pad too close to pad
+    @(82.625 mm, 43.656 mm): Pad 1 of D129 on F.Cu and others
+    @(84.175 mm, 43.656 mm): Pad of D129 on All copper layers
+ErrType(19): Pad too close to pad
+    @(82.625 mm, 62.706 mm): Pad 1 of D138 on F.Cu and others
+    @(84.175 mm, 62.706 mm): Pad of D138 on All copper layers
+ErrType(19): Pad too close to pad
+    @(84.138 mm, 138.906 mm): Pad of D134 on All copper layers
+    @(85.688 mm, 138.906 mm): Pad 1 of D134 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(84.175 mm, 43.656 mm): Pad of D129 on All copper layers
+    @(85.725 mm, 43.656 mm): Pad 2 of D129 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(84.175 mm, 62.706 mm): Pad of D138 on All copper layers
+    @(85.725 mm, 62.706 mm): Pad 2 of D138 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(87.350 mm, 100.806 mm): Pad 1 of D140 on F.Cu and others
+    @(88.900 mm, 100.806 mm): Pad of D140 on All copper layers
+ErrType(19): Pad too close to pad
+    @(88.900 mm, 100.806 mm): Pad of D140 on All copper layers
+    @(90.450 mm, 100.806 mm): Pad 2 of D140 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(92.112 mm, 81.756 mm): Pad 2 of D131 on F.Cu and others
+    @(93.662 mm, 81.756 mm): Pad of D131 on All copper layers
+ErrType(19): Pad too close to pad
+    @(93.662 mm, 81.756 mm): Pad of D131 on All copper layers
+    @(95.213 mm, 81.756 mm): Pad 1 of D131 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(96.912 mm, 119.856 mm): Pad 1 of D149 on F.Cu and others
+    @(98.463 mm, 119.856 mm): Pad of D149 on All copper layers
+ErrType(19): Pad too close to pad
+    @(98.463 mm, 119.856 mm): Pad of D149 on All copper layers
+    @(100.013 mm, 119.856 mm): Pad 2 of D149 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(101.638 mm, 43.656 mm): Pad 1 of D121 on F.Cu and others
+    @(103.188 mm, 43.656 mm): Pad of D121 on All copper layers
+ErrType(19): Pad too close to pad
+    @(101.638 mm, 62.706 mm): Pad 1 of D130 on F.Cu and others
+    @(103.188 mm, 62.706 mm): Pad of D130 on All copper layers
+ErrType(19): Pad too close to pad
+    @(101.675 mm, 138.906 mm): Pad 1 of D126 on F.Cu and others
+    @(103.225 mm, 138.906 mm): Pad of D126 on All copper layers
+ErrType(19): Pad too close to pad
+    @(103.188 mm, 43.656 mm): Pad of D121 on All copper layers
+    @(104.737 mm, 43.656 mm): Pad 2 of D121 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(103.188 mm, 62.706 mm): Pad of D130 on All copper layers
+    @(104.737 mm, 62.706 mm): Pad 2 of D130 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(103.225 mm, 138.906 mm): Pad of D126 on All copper layers
+    @(104.775 mm, 138.906 mm): Pad 2 of D126 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(106.438 mm, 100.806 mm): Pad 1 of D132 on F.Cu and others
+    @(107.987 mm, 100.806 mm): Pad of D132 on All copper layers
+ErrType(19): Pad too close to pad
+    @(107.987 mm, 100.806 mm): Pad of D132 on All copper layers
+    @(109.537 mm, 100.806 mm): Pad 2 of D132 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(111.162 mm, 81.756 mm): Pad 1 of D123 on F.Cu and others
+    @(112.713 mm, 81.756 mm): Pad of D123 on All copper layers
+ErrType(19): Pad too close to pad
+    @(112.713 mm, 81.756 mm): Pad of D123 on All copper layers
+    @(114.263 mm, 81.756 mm): Pad 2 of D123 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(115.963 mm, 119.856 mm): Pad 1 of D141 on F.Cu and others
+    @(117.513 mm, 119.856 mm): Pad of D141 on All copper layers
+ErrType(19): Pad too close to pad
+    @(117.513 mm, 119.856 mm): Pad of D141 on All copper layers
+    @(119.062 mm, 119.856 mm): Pad 2 of D141 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(120.725 mm, 43.656 mm): Pad 1 of D105 on F.Cu and others
+    @(122.275 mm, 43.656 mm): Pad of D105 on All copper layers
+ErrType(19): Pad too close to pad
+    @(120.725 mm, 62.706 mm): Pad 1 of D122 on F.Cu and others
+    @(122.275 mm, 62.706 mm): Pad of D122 on All copper layers
+ErrType(19): Pad too close to pad
+    @(122.275 mm, 43.656 mm): Pad of D105 on All copper layers
+    @(123.825 mm, 43.656 mm): Pad 2 of D105 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(122.275 mm, 62.706 mm): Pad of D122 on All copper layers
+    @(123.825 mm, 62.706 mm): Pad 2 of D122 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(125.450 mm, 100.806 mm): Pad 1 of D124 on F.Cu and others
+    @(127.000 mm, 100.806 mm): Pad of D124 on All copper layers
+ErrType(19): Pad too close to pad
+    @(127.000 mm, 100.806 mm): Pad of D124 on All copper layers
+    @(128.550 mm, 100.806 mm): Pad 2 of D124 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(130.250 mm, 81.756 mm): Pad 1 of D107 on F.Cu and others
+    @(131.800 mm, 81.756 mm): Pad of D107 on All copper layers
+ErrType(19): Pad too close to pad
+    @(131.006 mm, 145.256 mm): Pad 1 of D110 on F.Cu and others
+    @(132.556 mm, 145.256 mm): Pad of D110 on All copper layers
+ErrType(19): Pad too close to pad
+    @(131.800 mm, 81.756 mm): Pad of D107 on All copper layers
+    @(133.350 mm, 81.756 mm): Pad 2 of D107 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(132.556 mm, 145.256 mm): Pad of D110 on All copper layers
+    @(134.106 mm, 145.256 mm): Pad 2 of D110 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(135.012 mm, 119.856 mm): Pad 2 of D133 on F.Cu and others
+    @(136.562 mm, 119.856 mm): Pad of D133 on All copper layers
+ErrType(19): Pad too close to pad
+    @(136.562 mm, 119.856 mm): Pad of D133 on All copper layers
+    @(138.113 mm, 119.856 mm): Pad 1 of D133 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(139.738 mm, 43.656 mm): Pad 1 of D89 on F.Cu and others
+    @(141.287 mm, 43.656 mm): Pad of D89 on All copper layers
+ErrType(19): Pad too close to pad
+    @(139.775 mm, 62.706 mm): Pad 1 of D106 on F.Cu and others
+    @(141.325 mm, 62.706 mm): Pad of D106 on All copper layers
+ErrType(19): Pad too close to pad
+    @(141.287 mm, 43.656 mm): Pad of D89 on All copper layers
+    @(142.838 mm, 43.656 mm): Pad 2 of D89 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(141.325 mm, 62.706 mm): Pad of D106 on All copper layers
+    @(142.875 mm, 62.706 mm): Pad 2 of D106 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(144.537 mm, 100.806 mm): Pad 1 of D108 on F.Cu and others
+    @(146.088 mm, 100.806 mm): Pad of D108 on All copper layers
+ErrType(19): Pad too close to pad
+    @(146.088 mm, 100.806 mm): Pad of D108 on All copper layers
+    @(147.637 mm, 100.806 mm): Pad 2 of D108 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(149.300 mm, 81.756 mm): Pad 1 of D91 on F.Cu and others
+    @(150.850 mm, 81.756 mm): Pad of D91 on All copper layers
+ErrType(19): Pad too close to pad
+    @(150.850 mm, 81.756 mm): Pad of D91 on All copper layers
+    @(152.400 mm, 81.756 mm): Pad 2 of D91 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(154.025 mm, 119.856 mm): Pad 1 of D125 on F.Cu and others
+    @(155.575 mm, 119.856 mm): Pad of D125 on All copper layers
+ErrType(19): Pad too close to pad
+    @(155.575 mm, 119.856 mm): Pad of D125 on All copper layers
+    @(157.125 mm, 119.856 mm): Pad 2 of D125 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(158.787 mm, 43.656 mm): Pad 1 of D97 on F.Cu and others
+    @(160.338 mm, 43.656 mm): Pad of D97 on All copper layers
+ErrType(19): Pad too close to pad
+    @(158.825 mm, 62.706 mm): Pad 1 of D90 on F.Cu and others
+    @(160.375 mm, 62.706 mm): Pad of D90 on All copper layers
+ErrType(19): Pad too close to pad
+    @(160.338 mm, 43.656 mm): Pad of D97 on All copper layers
+    @(161.887 mm, 43.656 mm): Pad 2 of D97 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(160.375 mm, 62.706 mm): Pad of D90 on All copper layers
+    @(161.925 mm, 62.706 mm): Pad 2 of D90 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(163.550 mm, 100.806 mm): Pad 1 of D92 on F.Cu and others
+    @(165.100 mm, 100.806 mm): Pad of D92 on All copper layers
+ErrType(19): Pad too close to pad
+    @(165.100 mm, 100.806 mm): Pad of D92 on All copper layers
+    @(166.650 mm, 100.806 mm): Pad 2 of D92 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(168.312 mm, 81.756 mm): Pad 1 of D127 on F.Cu and others
+    @(169.863 mm, 81.756 mm): Pad of D127 on All copper layers
+ErrType(19): Pad too close to pad
+    @(169.863 mm, 81.756 mm): Pad of D127 on All copper layers
+    @(171.412 mm, 81.756 mm): Pad 2 of D127 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(170.694 mm, 138.906 mm): Pad 1 of D94 on F.Cu and others
+    @(172.244 mm, 138.906 mm): Pad of D94 on All copper layers
+ErrType(19): Pad too close to pad
+    @(172.244 mm, 138.906 mm): Pad of D94 on All copper layers
+    @(173.794 mm, 138.906 mm): Pad 2 of D94 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(173.075 mm, 119.856 mm): Pad 1 of D109 on F.Cu and others
+    @(174.625 mm, 119.856 mm): Pad of D109 on All copper layers
+ErrType(19): Pad too close to pad
+    @(174.625 mm, 119.856 mm): Pad of D109 on All copper layers
+    @(176.175 mm, 119.856 mm): Pad 2 of D109 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(177.875 mm, 43.656 mm): Pad 2 of D98 on F.Cu and others
+    @(179.425 mm, 43.656 mm): Pad of D98 on All copper layers
+ErrType(19): Pad too close to pad
+    @(177.875 mm, 62.706 mm): Pad 1 of D113 on F.Cu and others
+    @(179.425 mm, 62.706 mm): Pad of D113 on All copper layers
+ErrType(19): Pad too close to pad
+    @(179.425 mm, 43.656 mm): Pad of D98 on All copper layers
+    @(180.975 mm, 43.656 mm): Pad 1 of D98 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(179.425 mm, 62.706 mm): Pad of D113 on All copper layers
+    @(180.975 mm, 62.706 mm): Pad 2 of D113 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(182.600 mm, 101.600 mm): Pad 2 of D135 on F.Cu and others
+    @(184.150 mm, 101.600 mm): Pad of D135 on All copper layers
+ErrType(19): Pad too close to pad
+    @(184.150 mm, 101.600 mm): Pad of D135 on All copper layers
+    @(185.700 mm, 101.600 mm): Pad 1 of D135 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(187.363 mm, 81.756 mm): Pad 1 of D128 on F.Cu and others
+    @(188.912 mm, 81.756 mm): Pad of D128 on All copper layers
+ErrType(19): Pad too close to pad
+    @(188.912 mm, 81.756 mm): Pad of D128 on All copper layers
+    @(190.463 mm, 81.756 mm): Pad 2 of D128 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(192.125 mm, 119.856 mm): Pad 1 of D93 on F.Cu and others
+    @(193.675 mm, 119.856 mm): Pad of D93 on All copper layers
+ErrType(19): Pad too close to pad
+    @(193.675 mm, 119.856 mm): Pad of D93 on All copper layers
+    @(195.225 mm, 119.856 mm): Pad 2 of D93 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(196.887 mm, 62.706 mm): Pad 2 of D114 on F.Cu and others
+    @(198.438 mm, 62.706 mm): Pad of D114 on All copper layers
+ErrType(19): Pad too close to pad
+    @(196.925 mm, 43.656 mm): Pad 2 of D99 on F.Cu and others
+    @(198.475 mm, 43.656 mm): Pad of D99 on All copper layers
+ErrType(19): Pad too close to pad
+    @(198.438 mm, 62.706 mm): Pad of D114 on All copper layers
+    @(199.988 mm, 62.706 mm): Pad 1 of D114 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(198.475 mm, 43.656 mm): Pad of D99 on All copper layers
+    @(200.025 mm, 43.656 mm): Pad 1 of D99 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(201.650 mm, 100.806 mm): Pad 1 of D144 on F.Cu and others
+    @(203.200 mm, 100.806 mm): Pad of D144 on All copper layers
+ErrType(19): Pad too close to pad
+    @(203.200 mm, 100.806 mm): Pad of D144 on All copper layers
+    @(204.750 mm, 100.806 mm): Pad 2 of D144 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(206.412 mm, 81.756 mm): Pad 1 of D112 on F.Cu and others
+    @(207.963 mm, 81.756 mm): Pad of D112 on All copper layers
+ErrType(19): Pad too close to pad
+    @(207.963 mm, 81.756 mm): Pad of D112 on All copper layers
+    @(209.512 mm, 81.756 mm): Pad 2 of D112 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(209.625 mm, 145.256 mm): Pad 1 of D177 on F.Cu and others
+    @(211.175 mm, 145.256 mm): Pad of D177 on All copper layers
+ErrType(19): Pad too close to pad
+    @(211.175 mm, 119.856 mm): Pad 2 of D136 on F.Cu and others
+    @(212.725 mm, 119.856 mm): Pad of D136 on All copper layers
+ErrType(19): Pad too close to pad
+    @(211.175 mm, 145.256 mm): Pad of D177 on All copper layers
+    @(212.725 mm, 145.256 mm): Pad 2 of D177 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(212.725 mm, 119.856 mm): Pad of D136 on All copper layers
+    @(214.275 mm, 119.856 mm): Pad 1 of D136 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(215.938 mm, 43.656 mm): Pad 2 of D100 on F.Cu and others
+    @(217.488 mm, 43.656 mm): Pad of D100 on All copper layers
+ErrType(19): Pad too close to pad
+    @(215.938 mm, 62.706 mm): Pad 2 of D115 on F.Cu and others
+    @(217.488 mm, 62.706 mm): Pad of D115 on All copper layers
+ErrType(19): Pad too close to pad
+    @(217.488 mm, 43.656 mm): Pad of D100 on All copper layers
+    @(219.037 mm, 43.656 mm): Pad 1 of D100 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(217.488 mm, 62.706 mm): Pad of D115 on All copper layers
+    @(219.037 mm, 62.706 mm): Pad 1 of D115 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(220.700 mm, 100.806 mm): Pad 1 of D143 on F.Cu and others
+    @(222.250 mm, 100.806 mm): Pad of D143 on All copper layers
+ErrType(19): Pad too close to pad
+    @(222.250 mm, 100.806 mm): Pad of D143 on All copper layers
+    @(223.800 mm, 100.806 mm): Pad 2 of D143 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(225.463 mm, 81.756 mm): Pad 1 of D111 on F.Cu and others
+    @(227.012 mm, 81.756 mm): Pad of D111 on All copper layers
+ErrType(19): Pad too close to pad
+    @(227.012 mm, 81.756 mm): Pad of D111 on All copper layers
+    @(228.562 mm, 81.756 mm): Pad 2 of D111 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(230.225 mm, 119.856 mm): Pad 2 of D169 on F.Cu and others
+    @(231.775 mm, 119.856 mm): Pad of D169 on All copper layers
+ErrType(19): Pad too close to pad
+    @(231.775 mm, 119.856 mm): Pad of D169 on All copper layers
+    @(233.325 mm, 119.856 mm): Pad 1 of D169 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(234.988 mm, 62.706 mm): Pad 2 of D116 on F.Cu and others
+    @(236.537 mm, 62.706 mm): Pad of D116 on All copper layers
+ErrType(19): Pad too close to pad
+    @(235.025 mm, 43.656 mm): Pad 2 of D101 on F.Cu and others
+    @(236.575 mm, 43.656 mm): Pad of D101 on All copper layers
+ErrType(19): Pad too close to pad
+    @(236.537 mm, 62.706 mm): Pad of D116 on All copper layers
+    @(238.088 mm, 62.706 mm): Pad 1 of D116 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(236.575 mm, 43.656 mm): Pad of D101 on All copper layers
+    @(238.125 mm, 43.656 mm): Pad 1 of D101 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(239.787 mm, 100.806 mm): Pad 2 of D151 on F.Cu and others
+    @(241.338 mm, 100.806 mm): Pad of D151 on All copper layers
+ErrType(19): Pad too close to pad
+    @(241.338 mm, 100.806 mm): Pad of D151 on All copper layers
+    @(242.887 mm, 100.806 mm): Pad 1 of D151 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(242.131 mm, 138.906 mm): Pad 1 of D178 on F.Cu and others
+    @(243.681 mm, 138.906 mm): Pad of D178 on All copper layers
+ErrType(19): Pad too close to pad
+    @(243.681 mm, 138.906 mm): Pad of D178 on All copper layers
+    @(245.231 mm, 138.906 mm): Pad 2 of D178 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(244.550 mm, 81.756 mm): Pad 1 of D95 on F.Cu and others
+    @(246.100 mm, 81.756 mm): Pad of D95 on All copper layers
+ErrType(19): Pad too close to pad
+    @(246.100 mm, 81.756 mm): Pad of D95 on All copper layers
+    @(247.650 mm, 81.756 mm): Pad 2 of D95 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(249.275 mm, 119.856 mm): Pad 2 of D170 on F.Cu and others
+    @(250.825 mm, 119.856 mm): Pad of D170 on All copper layers
+ErrType(19): Pad too close to pad
+    @(250.825 mm, 119.856 mm): Pad of D170 on All copper layers
+    @(252.375 mm, 119.856 mm): Pad 1 of D170 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(254.075 mm, 43.656 mm): Pad 2 of D102 on F.Cu and others
+    @(255.625 mm, 43.656 mm): Pad of D102 on All copper layers
+ErrType(19): Pad too close to pad
+    @(254.075 mm, 62.706 mm): Pad 2 of D117 on F.Cu and others
+    @(255.625 mm, 62.706 mm): Pad of D117 on All copper layers
+ErrType(19): Pad too close to pad
+    @(255.625 mm, 43.656 mm): Pad of D102 on All copper layers
+    @(257.175 mm, 43.656 mm): Pad 1 of D102 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(255.625 mm, 62.706 mm): Pad of D117 on All copper layers
+    @(257.175 mm, 62.706 mm): Pad 1 of D117 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(258.800 mm, 100.806 mm): Pad 2 of D152 on F.Cu and others
+    @(260.350 mm, 100.806 mm): Pad of D152 on All copper layers
+ErrType(19): Pad too close to pad
+    @(260.350 mm, 100.806 mm): Pad of D152 on All copper layers
+    @(261.900 mm, 100.806 mm): Pad 1 of D152 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(263.525 mm, 81.756 mm): Pad 1 of D96 on F.Cu and others
+    @(265.075 mm, 81.756 mm): Pad of D96 on All copper layers
+ErrType(19): Pad too close to pad
+    @(265.075 mm, 81.756 mm): Pad of D96 on All copper layers
+    @(266.625 mm, 81.756 mm): Pad 2 of D96 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(265.944 mm, 138.906 mm): Pad 1 of D190 on F.Cu and others
+    @(267.494 mm, 138.906 mm): Pad of D190 on All copper layers
+ErrType(19): Pad too close to pad
+    @(267.494 mm, 138.906 mm): Pad of D190 on All copper layers
+    @(269.044 mm, 138.906 mm): Pad 2 of D190 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(273.087 mm, 43.656 mm): Pad 2 of D103 on F.Cu and others
+    @(274.637 mm, 43.656 mm): Pad of D103 on All copper layers
+ErrType(19): Pad too close to pad
+    @(273.125 mm, 62.706 mm): Pad 2 of D118 on F.Cu and others
+    @(274.675 mm, 62.706 mm): Pad of D118 on All copper layers
+ErrType(19): Pad too close to pad
+    @(274.637 mm, 43.656 mm): Pad of D103 on All copper layers
+    @(276.188 mm, 43.656 mm): Pad 1 of D103 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(274.675 mm, 62.706 mm): Pad of D118 on All copper layers
+    @(276.225 mm, 62.706 mm): Pad 1 of D118 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(280.269 mm, 119.856 mm): Pad 2 of D160 on F.Cu and others
+    @(281.819 mm, 119.856 mm): Pad of D160 on All copper layers
+ErrType(19): Pad too close to pad
+    @(281.819 mm, 119.856 mm): Pad of D160 on All copper layers
+    @(283.369 mm, 119.856 mm): Pad 1 of D160 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(284.994 mm, 100.806 mm): Pad 2 of D161 on F.Cu and others
+    @(286.544 mm, 100.806 mm): Pad of D161 on All copper layers
+ErrType(19): Pad too close to pad
+    @(286.544 mm, 100.806 mm): Pad of D161 on All copper layers
+    @(288.094 mm, 100.806 mm): Pad 1 of D161 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(287.375 mm, 81.756 mm): Pad 2 of D120 on F.Cu and others
+    @(288.925 mm, 81.756 mm): Pad of D120 on All copper layers
+ErrType(19): Pad too close to pad
+    @(288.925 mm, 81.756 mm): Pad of D120 on All copper layers
+    @(290.475 mm, 81.756 mm): Pad 1 of D120 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(289.756 mm, 138.906 mm): Pad 1 of D191 on F.Cu and others
+    @(291.306 mm, 138.906 mm): Pad of D191 on All copper layers
+ErrType(19): Pad too close to pad
+    @(291.306 mm, 138.906 mm): Pad of D191 on All copper layers
+    @(292.856 mm, 138.906 mm): Pad 2 of D191 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(292.137 mm, 43.656 mm): Pad 2 of D104 on F.Cu and others
+    @(293.688 mm, 43.656 mm): Pad of D104 on All copper layers
+ErrType(19): Pad too close to pad
+    @(292.137 mm, 62.706 mm): Pad 2 of D119 on F.Cu and others
+    @(293.688 mm, 62.706 mm): Pad of D119 on All copper layers
+ErrType(19): Pad too close to pad
+    @(293.688 mm, 43.656 mm): Pad of D104 on All copper layers
+    @(295.238 mm, 43.656 mm): Pad 1 of D104 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(293.688 mm, 62.706 mm): Pad of D119 on All copper layers
+    @(295.238 mm, 62.706 mm): Pad 1 of D119 on F.Cu and others
+ErrType(51): Drilled holes too close together
+    @(139.065 mm, 131.286 mm): Pad 2 of MX72 on All copper layers
+    @(139.025 mm, 130.706 mm): Pad 2 of MX72 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(158.115 mm, 131.286 mm): Pad 2 of MX71 on All copper layers
+    @(158.075 mm, 130.706 mm): Pad 2 of MX71 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(4.128 mm, 156.686 mm): Pad 2 of MX87 on All copper layers
+    @(4.088 mm, 156.106 mm): Pad 2 of MX87 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(67.627 mm, 55.086 mm): Pad 2 of MX13 on All copper layers
+    @(67.588 mm, 54.506 mm): Pad 2 of MX13 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(-14.922 mm, 156.686 mm): Pad 2 of MX88 on All copper layers
+    @(-14.963 mm, 156.106 mm): Pad 2 of MX88 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(23.177 mm, 156.686 mm): Pad 2 of MX86 on All copper layers
+    @(23.137 mm, 156.106 mm): Pad 2 of MX86 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(48.578 mm, 150.336 mm): Pad 2 of MX85 on All copper layers
+    @(48.538 mm, 149.756 mm): Pad 2 of MX85 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(67.627 mm, 150.336 mm): Pad 2 of MX84 on All copper layers
+    @(67.588 mm, 149.756 mm): Pad 2 of MX84 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(86.677 mm, 150.336 mm): Pad 2 of MX83 on All copper layers
+    @(86.638 mm, 149.756 mm): Pad 2 of MX83 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(105.728 mm, 150.336 mm): Pad 2 of MX82 on All copper layers
+    @(105.688 mm, 149.756 mm): Pad 2 of MX82 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(246.221 mm, 150.336 mm): Pad 2 of MX80 on All copper layers
+    @(246.181 mm, 149.756 mm): Pad 2 of MX80 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(270.034 mm, 150.336 mm): Pad 2 of MX79 on All copper layers
+    @(269.994 mm, 149.756 mm): Pad 2 of MX79 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(293.846 mm, 150.336 mm): Pad 2 of MX78 on All copper layers
+    @(293.806 mm, 149.756 mm): Pad 2 of MX78 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(4.066 mm, 137.566 mm): Pad 2 of MX77 on All copper layers
+    @(4.026 mm, 136.986 mm): Pad 2 of MX77 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(46.196 mm, 131.286 mm): Pad 2 of MX76 on All copper layers
+    @(46.156 mm, 130.706 mm): Pad 2 of MX76 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(81.915 mm, 131.286 mm): Pad 2 of MX75 on All copper layers
+    @(81.875 mm, 130.706 mm): Pad 2 of MX75 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(100.965 mm, 131.286 mm): Pad 2 of MX74 on All copper layers
+    @(100.925 mm, 130.706 mm): Pad 2 of MX74 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(120.015 mm, 131.286 mm): Pad 2 of MX73 on All copper layers
+    @(119.975 mm, 130.706 mm): Pad 2 of MX73 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(177.165 mm, 131.286 mm): Pad 2 of MX70 on All copper layers
+    @(177.125 mm, 130.706 mm): Pad 2 of MX70 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(196.215 mm, 131.286 mm): Pad 2 of MX69 on All copper layers
+    @(196.175 mm, 130.706 mm): Pad 2 of MX69 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(215.265 mm, 131.286 mm): Pad 2 of MX68 on All copper layers
+    @(215.225 mm, 130.706 mm): Pad 2 of MX68 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(234.315 mm, 131.286 mm): Pad 2 of MX67 on All copper layers
+    @(234.275 mm, 130.706 mm): Pad 2 of MX67 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(253.365 mm, 131.286 mm): Pad 2 of MX66 on All copper layers
+    @(253.325 mm, 130.706 mm): Pad 2 of MX66 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(284.321 mm, 131.286 mm): Pad 2 of MX65 on All copper layers
+    @(284.281 mm, 130.706 mm): Pad 2 of MX65 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(-14.922 mm, 112.236 mm): Pad 2 of MX64 on All copper layers
+    @(-14.963 mm, 111.656 mm): Pad 2 of MX64 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(4.128 mm, 112.236 mm): Pad 2 of MX63 on All copper layers
+    @(4.088 mm, 111.656 mm): Pad 2 of MX63 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(41.434 mm, 112.236 mm): Pad 2 of MX62 on All copper layers
+    @(41.394 mm, 111.656 mm): Pad 2 of MX62 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(72.390 mm, 112.236 mm): Pad 2 of MX61 on All copper layers
+    @(72.350 mm, 111.656 mm): Pad 2 of MX61 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(91.440 mm, 112.236 mm): Pad 2 of MX60 on All copper layers
+    @(91.400 mm, 111.656 mm): Pad 2 of MX60 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(110.490 mm, 112.236 mm): Pad 2 of MX59 on All copper layers
+    @(110.450 mm, 111.656 mm): Pad 2 of MX59 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(129.540 mm, 112.236 mm): Pad 2 of MX58 on All copper layers
+    @(129.500 mm, 111.656 mm): Pad 2 of MX58 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(148.590 mm, 112.236 mm): Pad 2 of MX57 on All copper layers
+    @(148.550 mm, 111.656 mm): Pad 2 of MX57 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(167.640 mm, 112.236 mm): Pad 2 of MX56 on All copper layers
+    @(167.600 mm, 111.656 mm): Pad 2 of MX56 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(186.690 mm, 112.236 mm): Pad 2 of MX55 on All copper layers
+    @(186.650 mm, 111.656 mm): Pad 2 of MX55 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(205.740 mm, 112.236 mm): Pad 2 of MX54 on All copper layers
+    @(205.700 mm, 111.656 mm): Pad 2 of MX54 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(224.790 mm, 112.236 mm): Pad 2 of MX53 on All copper layers
+    @(224.750 mm, 111.656 mm): Pad 2 of MX53 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(243.840 mm, 112.236 mm): Pad 2 of MX52 on All copper layers
+    @(243.800 mm, 111.656 mm): Pad 2 of MX52 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(262.890 mm, 112.236 mm): Pad 2 of MX51 on All copper layers
+    @(262.850 mm, 111.656 mm): Pad 2 of MX51 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(289.099 mm, 112.236 mm): Pad 2 of MX50 on All copper layers
+    @(289.059 mm, 111.656 mm): Pad 2 of MX50 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(-14.922 mm, 93.186 mm): Pad 2 of MX49 on All copper layers
+    @(-14.963 mm, 92.606 mm): Pad 2 of MX49 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(4.128 mm, 93.186 mm): Pad 2 of MX48 on All copper layers
+    @(4.088 mm, 92.606 mm): Pad 2 of MX48 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(34.290 mm, 93.186 mm): Pad 2 of MX47 on All copper layers
+    @(34.250 mm, 92.606 mm): Pad 2 of MX47 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(58.102 mm, 93.186 mm): Pad 2 of MX46 on All copper layers
+    @(58.062 mm, 92.606 mm): Pad 2 of MX46 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(77.153 mm, 93.186 mm): Pad 2 of MX45 on All copper layers
+    @(77.112 mm, 92.606 mm): Pad 2 of MX45 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(96.203 mm, 93.186 mm): Pad 2 of MX44 on All copper layers
+    @(96.162 mm, 92.606 mm): Pad 2 of MX44 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(115.252 mm, 93.186 mm): Pad 2 of MX43 on All copper layers
+    @(115.213 mm, 92.606 mm): Pad 2 of MX43 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(134.303 mm, 93.186 mm): Pad 2 of MX42 on All copper layers
+    @(134.262 mm, 92.606 mm): Pad 2 of MX42 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(153.352 mm, 93.186 mm): Pad 2 of MX41 on All copper layers
+    @(153.312 mm, 92.606 mm): Pad 2 of MX41 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(172.403 mm, 93.186 mm): Pad 2 of MX40 on All copper layers
+    @(172.363 mm, 92.606 mm): Pad 2 of MX40 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(191.452 mm, 93.186 mm): Pad 2 of MX39 on All copper layers
+    @(191.412 mm, 92.606 mm): Pad 2 of MX39 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(210.502 mm, 93.186 mm): Pad 2 of MX38 on All copper layers
+    @(210.463 mm, 92.606 mm): Pad 2 of MX38 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(229.553 mm, 93.186 mm): Pad 2 of MX37 on All copper layers
+    @(229.512 mm, 92.606 mm): Pad 2 of MX37 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(248.602 mm, 93.186 mm): Pad 2 of MX36 on All copper layers
+    @(248.562 mm, 92.606 mm): Pad 2 of MX36 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(267.652 mm, 93.186 mm): Pad 2 of MX35 on All copper layers
+    @(267.613 mm, 92.606 mm): Pad 2 of MX35 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(291.465 mm, 93.186 mm): Pad 2 of MX34 on All copper layers
+    @(291.425 mm, 92.606 mm): Pad 2 of MX34 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(-14.922 mm, 74.136 mm): Pad 2 of MX33 on All copper layers
+    @(-14.963 mm, 73.556 mm): Pad 2 of MX33 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(4.128 mm, 74.136 mm): Pad 2 of MX32 on All copper layers
+    @(4.088 mm, 73.556 mm): Pad 2 of MX32 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(39.053 mm, 74.136 mm): Pad 2 of MX31 on All copper layers
+    @(39.013 mm, 73.556 mm): Pad 2 of MX31 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(67.627 mm, 74.136 mm): Pad 2 of MX30 on All copper layers
+    @(67.588 mm, 73.556 mm): Pad 2 of MX30 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(86.638 mm, 73.556 mm): Pad 2 of MX29 on All copper layers
+    @(86.677 mm, 74.136 mm): Pad 2 of MX29 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(105.728 mm, 74.136 mm): Pad 2 of MX28 on All copper layers
+    @(105.688 mm, 73.556 mm): Pad 2 of MX28 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(124.778 mm, 74.136 mm): Pad 2 of MX27 on All copper layers
+    @(124.737 mm, 73.556 mm): Pad 2 of MX27 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(143.827 mm, 74.136 mm): Pad 2 of MX26 on All copper layers
+    @(143.787 mm, 73.556 mm): Pad 2 of MX26 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(162.877 mm, 74.136 mm): Pad 2 of MX25 on All copper layers
+    @(162.838 mm, 73.556 mm): Pad 2 of MX25 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(181.928 mm, 74.136 mm): Pad 2 of MX24 on All copper layers
+    @(181.887 mm, 73.556 mm): Pad 2 of MX24 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(200.938 mm, 73.556 mm): Pad 2 of MX23 on All copper layers
+    @(200.977 mm, 74.136 mm): Pad 2 of MX23 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(220.028 mm, 74.136 mm): Pad 2 of MX22 on All copper layers
+    @(219.988 mm, 73.556 mm): Pad 2 of MX22 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(239.077 mm, 74.136 mm): Pad 2 of MX21 on All copper layers
+    @(239.037 mm, 73.556 mm): Pad 2 of MX21 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(258.127 mm, 74.136 mm): Pad 2 of MX20 on All copper layers
+    @(258.087 mm, 73.556 mm): Pad 2 of MX20 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(277.178 mm, 74.136 mm): Pad 2 of MX19 on All copper layers
+    @(277.137 mm, 73.556 mm): Pad 2 of MX19 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(296.228 mm, 74.136 mm): Pad 2 of MX18 on All copper layers
+    @(296.188 mm, 73.556 mm): Pad 2 of MX18 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(4.128 mm, 55.086 mm): Pad 2 of MX16 on All copper layers
+    @(4.088 mm, 54.506 mm): Pad 2 of MX16 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(29.527 mm, 55.086 mm): Pad 2 of MX15 on All copper layers
+    @(29.488 mm, 54.506 mm): Pad 2 of MX15 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(48.578 mm, 55.086 mm): Pad 2 of MX14 on All copper layers
+    @(48.538 mm, 54.506 mm): Pad 2 of MX14 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(86.638 mm, 54.506 mm): Pad 2 of MX12 on All copper layers
+    @(86.677 mm, 55.086 mm): Pad 2 of MX12 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(105.728 mm, 55.086 mm): Pad 2 of MX11 on All copper layers
+    @(105.688 mm, 54.506 mm): Pad 2 of MX11 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(124.778 mm, 55.086 mm): Pad 2 of MX10 on All copper layers
+    @(124.737 mm, 54.506 mm): Pad 2 of MX10 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(143.827 mm, 55.086 mm): Pad 2 of MX9 on All copper layers
+    @(143.787 mm, 54.506 mm): Pad 2 of MX9 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(162.877 mm, 55.086 mm): Pad 2 of MX8 on All copper layers
+    @(162.838 mm, 54.506 mm): Pad 2 of MX8 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(181.928 mm, 55.086 mm): Pad 2 of MX7 on All copper layers
+    @(181.887 mm, 54.506 mm): Pad 2 of MX7 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(200.938 mm, 54.506 mm): Pad 2 of MX6 on All copper layers
+    @(200.977 mm, 55.086 mm): Pad 2 of MX6 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(220.028 mm, 55.086 mm): Pad 2 of MX5 on All copper layers
+    @(219.988 mm, 54.506 mm): Pad 2 of MX5 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(239.077 mm, 55.086 mm): Pad 2 of MX4 on All copper layers
+    @(239.037 mm, 54.506 mm): Pad 2 of MX4 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(258.127 mm, 55.086 mm): Pad 2 of MX3 on All copper layers
+    @(258.087 mm, 54.506 mm): Pad 2 of MX3 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(277.178 mm, 55.086 mm): Pad 2 of MX2 on All copper layers
+    @(277.137 mm, 54.506 mm): Pad 2 of MX2 on All copper layers
+ErrType(51): Drilled holes too close together
+    @(296.228 mm, 55.086 mm): Pad 2 of MX1 on All copper layers
+    @(296.188 mm, 54.506 mm): Pad 2 of MX1 on All copper layers
+ErrType(4): Track too close to pad
+    @(-19.387 mm, 136.800 mm): Track 0.250 mm [<no net>] on F.Cu, length: 0.106 mm
+    @(-19.462 mm, 137.875 mm): Pad 54 of U2 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(-13.062 mm, 136.875 mm): Track 0.250 mm [<no net>] on F.Cu, length: 0.106 mm
+    @(-13.062 mm, 137.875 mm): Pad 62 of U2 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(-13.062 mm, 137.875 mm): Track 0.250 mm [<no net>] on F.Cu, length: 1.000 mm
+    @(-13.062 mm, 137.875 mm): Pad 62 of U2 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(-19.462 mm, 137.875 mm): Track 0.250 mm [<no net>] on F.Cu, length: 1.000 mm
+    @(-19.462 mm, 137.875 mm): Pad 54 of U2 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(-21.863 mm, 137.875 mm): Track 0.250 mm [<no net>] on F.Cu, length: 0.800 mm
+    @(-21.863 mm, 137.875 mm): Pad 51 of U2 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(-22.663 mm, 137.875 mm): Track 0.250 mm [<no net>] on F.Cu, length: 0.800 mm
+    @(-22.663 mm, 137.875 mm): Pad 50 of U2 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(-25.163 mm, 136.175 mm): Track 0.250 mm [<no net>] on F.Cu, length: 0.800 mm
+    @(-25.163 mm, 136.175 mm): Pad 48 of U2 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(-25.163 mm, 135.375 mm): Track 0.250 mm [<no net>] on F.Cu, length: 0.800 mm
+    @(-25.163 mm, 135.375 mm): Pad 47 of U2 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(-25.163 mm, 134.575 mm): Track 0.250 mm [<no net>] on F.Cu, length: 0.800 mm
+    @(-25.163 mm, 134.575 mm): Pad 46 of U2 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(-25.163 mm, 133.775 mm): Track 0.250 mm [<no net>] on F.Cu, length: 0.800 mm
+    @(-25.163 mm, 133.775 mm): Pad 45 of U2 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(-24.163 mm, 132.975 mm): Track 0.250 mm [<no net>] on F.Cu, length: 1.000 mm
+    @(-25.163 mm, 132.975 mm): Pad 44 of U2 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(-24.087 mm, 132.900 mm): Track 0.250 mm [<no net>] on F.Cu, length: 0.106 mm
+    @(-25.163 mm, 132.975 mm): Pad 44 of U2 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(-24.352 mm, 131.375 mm): Track 0.250 mm [<no net>] on F.Cu, length: 0.375 mm
+    @(-25.163 mm, 131.375 mm): Pad 42 of U2 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(-25.163 mm, 131.375 mm): Track 0.250 mm [<no net>] on F.Cu, length: 0.810 mm
+    @(-25.163 mm, 131.375 mm): Pad 42 of U2 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(-25.163 mm, 130.575 mm): Track 0.250 mm [<no net>] on F.Cu, length: 0.800 mm
+    @(-25.163 mm, 130.575 mm): Pad 41 of U2 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(-33.337 mm, 62.681 mm): Track 0.250 mm [<no net>] on F.Cu, length: 0.301 mm
+    @(-33.125 mm, 62.469 mm): Pad of SW2 on All copper layers
+ErrType(4): Track too close to pad
+    @(-33.337 mm, 63.500 mm): Track 0.250 mm [<no net>] on F.Cu, length: 0.819 mm
+    @(-33.125 mm, 62.469 mm): Pad of SW2 on All copper layers
+ErrType(4): Track too close to pad
+    @(-19.462 mm, 136.875 mm): Track 0.250 mm [<no net>] on F.Cu, length: 0.062 mm
+    @(-19.462 mm, 137.875 mm): Pad 54 of U2 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(-21.863 mm, 137.046 mm): Track 0.250 mm [<no net>] on F.Cu, length: 0.829 mm
+    @(-21.863 mm, 137.875 mm): Pad 51 of U2 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(-19.462 mm, 136.938 mm): Track 0.250 mm [<no net>] on F.Cu, length: 0.938 mm
+    @(-19.462 mm, 137.875 mm): Pad 54 of U2 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(145.506 mm, 147.269 mm): Track 0.250 mm [<no net>] on F.Cu, length: 0.650 mm
+    @(145.506 mm, 147.269 mm): Pad 17 of U1 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(150.706 mm, 140.069 mm): Track 0.250 mm [<no net>] on F.Cu, length: 1.125 mm
+    @(150.706 mm, 140.069 mm): Pad 4 of U1 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(150.706 mm, 141.194 mm): Track 0.250 mm [<no net>] on F.Cu, length: 0.799 mm
+    @(150.706 mm, 140.069 mm): Pad 4 of U1 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(145.506 mm, 146.144 mm): Track 0.250 mm [<no net>] on F.Cu, length: 1.125 mm
+    @(145.506 mm, 147.269 mm): Pad 17 of U1 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(148.775 mm, 142.875 mm): Track 0.250 mm [<no net>] on F.Cu, length: 4.623 mm
+    @(145.506 mm, 147.269 mm): Pad 17 of U1 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(82.737 mm, 127.794 mm): Track 0.250 mm [AD] on B.Cu, length: 4.755 mm
+    @(81.875 mm, 130.706 mm): Pad 2 of MX75 on All copper layers
+ErrType(4): Track too close to pad
+    @(1.587 mm, 73.358 mm): Track 0.250 mm [VCC] on F.Cu, length: 4.541 mm
+    @(-2.223 mm, 71.596 mm): Pad 1 of MX32 on All copper layers
+ErrType(4): Track too close to pad
+    @(-1.624 mm, 70.147 mm): Track 0.250 mm [VCC] on F.Cu, length: 1.184 mm
+    @(-2.223 mm, 71.596 mm): Pad 1 of MX32 on All copper layers
+ErrType(4): Track too close to pad
+    @(-8.319 mm, 117.541 mm): Via 0.800 mm [Net-(C9-Pad1)] on F.Cu - B.Cu
+    @(-9.625 mm, 118.269 mm): Pad 2 of R5 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(25.227 mm, 44.388 mm): Track 0.250 mm [ROW0] on F.Cu, length: 5.673 mm
+    @(26.988 mm, 43.656 mm): Pad of D154 on All copper layers
+ErrType(4): Track too close to pad
+    @(24.433 mm, 43.594 mm): Track 0.250 mm [ROW0] on F.Cu, length: 1.123 mm
+    @(25.438 mm, 43.656 mm): Pad 1 of D154 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(34.188 mm, 44.388 mm): Track 0.250 mm [ROW0] on F.Cu, length: 15.825 mm
+    @(46.038 mm, 43.656 mm): Pad of D145 on All copper layers
+ErrType(4): Track too close to pad
+    @(52.475 mm, 44.388 mm): Track 0.250 mm [ROW0] on F.Cu, length: 16.525 mm
+    @(65.088 mm, 43.656 mm): Pad of D137 on All copper layers
+ErrType(4): Track too close to pad
+    @(72.288 mm, 44.388 mm): Track 0.250 mm [ROW0] on F.Cu, length: 15.762 mm
+    @(84.175 mm, 43.656 mm): Pad of D129 on All copper layers
+ErrType(4): Track too close to pad
+    @(91.338 mm, 44.388 mm): Track 0.250 mm [ROW0] on F.Cu, length: 15.762 mm
+    @(103.188 mm, 43.656 mm): Pad of D121 on All copper layers
+ErrType(4): Track too close to pad
+    @(109.688 mm, 44.388 mm): Track 0.250 mm [ROW0] on F.Cu, length: 16.462 mm
+    @(122.275 mm, 43.656 mm): Pad of D105 on All copper layers
+ErrType(4): Track too close to pad
+    @(128.738 mm, 44.388 mm): Track 0.250 mm [ROW0] on F.Cu, length: 16.462 mm
+    @(141.287 mm, 43.656 mm): Pad of D89 on All copper layers
+ErrType(4): Track too close to pad
+    @(147.788 mm, 44.388 mm): Track 0.250 mm [ROW0] on F.Cu, length: 16.462 mm
+    @(160.338 mm, 43.656 mm): Pad of D97 on All copper layers
+ErrType(4): Track too close to pad
+    @(177.664 mm, 44.388 mm): Track 0.250 mm [ROW0] on F.Cu, length: 5.636 mm
+    @(179.425 mm, 43.656 mm): Pad of D98 on All copper layers
+ErrType(4): Track too close to pad
+    @(176.870 mm, 43.594 mm): Track 0.250 mm [ROW0] on F.Cu, length: 1.123 mm
+    @(177.875 mm, 43.656 mm): Pad 2 of D98 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(185.888 mm, 44.388 mm): Track 0.250 mm [ROW0] on F.Cu, length: 16.462 mm
+    @(198.475 mm, 43.656 mm): Pad of D99 on All copper layers
+ErrType(4): Track too close to pad
+    @(215.764 mm, 44.388 mm): Track 0.250 mm [ROW0] on F.Cu, length: 5.636 mm
+    @(219.037 mm, 43.656 mm): Pad 1 of D100 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(214.970 mm, 43.594 mm): Track 0.250 mm [ROW0] on F.Cu, length: 1.123 mm
+    @(215.938 mm, 43.656 mm): Pad 2 of D100 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(234.814 mm, 44.388 mm): Track 0.250 mm [ROW0] on F.Cu, length: 5.636 mm
+    @(236.575 mm, 43.656 mm): Pad of D101 on All copper layers
+ErrType(4): Track too close to pad
+    @(234.020 mm, 43.594 mm): Track 0.250 mm [ROW0] on F.Cu, length: 1.123 mm
+    @(235.025 mm, 43.656 mm): Pad 2 of D101 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(243.038 mm, 44.388 mm): Track 0.250 mm [ROW0] on F.Cu, length: 16.462 mm
+    @(255.625 mm, 43.656 mm): Pad of D102 on All copper layers
+ErrType(4): Track too close to pad
+    @(262.088 mm, 44.388 mm): Track 0.250 mm [ROW0] on F.Cu, length: 16.462 mm
+    @(274.637 mm, 43.656 mm): Pad of D103 on All copper layers
+ErrType(4): Track too close to pad
+    @(291.964 mm, 44.388 mm): Track 0.250 mm [ROW0] on F.Cu, length: 5.636 mm
+    @(293.688 mm, 43.656 mm): Pad of D104 on All copper layers
+ErrType(4): Track too close to pad
+    @(291.170 mm, 43.594 mm): Track 0.250 mm [ROW0] on F.Cu, length: 1.123 mm
+    @(292.137 mm, 43.656 mm): Pad 2 of D104 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(-19.980 mm, 43.594 mm): Track 0.250 mm [ROW0] on F.Cu, length: 1.123 mm
+    @(-19.012 mm, 43.656 mm): Pad 2 of D171 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(-19.186 mm, 44.388 mm): Track 0.250 mm [ROW0] on F.Cu, length: 24.686 mm
+    @(-17.462 mm, 43.656 mm): Pad of D171 on All copper layers
+ErrType(4): Track too close to pad
+    @(72.288 mm, 63.438 mm): Track 0.250 mm [ROW1] on F.Cu, length: 15.762 mm
+    @(84.175 mm, 62.706 mm): Pad of D138 on All copper layers
+ErrType(4): Track too close to pad
+    @(91.338 mm, 63.438 mm): Track 0.250 mm [ROW1] on F.Cu, length: 15.762 mm
+    @(103.188 mm, 62.706 mm): Pad of D130 on All copper layers
+ErrType(4): Track too close to pad
+    @(110.388 mm, 63.438 mm): Track 0.250 mm [ROW1] on F.Cu, length: 15.762 mm
+    @(122.275 mm, 62.706 mm): Pad of D122 on All copper layers
+ErrType(4): Track too close to pad
+    @(129.438 mm, 63.438 mm): Track 0.250 mm [ROW1] on F.Cu, length: 15.762 mm
+    @(141.325 mm, 62.706 mm): Pad of D106 on All copper layers
+ErrType(4): Track too close to pad
+    @(158.577 mm, 63.438 mm): Track 0.250 mm [ROW1] on F.Cu, length: 5.673 mm
+    @(160.375 mm, 62.706 mm): Pad of D90 on All copper layers
+ErrType(4): Track too close to pad
+    @(157.783 mm, 62.644 mm): Track 0.250 mm [ROW1] on F.Cu, length: 1.123 mm
+    @(158.825 mm, 62.706 mm): Pad 1 of D90 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(177.664 mm, 63.438 mm): Track 0.250 mm [ROW1] on F.Cu, length: 5.636 mm
+    @(179.425 mm, 62.706 mm): Pad of D113 on All copper layers
+ErrType(4): Track too close to pad
+    @(176.870 mm, 62.644 mm): Track 0.250 mm [ROW1] on F.Cu, length: 1.123 mm
+    @(177.875 mm, 62.706 mm): Pad 1 of D113 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(186.588 mm, 63.438 mm): Track 0.250 mm [ROW1] on F.Cu, length: 15.762 mm
+    @(198.438 mm, 62.706 mm): Pad of D114 on All copper layers
+ErrType(4): Track too close to pad
+    @(204.938 mm, 63.438 mm): Track 0.250 mm [ROW1] on F.Cu, length: 16.462 mm
+    @(217.488 mm, 62.706 mm): Pad of D115 on All copper layers
+ErrType(4): Track too close to pad
+    @(234.814 mm, 63.438 mm): Track 0.250 mm [ROW1] on F.Cu, length: 5.636 mm
+    @(236.537 mm, 62.706 mm): Pad of D116 on All copper layers
+ErrType(4): Track too close to pad
+    @(234.020 mm, 62.644 mm): Track 0.250 mm [ROW1] on F.Cu, length: 1.123 mm
+    @(234.988 mm, 62.706 mm): Pad 2 of D116 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(253.864 mm, 63.438 mm): Track 0.250 mm [ROW1] on F.Cu, length: 5.636 mm
+    @(257.175 mm, 62.706 mm): Pad 1 of D117 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(253.070 mm, 62.644 mm): Track 0.250 mm [ROW1] on F.Cu, length: 1.123 mm
+    @(254.075 mm, 62.706 mm): Pad 2 of D117 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(262.088 mm, 63.438 mm): Track 0.250 mm [ROW1] on F.Cu, length: 16.462 mm
+    @(274.675 mm, 62.706 mm): Pad of D118 on All copper layers
+ErrType(4): Track too close to pad
+    @(291.927 mm, 63.438 mm): Track 0.250 mm [ROW1] on F.Cu, length: 5.673 mm
+    @(293.688 mm, 62.706 mm): Pad of D119 on All copper layers
+ErrType(4): Track too close to pad
+    @(291.133 mm, 62.644 mm): Track 0.250 mm [ROW1] on F.Cu, length: 1.123 mm
+    @(292.137 mm, 62.706 mm): Pad 2 of D119 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(-4.031 mm, 82.488 mm): Track 0.250 mm [ROW2] on F.Cu, length: 9.531 mm
+    @(1.625 mm, 81.756 mm): Pad of D165 on All copper layers
+ErrType(4): Track too close to pad
+    @(28.769 mm, 81.694 mm): Track 0.250 mm [ROW2] on F.Cu, length: 6.735 mm
+    @(30.238 mm, 81.756 mm): Pad 1 of D156 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(53.781 mm, 86.456 mm): Track 0.250 mm [ROW2] on F.Cu, length: 6.735 mm
+    @(57.112 mm, 81.756 mm): Pad 2 of D147 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(62.763 mm, 82.488 mm): Track 0.250 mm [ROW2] on F.Cu, length: 15.762 mm
+    @(74.650 mm, 81.756 mm): Pad of D139 on All copper layers
+ErrType(4): Track too close to pad
+    @(92.429 mm, 82.488 mm): Track 0.250 mm [ROW2] on F.Cu, length: 5.146 mm
+    @(93.662 mm, 81.756 mm): Pad of D131 on All copper layers
+ErrType(4): Track too close to pad
+    @(91.635 mm, 81.694 mm): Track 0.250 mm [ROW2] on F.Cu, length: 1.123 mm
+    @(92.112 mm, 81.756 mm): Pad 2 of D131 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(110.989 mm, 82.488 mm): Track 0.250 mm [ROW2] on F.Cu, length: 5.636 mm
+    @(112.713 mm, 81.756 mm): Pad of D123 on All copper layers
+ErrType(4): Track too close to pad
+    @(110.195 mm, 81.694 mm): Track 0.250 mm [ROW2] on F.Cu, length: 1.123 mm
+    @(111.162 mm, 81.756 mm): Pad 1 of D123 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(119.913 mm, 82.488 mm): Track 0.250 mm [ROW2] on F.Cu, length: 16.556 mm
+    @(131.800 mm, 81.756 mm): Pad of D107 on All copper layers
+ErrType(4): Track too close to pad
+    @(139.756 mm, 82.488 mm): Track 0.250 mm [ROW2] on F.Cu, length: 15.825 mm
+    @(150.850 mm, 81.756 mm): Pad of D91 on All copper layers
+ErrType(4): Track too close to pad
+    @(158.044 mm, 82.488 mm): Track 0.250 mm [ROW2] on F.Cu, length: 15.731 mm
+    @(169.863 mm, 81.756 mm): Pad of D127 on All copper layers
+ErrType(4): Track too close to pad
+    @(175.513 mm, 82.488 mm): Track 0.250 mm [ROW2] on F.Cu, length: 17.312 mm
+    @(188.912 mm, 81.756 mm): Pad of D128 on All copper layers
+ErrType(4): Track too close to pad
+    @(194.413 mm, 82.488 mm): Track 0.250 mm [ROW2] on F.Cu, length: 17.462 mm
+    @(207.963 mm, 81.756 mm): Pad of D112 on All copper layers
+ErrType(4): Track too close to pad
+    @(214.463 mm, 82.488 mm): Track 0.250 mm [ROW2] on F.Cu, length: 16.462 mm
+    @(225.463 mm, 81.756 mm): Pad 1 of D111 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(233.513 mm, 82.488 mm): Track 0.250 mm [ROW2] on F.Cu, length: 16.462 mm
+    @(246.100 mm, 81.756 mm): Pad of D95 on All copper layers
+ErrType(4): Track too close to pad
+    @(252.656 mm, 82.581 mm): Track 0.250 mm [ROW2] on F.Cu, length: 17.069 mm
+    @(265.075 mm, 81.756 mm): Pad of D96 on All copper layers
+ErrType(4): Track too close to pad
+    @(285.944 mm, 81.694 mm): Track 0.250 mm [ROW2] on F.Cu, length: 6.735 mm
+    @(287.375 mm, 81.756 mm): Pad 2 of D120 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(80.169 mm, 81.694 mm): Track 0.250 mm [ROW2] on F.Cu, length: 11.467 mm
+    @(92.112 mm, 81.756 mm): Pad 2 of D131 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(-3.237 mm, 101.538 mm): Track 0.250 mm [ROW3] on F.Cu, length: 8.856 mm
+    @(1.625 mm, 100.806 mm): Pad of D166 on All copper layers
+ErrType(4): Track too close to pad
+    @(37.077 mm, 101.444 mm): Track 0.250 mm [ROW3] on F.Cu, length: 5.745 mm
+    @(37.344 mm, 100.806 mm): Pad 1 of D157 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(7.994 mm, 101.444 mm): Track 0.250 mm [ROW3] on F.Cu, length: 29.083 mm
+    @(37.344 mm, 100.806 mm): Pad 1 of D157 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(67.605 mm, 105.506 mm): Track 0.250 mm [ROW3] on F.Cu, length: 6.735 mm
+    @(71.400 mm, 100.806 mm): Pad 2 of D148 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(87.177 mm, 101.538 mm): Track 0.250 mm [ROW3] on F.Cu, length: 5.636 mm
+    @(88.900 mm, 100.806 mm): Pad of D140 on All copper layers
+ErrType(4): Track too close to pad
+    @(86.383 mm, 100.744 mm): Track 0.250 mm [ROW3] on F.Cu, length: 1.123 mm
+    @(87.350 mm, 100.806 mm): Pad 1 of D140 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(96.255 mm, 101.693 mm): Track 0.250 mm [ROW3] on F.Cu, length: 15.452 mm
+    @(107.987 mm, 100.806 mm): Pad of D132 on All copper layers
+ErrType(4): Track too close to pad
+    @(132.462 mm, 101.538 mm): Track 0.250 mm [ROW3] on F.Cu, length: 17.312 mm
+    @(127.000 mm, 100.806 mm): Pad of D124 on All copper layers
+ErrType(4): Track too close to pad
+    @(132.650 mm, 101.538 mm): Track 0.250 mm [ROW3] on F.Cu, length: 17.312 mm
+    @(146.088 mm, 100.806 mm): Pad of D108 on All copper layers
+ErrType(4): Track too close to pad
+    @(153.250 mm, 101.538 mm): Track 0.250 mm [ROW3] on F.Cu, length: 15.762 mm
+    @(165.100 mm, 100.806 mm): Pad of D92 on All copper layers
+ErrType(4): Track too close to pad
+    @(201.477 mm, 101.538 mm): Track 0.250 mm [ROW3] on F.Cu, length: 5.636 mm
+    @(203.200 mm, 100.806 mm): Pad of D144 on All copper layers
+ErrType(4): Track too close to pad
+    @(200.683 mm, 100.744 mm): Track 0.250 mm [ROW3] on F.Cu, length: 1.123 mm
+    @(201.650 mm, 100.806 mm): Pad 1 of D144 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(220.527 mm, 101.538 mm): Track 0.250 mm [ROW3] on F.Cu, length: 5.636 mm
+    @(222.250 mm, 100.806 mm): Pad of D143 on All copper layers
+ErrType(4): Track too close to pad
+    @(219.733 mm, 100.744 mm): Track 0.250 mm [ROW3] on F.Cu, length: 1.123 mm
+    @(220.700 mm, 100.806 mm): Pad 1 of D143 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(239.577 mm, 101.538 mm): Track 0.250 mm [ROW3] on F.Cu, length: 5.636 mm
+    @(241.338 mm, 100.806 mm): Pad of D151 on All copper layers
+ErrType(4): Track too close to pad
+    @(238.783 mm, 100.744 mm): Track 0.250 mm [ROW3] on F.Cu, length: 1.123 mm
+    @(239.787 mm, 100.806 mm): Pad 2 of D151 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(258.627 mm, 101.538 mm): Track 0.250 mm [ROW3] on F.Cu, length: 5.636 mm
+    @(260.350 mm, 100.806 mm): Pad of D152 on All copper layers
+ErrType(4): Track too close to pad
+    @(257.833 mm, 100.744 mm): Track 0.250 mm [ROW3] on F.Cu, length: 1.123 mm
+    @(258.800 mm, 100.806 mm): Pad 2 of D152 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(267.613 mm, 101.600 mm): Track 0.250 mm [ROW3] on F.Cu, length: 26.081 mm
+    @(286.544 mm, 100.806 mm): Pad of D161 on All copper layers
+ErrType(4): Track too close to pad
+    @(77.593 mm, 124.556 mm): Track 0.250 mm [ROW4] on F.Cu, length: 6.735 mm
+    @(80.963 mm, 119.856 mm): Pad 2 of D158 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(85.025 mm, 120.588 mm): Track 0.250 mm [ROW4] on F.Cu, length: 17.312 mm
+    @(98.463 mm, 119.856 mm): Pad of D149 on All copper layers
+ErrType(4): Track too close to pad
+    @(105.625 mm, 120.588 mm): Track 0.250 mm [ROW4] on F.Cu, length: 15.762 mm
+    @(117.513 mm, 119.856 mm): Pad of D141 on All copper layers
+ErrType(4): Track too close to pad
+    @(124.675 mm, 120.588 mm): Track 0.250 mm [ROW4] on F.Cu, length: 15.762 mm
+    @(136.562 mm, 119.856 mm): Pad of D133 on All copper layers
+ErrType(4): Track too close to pad
+    @(143.725 mm, 120.588 mm): Track 0.250 mm [ROW4] on F.Cu, length: 15.762 mm
+    @(155.575 mm, 119.856 mm): Pad of D125 on All copper layers
+ErrType(4): Track too close to pad
+    @(172.902 mm, 120.588 mm): Track 0.250 mm [ROW4] on F.Cu, length: 5.636 mm
+    @(174.625 mm, 119.856 mm): Pad of D109 on All copper layers
+ErrType(4): Track too close to pad
+    @(172.108 mm, 119.794 mm): Track 0.250 mm [ROW4] on F.Cu, length: 1.123 mm
+    @(173.075 mm, 119.856 mm): Pad 1 of D109 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(181.125 mm, 120.588 mm): Track 0.250 mm [ROW4] on F.Cu, length: 16.462 mm
+    @(193.675 mm, 119.856 mm): Pad of D93 on All copper layers
+ErrType(4): Track too close to pad
+    @(200.875 mm, 120.588 mm): Track 0.250 mm [ROW4] on F.Cu, length: 15.762 mm
+    @(212.725 mm, 119.856 mm): Pad of D136 on All copper layers
+ErrType(4): Track too close to pad
+    @(219.225 mm, 120.588 mm): Track 0.250 mm [ROW4] on F.Cu, length: 16.462 mm
+    @(231.775 mm, 119.856 mm): Pad of D169 on All copper layers
+ErrType(4): Track too close to pad
+    @(249.102 mm, 120.588 mm): Track 0.250 mm [ROW4] on F.Cu, length: 5.573 mm
+    @(250.825 mm, 119.856 mm): Pad of D170 on All copper layers
+ErrType(4): Track too close to pad
+    @(248.308 mm, 119.794 mm): Track 0.250 mm [ROW4] on F.Cu, length: 1.123 mm
+    @(249.275 mm, 119.856 mm): Pad 2 of D170 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(104.911 mm, 139.638 mm): Track 0.250 mm [ROW5] on F.Cu, length: 13.573 mm
+    @(103.225 mm, 138.906 mm): Pad of D126 on All copper layers
+ErrType(4): Track too close to pad
+    @(105.767 mm, 138.781 mm): Track 0.250 mm [ROW5] on F.Cu, length: 1.211 mm
+    @(104.775 mm, 138.906 mm): Pad 2 of D126 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(85.823 mm, 139.638 mm): Track 0.250 mm [ROW5] on F.Cu, length: 13.536 mm
+    @(84.138 mm, 138.906 mm): Pad of D134 on All copper layers
+ErrType(4): Track too close to pad
+    @(86.617 mm, 138.844 mm): Track 0.250 mm [ROW5] on F.Cu, length: 1.123 mm
+    @(85.688 mm, 138.906 mm): Pad 1 of D134 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(69.700 mm, 139.638 mm): Track 0.250 mm [ROW5] on F.Cu, length: 16.462 mm
+    @(65.088 mm, 138.906 mm): Pad of D142 on All copper layers
+ErrType(4): Track too close to pad
+    @(24.550 mm, 145.988 mm): Track 0.250 mm [ROW5] on F.Cu, length: 15.762 mm
+    @(20.675 mm, 145.256 mm): Pad of D159 on All copper layers
+ErrType(4): Track too close to pad
+    @(4.696 mm, 145.194 mm): Track 0.250 mm [ROW5] on F.Cu, length: 10.766 mm
+    @(3.138 mm, 145.256 mm): Pad 2 of D168 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(121.188 mm, 53.258 mm): Track 0.250 mm [CA2] on B.Cu, length: 3.636 mm
+    @(118.427 mm, 52.546 mm): Pad 1 of MX10 on All copper layers
+ErrType(4): Track too close to pad
+    @(119.062 mm, 51.133 mm): Track 0.250 mm [CA2] on B.Cu, length: 3.005 mm
+    @(118.427 mm, 52.546 mm): Pad 1 of MX10 on All copper layers
+ErrType(4): Track too close to pad
+    @(131.383 mm, 91.159 mm): Track 0.250 mm [CA2] on B.Cu, length: 3.482 mm
+    @(134.262 mm, 92.606 mm): Pad 2 of MX42 on All copper layers
+ErrType(4): Track too close to pad
+    @(134.866 mm, 91.159 mm): Track 0.250 mm [CA2] on B.Cu, length: 10.205 mm
+    @(134.262 mm, 92.606 mm): Pad 2 of MX42 on All copper layers
+ErrType(4): Track too close to pad
+    @(164.050 mm, 112.969 mm): Track 0.250 mm [CA2] on B.Cu, length: 2.561 mm
+    @(161.290 mm, 109.696 mm): Pad 1 of MX56 on All copper layers
+ErrType(4): Track too close to pad
+    @(87.312 mm, 113.693 mm): Track 0.250 mm [CA4] on B.Cu, length: 5.613 mm
+    @(91.400 mm, 111.656 mm): Pad 2 of MX60 on All copper layers
+ErrType(4): Track too close to pad
+    @(91.281 mm, 95.437 mm): Track 0.250 mm [CA4] on B.Cu, length: 6.647 mm
+    @(96.162 mm, 92.606 mm): Pad 2 of MX44 on All copper layers
+ErrType(4): Track too close to pad
+    @(79.729 mm, 70.147 mm): Track 0.250 mm [CA5] on F.Cu, length: 9.374 mm
+    @(80.328 mm, 71.596 mm): Pad 1 of MX29 on All copper layers
+ErrType(4): Track too close to pad
+    @(111.125 mm, 110.281 mm): Track 0.250 mm [CA5] on B.Cu, length: 1.153 mm
+    @(110.450 mm, 111.656 mm): Pad 2 of MX59 on All copper layers
+ErrType(4): Track too close to pad
+    @(28.040 mm, 54.491 mm): Track 0.250 mm [CA7] on F.Cu, length: 5.979 mm
+    @(29.488 mm, 54.506 mm): Pad 2 of MX15 on All copper layers
+ErrType(4): Track too close to pad
+    @(28.040 mm, 55.784 mm): Track 0.250 mm [CA7] on F.Cu, length: 1.293 mm
+    @(29.488 mm, 54.506 mm): Pad 2 of MX15 on All copper layers
+ErrType(4): Track too close to pad
+    @(33.634 mm, 110.445 mm): Track 0.250 mm [CA7] on B.Cu, length: 1.348 mm
+    @(35.084 mm, 109.696 mm): Pad 1 of MX62 on All copper layers
+ErrType(4): Track too close to pad
+    @(33.634 mm, 109.097 mm): Track 0.250 mm [CA7] on B.Cu, length: 1.951 mm
+    @(35.084 mm, 109.696 mm): Pad 1 of MX62 on All copper layers
+ErrType(4): Track too close to pad
+    @(35.463 mm, 72.308 mm): Track 0.250 mm [CA7] on B.Cu, length: 1.444 mm
+    @(32.703 mm, 71.596 mm): Pad 1 of MX31 on All copper layers
+ErrType(4): Track too close to pad
+    @(33.428 mm, 70.273 mm): Track 0.250 mm [CA7] on B.Cu, length: 2.878 mm
+    @(32.703 mm, 71.596 mm): Pad 1 of MX31 on All copper layers
+ErrType(4): Track too close to pad
+    @(0.538 mm, 52.925 mm): Track 0.250 mm [CA8] on B.Cu, length: 6.069 mm
+    @(-2.223 mm, 52.546 mm): Pad 1 of MX16 on All copper layers
+ErrType(4): Track too close to pad
+    @(0.538 mm, 72.308 mm): Track 0.250 mm [CA8] on B.Cu, length: 7.413 mm
+    @(-2.223 mm, 71.596 mm): Pad 1 of MX32 on All copper layers
+ErrType(4): Track too close to pad
+    @(0.538 mm, 91.358 mm): Track 0.250 mm [CA8] on B.Cu, length: 7.413 mm
+    @(-2.223 mm, 90.646 mm): Pad 1 of MX48 on All copper layers
+ErrType(4): Track too close to pad
+    @(-1.498 mm, 89.323 mm): Track 0.250 mm [CA8] on B.Cu, length: 2.878 mm
+    @(-2.223 mm, 90.646 mm): Pad 1 of MX48 on All copper layers
+ErrType(4): Track too close to pad
+    @(230.188 mm, 91.231 mm): Track 0.250 mm [CA8] on B.Cu, length: 1.153 mm
+    @(229.512 mm, 92.606 mm): Pad 2 of MX37 on All copper layers
+ErrType(4): Track too close to pad
+    @(254.705 mm, 127.276 mm): Track 0.250 mm [CA8] on B.Cu, length: 9.977 mm
+    @(253.325 mm, 130.706 mm): Pad 2 of MX66 on All copper layers
+ErrType(4): Track too close to pad
+    @(4.763 mm, 134.200 mm): Track 0.250 mm [CA8] on B.Cu, length: 5.613 mm
+    @(4.026 mm, 136.986 mm): Pad 2 of MX77 on All copper layers
+ErrType(4): Track too close to pad
+    @(96.505 mm, 128.588 mm): Track 0.250 mm [CA8] on F.Cu, length: 1.825 mm
+    @(94.615 mm, 128.746 mm): Pad 1 of MX74 on All copper layers
+ErrType(4): Track too close to pad
+    @(94.016 mm, 127.297 mm): Track 0.250 mm [CA8] on F.Cu, length: 1.203 mm
+    @(94.615 mm, 128.746 mm): Pad 1 of MX74 on All copper layers
+ErrType(4): Track too close to pad
+    @(95.214 mm, 127.297 mm): Track 0.250 mm [CA8] on F.Cu, length: 1.198 mm
+    @(94.615 mm, 128.746 mm): Pad 1 of MX74 on All copper layers
+ErrType(4): Track too close to pad
+    @(0.476 mm, 134.868 mm): Track 0.250 mm [CA9] on F.Cu, length: 4.469 mm
+    @(-2.284 mm, 135.026 mm): Pad 1 of MX77 on All copper layers
+ErrType(4): Track too close to pad
+    @(210.344 mm, 90.675 mm): Track 0.250 mm [CA9] on B.Cu, length: 6.735 mm
+    @(210.463 mm, 92.606 mm): Pad 2 of MX38 on All copper layers
+ErrType(4): Track too close to pad
+    @(259.300 mm, 109.538 mm): Track 0.250 mm [CA9] on B.Cu, length: 5.812 mm
+    @(256.540 mm, 109.696 mm): Pad 1 of MX51 on All copper layers
+ErrType(4): Track too close to pad
+    @(197.388 mm, 53.258 mm): Track 0.250 mm [CB1] on F.Cu, length: 5.223 mm
+    @(194.627 mm, 52.546 mm): Pad 1 of MX6 on All copper layers
+ErrType(4): Track too close to pad
+    @(296.863 mm, 72.181 mm): Track 0.250 mm [CB1] on B.Cu, length: 1.153 mm
+    @(296.188 mm, 73.556 mm): Pad 2 of MX18 on All copper layers
+ErrType(4): Track too close to pad
+    @(148.037 mm, 130.425 mm): Track 0.250 mm [CB3] on F.Cu, length: 4.425 mm
+    @(151.765 mm, 128.746 mm): Pad 1 of MX71 on All copper layers
+ErrType(4): Track too close to pad
+    @(151.166 mm, 127.297 mm): Track 0.250 mm [CB3] on F.Cu, length: 1.198 mm
+    @(151.765 mm, 128.746 mm): Pad 1 of MX71 on All copper layers
+ErrType(4): Track too close to pad
+    @(152.364 mm, 127.297 mm): Track 0.250 mm [CB3] on F.Cu, length: 4.541 mm
+    @(151.765 mm, 128.746 mm): Pad 1 of MX71 on All copper layers
+ErrType(4): Track too close to pad
+    @(192.032 mm, 132.799 mm): Track 0.250 mm [CB4] on B.Cu, length: 6.712 mm
+    @(196.175 mm, 130.706 mm): Pad 2 of MX69 on All copper layers
+ErrType(4): Track too close to pad
+    @(160.555 mm, 108.247 mm): Track 0.250 mm [CB5] on F.Cu, length: 1.334 mm
+    @(161.290 mm, 109.696 mm): Pad 1 of MX56 on All copper layers
+ErrType(4): Track too close to pad
+    @(161.889 mm, 108.247 mm): Track 0.250 mm [CB5] on F.Cu, length: 2.948 mm
+    @(161.290 mm, 109.696 mm): Pad 1 of MX56 on All copper layers
+ErrType(4): Track too close to pad
+    @(168.813 mm, 92.802 mm): Track 0.250 mm [CB5] on B.Cu, length: 2.314 mm
+    @(166.053 mm, 90.646 mm): Pad 1 of MX40 on All copper layers
+ErrType(4): Track too close to pad
+    @(233.326 mm, 51.097 mm): Track 0.250 mm [CB8] on B.Cu, length: 1.825 mm
+    @(232.727 mm, 52.546 mm): Pad 1 of MX4 on All copper layers
+ErrType(4): Track too close to pad
+    @(232.129 mm, 51.097 mm): Track 0.250 mm [CB8] on B.Cu, length: 1.198 mm
+    @(232.727 mm, 52.546 mm): Pad 1 of MX4 on All copper layers
+ErrType(4): Track too close to pad
+    @(230.981 mm, 52.244 mm): Track 0.250 mm [CB8] on B.Cu, length: 1.623 mm
+    @(232.727 mm, 52.546 mm): Pad 1 of MX4 on All copper layers
+ErrType(4): Track too close to pad
+    @(292.638 mm, 72.308 mm): Track 0.250 mm [CB9] on B.Cu, length: 4.942 mm
+    @(289.877 mm, 71.596 mm): Pad 1 of MX18 on All copper layers
+ErrType(4): Track too close to pad
+    @(292.638 mm, 53.258 mm): Track 0.250 mm [CB9] on B.Cu, length: 1.444 mm
+    @(289.877 mm, 52.546 mm): Pad 1 of MX1 on All copper layers
+ErrType(4): Track too close to pad
+    @(290.512 mm, 51.133 mm): Track 0.250 mm [CB9] on B.Cu, length: 3.005 mm
+    @(289.877 mm, 52.546 mm): Pad 1 of MX1 on All copper layers
+ErrType(4): Track too close to pad
+    @(290.512 mm, 70.183 mm): Track 0.250 mm [CB9] on B.Cu, length: 3.005 mm
+    @(289.877 mm, 71.596 mm): Pad 1 of MX18 on All copper layers
+ErrType(4): Track too close to pad
+    @(2.388 mm, 111.306 mm): Track 0.250 mm [COL0] on B.Cu, length: 2.501 mm
+    @(4.088 mm, 111.656 mm): Pad 2 of MX63 on All copper layers
+ErrType(4): Track too close to pad
+    @(66.639 mm, 108.247 mm): Track 0.250 mm [COL0] on F.Cu, length: 2.948 mm
+    @(66.040 mm, 109.696 mm): Pad 1 of MX61 on All copper layers
+ErrType(4): Track too close to pad
+    @(65.441 mm, 108.247 mm): Track 0.250 mm [COL0] on F.Cu, length: 1.198 mm
+    @(66.040 mm, 109.696 mm): Pad 1 of MX61 on All copper layers
+ErrType(4): Track too close to pad
+    @(33.194 mm, 109.537 mm): Track 0.250 mm [COL0] on F.Cu, length: 1.825 mm
+    @(35.084 mm, 109.696 mm): Pad 1 of MX62 on All copper layers
+ErrType(4): Track too close to pad
+    @(34.485 mm, 108.247 mm): Track 0.250 mm [COL0] on F.Cu, length: 1.198 mm
+    @(35.084 mm, 109.696 mm): Pad 1 of MX62 on All copper layers
+ErrType(4): Track too close to pad
+    @(35.683 mm, 108.247 mm): Track 0.250 mm [COL0] on F.Cu, length: 1.825 mm
+    @(35.084 mm, 109.696 mm): Pad 1 of MX62 on All copper layers
+ErrType(4): Track too close to pad
+    @(64.591 mm, 109.097 mm): Track 0.250 mm [COL0] on F.Cu, length: 1.203 mm
+    @(66.040 mm, 109.696 mm): Pad 1 of MX61 on All copper layers
+ErrType(4): Track too close to pad
+    @(240.470 mm, 146.347 mm): Track 0.250 mm [COL1] on F.Cu, length: 2.050 mm
+    @(239.871 mm, 147.796 mm): Pad 1 of MX80 on All copper layers
+ErrType(4): Track too close to pad
+    @(239.272 mm, 146.347 mm): Track 0.250 mm [COL1] on F.Cu, length: 1.198 mm
+    @(239.871 mm, 147.796 mm): Pad 1 of MX80 on All copper layers
+ErrType(4): Track too close to pad
+    @(231.213 mm, 154.406 mm): Track 0.250 mm [COL1] on F.Cu, length: 11.398 mm
+    @(239.871 mm, 147.796 mm): Pad 1 of MX80 on All copper layers
+ErrType(4): Track too close to pad
+    @(199.390 mm, 115.380 mm): Track 0.250 mm [COL5] on B.Cu, length: 13.470 mm
+    @(193.675 mm, 119.856 mm): Pad of D93 on All copper layers
+ErrType(4): Track too close to pad
+    @(107.463 mm, 132.900 mm): Track 0.250 mm [COL8] on F.Cu, length: 14.964 mm
+    @(113.665 mm, 128.746 mm): Pad 1 of MX73 on All copper layers
+ErrType(4): Track too close to pad
+    @(45.553 mm, 129.259 mm): Track 0.250 mm [COL8] on F.Cu, length: 2.034 mm
+    @(46.156 mm, 130.706 mm): Pad 2 of MX76 on All copper layers
+ErrType(4): Track too close to pad
+    @(39.462 mm, 135.350 mm): Track 0.250 mm [COL8] on F.Cu, length: 8.614 mm
+    @(46.156 mm, 130.706 mm): Pad 2 of MX76 on All copper layers
+ErrType(4): Track too close to pad
+    @(109.103 mm, 99.360 mm): Track 0.250 mm [COL10] on B.Cu, length: 3.212 mm
+    @(107.987 mm, 100.806 mm): Pad of D132 on All copper layers
+ErrType(4): Track too close to pad
+    @(41.629 mm, 146.347 mm): Track 0.250 mm [COL10] on F.Cu, length: 1.198 mm
+    @(42.227 mm, 147.796 mm): Pad 1 of MX85 on All copper layers
+ErrType(4): Track too close to pad
+    @(42.826 mm, 146.347 mm): Track 0.250 mm [COL10] on F.Cu, length: 2.948 mm
+    @(42.227 mm, 147.796 mm): Pad 1 of MX85 on All copper layers
+ErrType(4): Track too close to pad
+    @(-14.002 mm, 154.676 mm): Via 0.800 mm [COL15] on F.Cu - B.Cu
+    @(-14.963 mm, 156.106 mm): Pad 2 of MX88 on All copper layers
+ErrType(4): Track too close to pad
+    @(102.687 mm, 150.706 mm): Track 0.250 mm [SDA] on B.Cu, length: 3.390 mm
+    @(105.688 mm, 149.756 mm): Pad 2 of MX82 on All copper layers
+ErrType(4): Track too close to pad
+    @(105.084 mm, 148.309 mm): Track 0.250 mm [SDA] on B.Cu, length: 38.462 mm
+    @(105.688 mm, 149.756 mm): Pad 2 of MX82 on All copper layers
+ErrType(4): Track too close to pad
+    @(59.719 mm, 147.306 mm): Track 0.250 mm [SDB] on F.Cu, length: 1.357 mm
+    @(61.278 mm, 147.796 mm): Pad 1 of MX84 on All copper layers
+ErrType(4): Track too close to pad
+    @(61.876 mm, 146.347 mm): Track 0.250 mm [SDB] on F.Cu, length: 3.056 mm
+    @(61.278 mm, 147.796 mm): Pad 1 of MX84 on All copper layers
+ErrType(4): Track too close to pad
+    @(60.679 mm, 146.347 mm): Track 0.250 mm [SDB] on F.Cu, length: 1.198 mm
+    @(61.278 mm, 147.796 mm): Pad 1 of MX84 on All copper layers
+ErrType(4): Track too close to pad
+    @(64.038 mm, 148.508 mm): Track 0.250 mm [SDB] on F.Cu, length: 1.444 mm
+    @(61.278 mm, 147.796 mm): Pad 1 of MX84 on All copper layers
+
+** Found 0 unconnected pads **
+
+** End of Report **
