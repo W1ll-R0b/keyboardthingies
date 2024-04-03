@@ -610,30 +610,8 @@ Wire Wire Line
 	8800 7200 8700 7200
 Wire Wire Line
 	9800 6950 9800 6750
-Connection ~ 8000 7800
-Wire Wire Line
-	8000 7800 7950 7800
-Wire Wire Line
-	8100 7800 8000 7800
-Connection ~ 8000 3800
-Connection ~ 8100 3800
-Wire Wire Line
-	8100 3800 8200 3800
-Wire Wire Line
-	8000 3800 8100 3800
 Wire Wire Line
 	8750 7550 8750 7400
-$Comp
-L MCU_Microchip_AVR:AT90USB1286-AU U1
-U 1 1 65FA2E75
-P 8100 5800
-F 0 "U1" H 8100 3711 50  0000 C CNN
-F 1 "AT90USB1286-AU" H 8100 3620 50  0000 C CNN
-F 2 "Package_QFP:TQFP-64_14x14mm_P0.8mm" H 8100 5800 50  0001 C CIN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/doc7593.pdf" H 8100 5800 50  0001 C CNN
-	1    8100 5800
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	9050 7100 9050 6950
 Wire Wire Line
@@ -1686,4 +1664,26 @@ F 3 "~" H 10850 7950 50  0001 C CNN
 	1    10850 7950
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	8000 3800 8100 3800
+Wire Wire Line
+	7950 7800 8000 7800
+$Comp
+L MCU_Microchip_AVR:AT90USB1286-MU U1
+U 1 1 65FFB91E
+P 8100 5800
+F 0 "U1" H 8100 3711 50  0000 C CNN
+F 1 "AT90USB1286-MU" H 8100 3620 50  0000 C CNN
+F 2 "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP7.5x7.5mm" H 8100 5800 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/doc7593.pdf" H 8100 5800 50  0001 C CNN
+	1    8100 5800
+	1    0    0    -1  
+$EndComp
+Connection ~ 8000 3800
+Wire Wire Line
+	8100 3800 8200 3800
+Connection ~ 8100 3800
+Wire Wire Line
+	8000 7800 8100 7800
+Connection ~ 8000 7800
 $EndSCHEMATC
