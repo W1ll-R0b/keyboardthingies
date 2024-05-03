@@ -785,8 +785,6 @@ Wire Wire Line
 	10600 6850 10750 6850
 Text GLabel 19950 6850 2    50   Input ~ 0
 LED
-Text GLabel 3400 5550 2    50   Input ~ 0
-LED
 $Comp
 L Device:D_Small D14
 U 1 1 661566DF
@@ -1066,10 +1064,6 @@ Text GLabel 5300 5050 2    50   Input ~ 0
 RESET
 Text GLabel 1850 2000 2    50   Input ~ 0
 RESET
-Text GLabel 3400 4750 2    50   Input ~ 0
-MISO
-Text GLabel 3400 4650 2    50   Input ~ 0
-MOSI
 Text GLabel 2200 5250 0    50   Input ~ 0
 SCK
 Text GLabel 2200 2850 0    50   Input ~ 0
@@ -1442,7 +1436,7 @@ U 1 1 661F0311
 P 8100 5500
 F 0 "MX84" H 8133 5723 60  0000 C CNN
 F 1 "MX-NoLED" H 8133 5649 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 7475 5475 60  0001 C CNN
+F 2 "MX_Only:MXOnly-1.25U-NoLED" H 7475 5475 60  0001 C CNN
 F 3 "" H 7475 5475 60  0001 C CNN
 	1    8100 5500
 	1    0    0    -1  
@@ -4503,192 +4497,6 @@ F 3 "" H 14800 11800 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	15100 12100 15250 12100
-$Comp
-L power:GND #PWR0231
-U 1 1 66F6F62A
-P 15550 12400
-F 0 "#PWR0231" H 15550 12150 50  0001 C CNN
-F 1 "GND" H 15555 12227 50  0000 C CNN
-F 2 "" H 15550 12400 50  0001 C CNN
-F 3 "" H 15550 12400 50  0001 C CNN
-	1    15550 12400
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:+5V #PWR0212
-U 1 1 66F6F630
-P 15550 11800
-F 0 "#PWR0212" H 15550 11650 50  0001 C CNN
-F 1 "+5V" H 15565 11973 50  0000 C CNN
-F 2 "" H 15550 11800 50  0001 C CNN
-F 3 "" H 15550 11800 50  0001 C CNN
-	1    15550 11800
-	1    0    0    -1  
-$EndComp
-$Comp
-L kicad-keyboard-parts:SK6812MINI-E D202
-U 1 1 66F6F636
-P 16300 12100
-F 0 "D202" H 16644 12146 50  0000 L CNN
-F 1 "SK6812MINI-E" H 16644 12055 50  0000 L CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 16350 11800 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 16400 11725 50  0001 L TNN
-	1    16300 12100
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	15850 12100 16000 12100
-$Comp
-L power:GND #PWR0232
-U 1 1 66F6F63D
-P 16300 12400
-F 0 "#PWR0232" H 16300 12150 50  0001 C CNN
-F 1 "GND" H 16305 12227 50  0000 C CNN
-F 2 "" H 16300 12400 50  0001 C CNN
-F 3 "" H 16300 12400 50  0001 C CNN
-	1    16300 12400
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:+5V #PWR0213
-U 1 1 66F6F643
-P 16300 11800
-F 0 "#PWR0213" H 16300 11650 50  0001 C CNN
-F 1 "+5V" H 16315 11973 50  0000 C CNN
-F 2 "" H 16300 11800 50  0001 C CNN
-F 3 "" H 16300 11800 50  0001 C CNN
-	1    16300 11800
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	16600 12100 16750 12100
-$Comp
-L power:+5V #PWR0215
-U 1 1 66F6F64A
-P 17800 11800
-F 0 "#PWR0215" H 17800 11650 50  0001 C CNN
-F 1 "+5V" H 17815 11973 50  0000 C CNN
-F 2 "" H 17800 11800 50  0001 C CNN
-F 3 "" H 17800 11800 50  0001 C CNN
-	1    17800 11800
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR0234
-U 1 1 66F6F650
-P 17800 12400
-F 0 "#PWR0234" H 17800 12150 50  0001 C CNN
-F 1 "GND" H 17805 12227 50  0000 C CNN
-F 2 "" H 17800 12400 50  0001 C CNN
-F 3 "" H 17800 12400 50  0001 C CNN
-	1    17800 12400
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	17350 12100 17500 12100
-$Comp
-L kicad-keyboard-parts:SK6812MINI-E D204
-U 1 1 66F6F657
-P 17800 12100
-F 0 "D204" H 18144 12146 50  0000 L CNN
-F 1 "SK6812MINI-E" H 18144 12055 50  0000 L CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 17850 11800 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 17900 11725 50  0001 L TNN
-	1    17800 12100
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:+5V #PWR0214
-U 1 1 66F6F65D
-P 17050 11800
-F 0 "#PWR0214" H 17050 11650 50  0001 C CNN
-F 1 "+5V" H 17065 11973 50  0000 C CNN
-F 2 "" H 17050 11800 50  0001 C CNN
-F 3 "" H 17050 11800 50  0001 C CNN
-	1    17050 11800
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR0233
-U 1 1 66F6F663
-P 17050 12400
-F 0 "#PWR0233" H 17050 12150 50  0001 C CNN
-F 1 "GND" H 17055 12227 50  0000 C CNN
-F 2 "" H 17050 12400 50  0001 C CNN
-F 3 "" H 17050 12400 50  0001 C CNN
-	1    17050 12400
-	1    0    0    -1  
-$EndComp
-$Comp
-L kicad-keyboard-parts:SK6812MINI-E D203
-U 1 1 66F6F669
-P 17050 12100
-F 0 "D203" H 17394 12146 50  0000 L CNN
-F 1 "SK6812MINI-E" H 17394 12055 50  0000 L CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 17100 11800 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 17150 11725 50  0001 L TNN
-	1    17050 12100
-	1    0    0    -1  
-$EndComp
-$Comp
-L kicad-keyboard-parts:SK6812MINI-E D201
-U 1 1 66F6F670
-P 15550 12100
-F 0 "D201" H 15894 12146 50  0000 L CNN
-F 1 "SK6812MINI-E" H 15894 12055 50  0000 L CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 15600 11800 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 15650 11725 50  0001 L TNN
-	1    15550 12100
-	1    0    0    -1  
-$EndComp
-Text GLabel 3400 5350 2    50   Input ~ 0
-Row6
-Text GLabel 3400 5250 2    50   Input ~ 0
-Row5
-Text GLabel 3400 5150 2    50   Input ~ 0
-Row4
-Text GLabel 3400 5050 2    50   Input ~ 0
-Row3
-Text GLabel 3400 4950 2    50   Input ~ 0
-Row2
-Text GLabel 3400 4850 2    50   Input ~ 0
-Row1
-Text GLabel 2200 5150 0    50   Input ~ 0
-Col18
-Text GLabel 2200 5050 0    50   Input ~ 0
-Col17
-Text GLabel 3400 4450 2    50   Input ~ 0
-Col16
-Text GLabel 3400 4350 2    50   Input ~ 0
-Col15
-Text GLabel 3400 4250 2    50   Input ~ 0
-Col14
-Text GLabel 3400 4150 2    50   Input ~ 0
-Col13
-Text GLabel 3400 4050 2    50   Input ~ 0
-Col12
-Text GLabel 3400 3950 2    50   Input ~ 0
-Col11
-Text GLabel 3400 3850 2    50   Input ~ 0
-Col10
-Text GLabel 3400 3750 2    50   Input ~ 0
-Col9
-Text GLabel 3400 3550 2    50   Input ~ 0
-Col8
-Text GLabel 3400 3450 2    50   Input ~ 0
-Col7
-Text GLabel 3400 3350 2    50   Input ~ 0
-Col6
-Text GLabel 3400 3250 2    50   Input ~ 0
-Col5
-Text GLabel 3400 3150 2    50   Input ~ 0
-Col4
-Text GLabel 3400 3050 2    50   Input ~ 0
-Col3
-Text GLabel 3400 2950 2    50   Input ~ 0
-Col2
-Text GLabel 3400 2850 2    50   Input ~ 0
-Col1
 Text GLabel 5000 5500 2    50   Input ~ 0
 RA1
 Text GLabel 5000 5700 2    50   Input ~ 0
@@ -6191,7 +5999,7 @@ U 1 1 6641660C
 P 15300 5500
 F 0 "MX90" H 15333 5723 60  0000 C CNN
 F 1 "MX-NoLED" H 15333 5649 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 14675 5475 60  0001 C CNN
+F 2 "MX_Only:MXOnly-1.25U-NoLED" H 14675 5475 60  0001 C CNN
 F 3 "" H 14675 5475 60  0001 C CNN
 	1    15300 5500
 	1    0    0    -1  
@@ -6205,28 +6013,6 @@ F 1 "D_Small" V 15205 5682 50  0000 R CNN
 F 2 "Diode_SMD:D_SOD-123" V 15250 5750 50  0001 C CNN
 F 3 "~" V 15250 5750 50  0001 C CNN
 	1    15250 5750
-	0    -1   -1   0   
-$EndComp
-$Comp
-L MX_Alps_Hybrid:MX-NoLED MX91
-U 1 1 66416618
-P 15900 5500
-F 0 "MX91" H 15933 5723 60  0000 C CNN
-F 1 "MX-NoLED" H 15933 5649 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 15275 5475 60  0001 C CNN
-F 3 "" H 15275 5475 60  0001 C CNN
-	1    15900 5500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D103
-U 1 1 6641661E
-P 15850 5750
-F 0 "D103" V 15896 5682 50  0000 R CNN
-F 1 "D_Small" V 15805 5682 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" V 15850 5750 50  0001 C CNN
-F 3 "~" V 15850 5750 50  0001 C CNN
-	1    15850 5750
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -6641,8 +6427,6 @@ $EndComp
 Wire Wire Line
 	17850 3900 17850 5450
 Wire Wire Line
-	16050 3900 16050 5450
-Wire Wire Line
 	16650 1600 16650 5450
 Connection ~ 16450 2800
 $Comp
@@ -7024,12 +6808,7 @@ Connection ~ 14650 5100
 Wire Wire Line
 	11650 5850 14050 5850
 Connection ~ 11650 5850
-Wire Wire Line
-	15250 5850 15850 5850
 Connection ~ 15250 5850
-Wire Wire Line
-	15850 5850 16450 5850
-Connection ~ 15850 5850
 Wire Wire Line
 	9250 5850 11650 5850
 Connection ~ 9250 5850
@@ -7088,7 +6867,6 @@ Connection ~ 15450 3900
 Wire Wire Line
 	16050 3150 16050 3900
 Connection ~ 16050 3150
-Connection ~ 16050 3900
 Wire Wire Line
 	17250 3150 17250 3900
 Connection ~ 17250 3150
@@ -7106,19 +6884,6 @@ F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
 	1    6550 8950
 	-1   0    0    1   
 $EndComp
-$Comp
-L power:GND #PWR0218
-U 1 1 670BD356
-P 18250 12100
-F 0 "#PWR0218" H 18250 11850 50  0001 C CNN
-F 1 "GND" H 18255 11927 50  0000 C CNN
-F 2 "" H 18250 12100 50  0001 C CNN
-F 3 "" H 18250 12100 50  0001 C CNN
-	1    18250 12100
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	18250 12100 18100 12100
 $Comp
 L kicad-keyboard-parts:SK6812MINI-E D184
 U 1 1 66EAF5FD
@@ -7269,4 +7034,176 @@ Wire Wire Line
 	18850 11050 16600 11050
 Wire Wire Line
 	6250 11050 6250 12100
+Wire Wire Line
+	15250 5850 16450 5850
+Wire Wire Line
+	17500 12100 17350 12100
+$Comp
+L power:GND #PWR0218
+U 1 1 670BD356
+P 17500 12100
+F 0 "#PWR0218" H 17500 11850 50  0001 C CNN
+F 1 "GND" H 17505 11927 50  0000 C CNN
+F 2 "" H 17500 12100 50  0001 C CNN
+F 3 "" H 17500 12100 50  0001 C CNN
+	1    17500 12100
+	1    0    0    -1  
+$EndComp
+$Comp
+L kicad-keyboard-parts:SK6812MINI-E D203
+U 1 1 66F6F669
+P 16300 12100
+F 0 "D203" H 16644 12146 50  0000 L CNN
+F 1 "SK6812MINI-E" H 16644 12055 50  0000 L CNN
+F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 16350 11800 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 16400 11725 50  0001 L TNN
+	1    16300 12100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0233
+U 1 1 66F6F663
+P 16300 12400
+F 0 "#PWR0233" H 16300 12150 50  0001 C CNN
+F 1 "GND" H 16305 12227 50  0000 C CNN
+F 2 "" H 16300 12400 50  0001 C CNN
+F 3 "" H 16300 12400 50  0001 C CNN
+	1    16300 12400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0214
+U 1 1 66F6F65D
+P 16300 11800
+F 0 "#PWR0214" H 16300 11650 50  0001 C CNN
+F 1 "+5V" H 16315 11973 50  0000 C CNN
+F 2 "" H 16300 11800 50  0001 C CNN
+F 3 "" H 16300 11800 50  0001 C CNN
+	1    16300 11800
+	1    0    0    -1  
+$EndComp
+$Comp
+L kicad-keyboard-parts:SK6812MINI-E D204
+U 1 1 66F6F657
+P 17050 12100
+F 0 "D204" H 17394 12146 50  0000 L CNN
+F 1 "SK6812MINI-E" H 17394 12055 50  0000 L CNN
+F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 17100 11800 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 17150 11725 50  0001 L TNN
+	1    17050 12100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	16600 12100 16750 12100
+$Comp
+L power:GND #PWR0234
+U 1 1 66F6F650
+P 17050 12400
+F 0 "#PWR0234" H 17050 12150 50  0001 C CNN
+F 1 "GND" H 17055 12227 50  0000 C CNN
+F 2 "" H 17050 12400 50  0001 C CNN
+F 3 "" H 17050 12400 50  0001 C CNN
+	1    17050 12400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0215
+U 1 1 66F6F64A
+P 17050 11800
+F 0 "#PWR0215" H 17050 11650 50  0001 C CNN
+F 1 "+5V" H 17065 11973 50  0000 C CNN
+F 2 "" H 17050 11800 50  0001 C CNN
+F 3 "" H 17050 11800 50  0001 C CNN
+	1    17050 11800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	15850 12100 16000 12100
+$Comp
+L power:+5V #PWR0213
+U 1 1 66F6F643
+P 15550 11800
+F 0 "#PWR0213" H 15550 11650 50  0001 C CNN
+F 1 "+5V" H 15565 11973 50  0000 C CNN
+F 2 "" H 15550 11800 50  0001 C CNN
+F 3 "" H 15550 11800 50  0001 C CNN
+	1    15550 11800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0232
+U 1 1 66F6F63D
+P 15550 12400
+F 0 "#PWR0232" H 15550 12150 50  0001 C CNN
+F 1 "GND" H 15555 12227 50  0000 C CNN
+F 2 "" H 15550 12400 50  0001 C CNN
+F 3 "" H 15550 12400 50  0001 C CNN
+	1    15550 12400
+	1    0    0    -1  
+$EndComp
+$Comp
+L kicad-keyboard-parts:SK6812MINI-E D202
+U 1 1 66F6F636
+P 15550 12100
+F 0 "D202" H 15894 12146 50  0000 L CNN
+F 1 "SK6812MINI-E" H 15894 12055 50  0000 L CNN
+F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 15600 11800 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 15650 11725 50  0001 L TNN
+	1    15550 12100
+	1    0    0    -1  
+$EndComp
+Text GLabel 2200 5050 0    50   Input ~ 0
+Col17
+Text GLabel 2200 5150 0    50   Input ~ 0
+Col18
+Text GLabel 3400 4450 2    50   Input ~ 0
+Col16
+Text GLabel 3400 4350 2    50   Input ~ 0
+Col15
+Text GLabel 3400 4250 2    50   Input ~ 0
+Col14
+Text GLabel 3400 4150 2    50   Input ~ 0
+Col13
+Text GLabel 3400 4050 2    50   Input ~ 0
+Col12
+Text GLabel 3400 3950 2    50   Input ~ 0
+Col11
+Text GLabel 3400 3850 2    50   Input ~ 0
+Col10
+Text GLabel 3400 3750 2    50   Input ~ 0
+Col9
+Text GLabel 3400 3550 2    50   Input ~ 0
+Col8
+Text GLabel 3400 3450 2    50   Input ~ 0
+Col7
+Text GLabel 3400 3350 2    50   Input ~ 0
+Col6
+Text GLabel 3400 3250 2    50   Input ~ 0
+Col5
+Text GLabel 3400 3150 2    50   Input ~ 0
+Col4
+Text GLabel 3400 3050 2    50   Input ~ 0
+Col3
+Text GLabel 3400 2950 2    50   Input ~ 0
+Col2
+Text GLabel 3400 2850 2    50   Input ~ 0
+Col1
+Text GLabel 3400 4850 2    50   Input ~ 0
+Row1
+Text GLabel 3400 4950 2    50   Input ~ 0
+Row2
+Text GLabel 3400 5050 2    50   Input ~ 0
+Row3
+Text GLabel 3400 5150 2    50   Input ~ 0
+Row4
+Text GLabel 3400 5250 2    50   Input ~ 0
+Row5
+Text GLabel 3400 5350 2    50   Input ~ 0
+Row6
+Text GLabel 3400 4650 2    50   Input ~ 0
+MOSI
+Text GLabel 3400 4750 2    50   Input ~ 0
+MISO
+Text GLabel 3400 5550 2    50   Input ~ 0
+LED
 $EndSCHEMATC
